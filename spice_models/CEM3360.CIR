@@ -1,0 +1,64 @@
+CEM3360 (PSpice format)
+**************************************
+**  This file was created by TINA   **
+**         www.tina.com             ** 
+**      (c) DesignSoft, Inc.        **          
+**     www.designsoftware.com       **
+**************************************
+.LIB "C:\ZZZ Old C Drive\Program Files\DesignSoft\Tina 9 - TI\EXAMPLES\SPICE\TSPICE.LIB"
+.LIB "C:\ZZZ Old C Drive\Program Files\DesignSoft\Tina 9 - TI\SPICELIB\Operational Amplifiers.LIB"
+.LIB
+.TEMP 27
+.AC DEC 20 10 1MEG
+.TRAN 2N 1U
+
+.OPTIONS ITL1=1000 ITL2=40 ITL4=20 
+
+XU4         1 2 3 Vref 5 6 7 Vcc Vee 10 11 12 13 14 CEM3360_0
+
+
+.SUBCKT CEM3360_0 Iin2 Iout2 Gnd Vref Vc2 Vo2 Ve2 Vcc Vee Iin1 Iout1 Vc1 Vo1 Ve1
+VLimNeg     Lim- Vee 2.1
+VLimPos     Vcc Lim+ 2.1
+IS1         Vcc Vee 6M
+VS3         20 0 10M
+VS1         Vref 0 1.8
+VS2         25 0 10M
+D8          Iout2 Lim+  D_1N4148_1 
+D7          Lim- Iout2  D_1N4148_1 
+D6          Iout1 Lim+  D_1N4148_1 
+D5          Lim- Iout1  D_1N4148_1 
+ELog2       Vo2 0 VALUE = {V(Vref,0)+0.0035+LOG10(MAX(5E-6,V(Vc2,0)))/16.667}
+DZ2         17 0  D_BZX79C8V2_1 
+R6          18 17 500 
+D4          0 19  D_1N4148_1 
+D3          19 0  D_1N4148_1 
+GVCCS2      0 Iout2 Ve2 Vref  1U
+R2          21 19 20K 
+VCCVS2_in   Iin2 20
+HCCVS2      21 0 VCCVS2_in   -1K
+Ggm2        Iout2 0 VALUE = {(V(19,0)/1000)*10^(16.667*((V(17,0)/22)-20E-3))}
+R1          Iout2 0 5MEG 
+EVCVS2      18 0 Ve2 Vref  22
+ELog1       Vo1 0 VALUE = {V(Vref,0)+0.0035+LOG10(MAX(5E-6,V(Vc1,0)))/16.667}
+DZ1         22 0  D_BZX79C8V2_1 
+R5          23 22 500 
+D2          0 24  D_1N4148_1 
+D1          24 0  D_1N4148_1 
+GVCCS1      0 Iout1 Ve1 Vref  1U
+R4          26 24 20K 
+VCCVS1_in   Iin1 25
+HCCVS1      26 0 VCCVS1_in   -1K
+Ggm1        Iout1 0 VALUE = {(V(24,0)/1000)*10^(16.667*((V(22,0)/22)-20E-3))}
+R3          Iout1 0 5MEG 
+EVCVS1      23 0 Ve1 Vref  22
+.MODEL D_1N4148_1 D( IS=1N N=1.7 BV=75 IBV=5U RS=2M 
++      CJO=4P VJ=750M M=330M FC=500M TT=25.9N 
++      EG=1.11 XTI=3 KF=0 AF=1 )
+.MODEL D_BZX79C8V2_1 D( IS=15.02N N=2.22 BV=8.2 IBV=5M RS=169M 
++      CJO=4P VJ=750M M=330M FC=500M TT=100N 
++      EG=1.11 XTI=3 KF=0 AF=1 )
+.ENDS
+
+
+.END
