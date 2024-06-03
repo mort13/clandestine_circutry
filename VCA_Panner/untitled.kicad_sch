@@ -2900,6 +2900,12 @@
 			(uuid "9da934b7-d704-48d2-909b-7f1430292df0")
 		)
 		(instances
+			(project "VCA_Panner"
+				(path "/416439c0-fe9f-449c-a999-c0ea4c6cd459/a04dbddc-53b8-4383-9885-b6c4fff3c880"
+					(reference "U1")
+					(unit 1)
+				)
+			)
 			(project "untitled"
 				(path "/857ae3a4-c6bf-4fa1-a753-0c301d3ce421"
 					(reference "U1")
@@ -2998,37 +3004,37 @@
 			)
 		)
 		(pin "7"
-			(uuid "ca55e9ec-2c7f-43e4-9402-3c0f1ded1f6c")
+			(uuid "ca55e9ec-2c7f-43e4-9402-3c0f1ded1f6d")
 		)
 		(pin "1"
 			(uuid "41412353-d098-4d4a-8d9e-1fef3d7bce03")
 		)
 		(pin "8"
-			(uuid "249cb84e-6fad-4660-8c89-1126c4957e02")
+			(uuid "249cb84e-6fad-4660-8c89-1126c4957e03")
 		)
 		(pin "4"
-			(uuid "d3600662-3ea1-493e-977c-697f08a01e6b")
+			(uuid "d3600662-3ea1-493e-977c-697f08a01e6c")
 		)
 		(pin "12"
-			(uuid "2647ae46-d6be-4621-8b16-d8d2e80d413a")
+			(uuid "2647ae46-d6be-4621-8b16-d8d2e80d413b")
 		)
 		(pin "14"
-			(uuid "1504720e-fe7d-4ded-8abf-e8667d4f9bda")
+			(uuid "1504720e-fe7d-4ded-8abf-e8667d4f9bdb")
 		)
 		(pin "10"
-			(uuid "36ed6230-44d9-401d-b093-4cdd7fbd04f0")
+			(uuid "36ed6230-44d9-401d-b093-4cdd7fbd04f1")
 		)
 		(pin "9"
-			(uuid "04b02844-8191-40b9-bbc4-45dbd8ce8b44")
+			(uuid "04b02844-8191-40b9-bbc4-45dbd8ce8b45")
 		)
 		(pin "11"
-			(uuid "33b36b72-55f0-4b6c-9caa-ccb39308a11a")
+			(uuid "33b36b72-55f0-4b6c-9caa-ccb39308a11b")
 		)
 		(pin "13"
-			(uuid "9ab4b80a-b231-420a-9c26-85ac01e0e11f")
+			(uuid "9ab4b80a-b231-420a-9c26-85ac01e0e120")
 		)
 		(pin "5"
-			(uuid "2500c207-246d-413c-a971-be046f5808a0")
+			(uuid "2500c207-246d-413c-a971-be046f5808a1")
 		)
 		(pin "3"
 			(uuid "f5c4525e-dd71-47b8-8129-15148b78abae")
@@ -3037,9 +3043,15 @@
 			(uuid "8a150b84-a5e5-42d6-9d8b-f430447fe65d")
 		)
 		(pin "6"
-			(uuid "9da934b7-d704-48d2-909b-7f1430292df0")
+			(uuid "9da934b7-d704-48d2-909b-7f1430292df1")
 		)
 		(instances
+			(project "VCA_Panner"
+				(path "/416439c0-fe9f-449c-a999-c0ea4c6cd459/a04dbddc-53b8-4383-9885-b6c4fff3c880"
+					(reference "U2")
+					(unit 1)
+				)
+			)
 			(project "untitled"
 				(path "/857ae3a4-c6bf-4fa1-a753-0c301d3ce421"
 					(reference "U2")
@@ -3106,6 +3118,12 @@
 			(uuid "ebcd06dc-b483-4ede-8d24-e41d056fa9a5")
 		)
 		(instances
+			(project "VCA_Panner"
+				(path "/416439c0-fe9f-449c-a999-c0ea4c6cd459/a04dbddc-53b8-4383-9885-b6c4fff3c880"
+					(reference "#PWR02")
+					(unit 1)
+				)
+			)
 			(project "untitled"
 				(path "/857ae3a4-c6bf-4fa1-a753-0c301d3ce421"
 					(reference "#PWR02")
@@ -3171,6 +3189,12 @@
 			(uuid "8133c848-b7b7-445b-958c-e582d46dcee9")
 		)
 		(instances
+			(project "VCA_Panner"
+				(path "/416439c0-fe9f-449c-a999-c0ea4c6cd459/a04dbddc-53b8-4383-9885-b6c4fff3c880"
+					(reference "#PWR04")
+					(unit 1)
+				)
+			)
 			(project "untitled"
 				(path "/857ae3a4-c6bf-4fa1-a753-0c301d3ce421"
 					(reference "#PWR04")
@@ -3240,6 +3264,12 @@
 			(uuid "9ab76980-a216-45c8-bdf5-9604b4a4f6c2")
 		)
 		(instances
+			(project "VCA_Panner"
+				(path "/416439c0-fe9f-449c-a999-c0ea4c6cd459/a04dbddc-53b8-4383-9885-b6c4fff3c880"
+					(reference "R4")
+					(unit 1)
+				)
+			)
 			(project "untitled"
 				(path "/857ae3a4-c6bf-4fa1-a753-0c301d3ce421"
 					(reference "R4")
@@ -3309,6 +3339,12 @@
 			(uuid "74693499-9f8b-40bd-8673-7252bf0cad56")
 		)
 		(instances
+			(project "VCA_Panner"
+				(path "/416439c0-fe9f-449c-a999-c0ea4c6cd459/a04dbddc-53b8-4383-9885-b6c4fff3c880"
+					(reference "R12")
+					(unit 1)
+				)
+			)
 			(project "untitled"
 				(path "/857ae3a4-c6bf-4fa1-a753-0c301d3ce421"
 					(reference "R12")
@@ -3375,6 +3411,12 @@
 			(uuid "affa0d6d-2e47-4adb-b1ce-6fe85c9bbe69")
 		)
 		(instances
+			(project "VCA_Panner"
+				(path "/416439c0-fe9f-449c-a999-c0ea4c6cd459/a04dbddc-53b8-4383-9885-b6c4fff3c880"
+					(reference "#PWR01")
+					(unit 1)
+				)
+			)
 			(project "untitled"
 				(path "/857ae3a4-c6bf-4fa1-a753-0c301d3ce421"
 					(reference "#PWR01")
@@ -3444,6 +3486,12 @@
 			(uuid "90caba43-3a39-4802-9e0d-59d944545a0c")
 		)
 		(instances
+			(project "VCA_Panner"
+				(path "/416439c0-fe9f-449c-a999-c0ea4c6cd459/a04dbddc-53b8-4383-9885-b6c4fff3c880"
+					(reference "R3")
+					(unit 1)
+				)
+			)
 			(project "untitled"
 				(path "/857ae3a4-c6bf-4fa1-a753-0c301d3ce421"
 					(reference "R3")
@@ -3512,6 +3560,12 @@
 			(uuid "0879a195-5262-466b-a2be-0149d82983cb")
 		)
 		(instances
+			(project "VCA_Panner"
+				(path "/416439c0-fe9f-449c-a999-c0ea4c6cd459/a04dbddc-53b8-4383-9885-b6c4fff3c880"
+					(reference "R28")
+					(unit 1)
+				)
+			)
 			(project "untitled"
 				(path "/857ae3a4-c6bf-4fa1-a753-0c301d3ce421"
 					(reference "R28")
@@ -3580,6 +3634,12 @@
 			(uuid "7b74cca7-ec35-4c27-9ab3-986b631c3987")
 		)
 		(instances
+			(project "VCA_Panner"
+				(path "/416439c0-fe9f-449c-a999-c0ea4c6cd459/a04dbddc-53b8-4383-9885-b6c4fff3c880"
+					(reference "R17")
+					(unit 1)
+				)
+			)
 			(project "untitled"
 				(path "/857ae3a4-c6bf-4fa1-a753-0c301d3ce421"
 					(reference "R17")
@@ -3900,6 +3960,12 @@
 			(uuid "1a69791e-532e-4284-a6c2-7fd76b34df0c")
 		)
 		(instances
+			(project "VCA_Panner"
+				(path "/416439c0-fe9f-449c-a999-c0ea4c6cd459/a04dbddc-53b8-4383-9885-b6c4fff3c880"
+					(reference "R7")
+					(unit 1)
+				)
+			)
 			(project "untitled"
 				(path "/857ae3a4-c6bf-4fa1-a753-0c301d3ce421"
 					(reference "R7")
@@ -3967,6 +4033,12 @@
 			(uuid "20fd75b6-3ac1-4c20-840d-b8c3d1ab8414")
 		)
 		(instances
+			(project "VCA_Panner"
+				(path "/416439c0-fe9f-449c-a999-c0ea4c6cd459/a04dbddc-53b8-4383-9885-b6c4fff3c880"
+					(reference "C3")
+					(unit 1)
+				)
+			)
 			(project "untitled"
 				(path "/857ae3a4-c6bf-4fa1-a753-0c301d3ce421"
 					(reference "C3")
@@ -4035,6 +4107,12 @@
 			(uuid "21b85e8d-8991-45ca-83dc-10550560f8c9")
 		)
 		(instances
+			(project "VCA_Panner"
+				(path "/416439c0-fe9f-449c-a999-c0ea4c6cd459/a04dbddc-53b8-4383-9885-b6c4fff3c880"
+					(reference "R13")
+					(unit 1)
+				)
+			)
 			(project "untitled"
 				(path "/857ae3a4-c6bf-4fa1-a753-0c301d3ce421"
 					(reference "R13")
@@ -4176,6 +4254,12 @@
 			(uuid "ed438fdb-1e47-4498-a58b-a4c80cc3cc45")
 		)
 		(instances
+			(project "VCA_Panner"
+				(path "/416439c0-fe9f-449c-a999-c0ea4c6cd459/a04dbddc-53b8-4383-9885-b6c4fff3c880"
+					(reference "#PWR06")
+					(unit 1)
+				)
+			)
 			(project "untitled"
 				(path "/857ae3a4-c6bf-4fa1-a753-0c301d3ce421"
 					(reference "#PWR06")
@@ -4241,6 +4325,12 @@
 			(uuid "ac5ea4a5-af9a-4885-991c-f5a2fae9dea6")
 		)
 		(instances
+			(project "VCA_Panner"
+				(path "/416439c0-fe9f-449c-a999-c0ea4c6cd459/a04dbddc-53b8-4383-9885-b6c4fff3c880"
+					(reference "#PWR015")
+					(unit 1)
+				)
+			)
 			(project "untitled"
 				(path "/857ae3a4-c6bf-4fa1-a753-0c301d3ce421"
 					(reference "#PWR015")
@@ -4446,6 +4536,12 @@
 			(uuid "f866e1b8-0660-47ca-97dc-0899ca94e965")
 		)
 		(instances
+			(project "VCA_Panner"
+				(path "/416439c0-fe9f-449c-a999-c0ea4c6cd459/a04dbddc-53b8-4383-9885-b6c4fff3c880"
+					(reference "#PWR07")
+					(unit 1)
+				)
+			)
 			(project "untitled"
 				(path "/857ae3a4-c6bf-4fa1-a753-0c301d3ce421"
 					(reference "#PWR07")
@@ -4511,6 +4607,12 @@
 			(uuid "01d3ced9-8325-48fe-88d4-b9df008cf06f")
 		)
 		(instances
+			(project "VCA_Panner"
+				(path "/416439c0-fe9f-449c-a999-c0ea4c6cd459/a04dbddc-53b8-4383-9885-b6c4fff3c880"
+					(reference "#PWR013")
+					(unit 1)
+				)
+			)
 			(project "untitled"
 				(path "/857ae3a4-c6bf-4fa1-a753-0c301d3ce421"
 					(reference "#PWR013")
@@ -4578,6 +4680,12 @@
 			(uuid "c468c4af-d706-4c77-89a1-ef08b4658129")
 		)
 		(instances
+			(project "VCA_Panner"
+				(path "/416439c0-fe9f-449c-a999-c0ea4c6cd459/a04dbddc-53b8-4383-9885-b6c4fff3c880"
+					(reference "C1")
+					(unit 1)
+				)
+			)
 			(project "untitled"
 				(path "/857ae3a4-c6bf-4fa1-a753-0c301d3ce421"
 					(reference "C1")
@@ -4644,6 +4752,12 @@
 			(uuid "65f58ae8-ea67-4a92-82aa-4e98b92f9009")
 		)
 		(instances
+			(project "VCA_Panner"
+				(path "/416439c0-fe9f-449c-a999-c0ea4c6cd459/a04dbddc-53b8-4383-9885-b6c4fff3c880"
+					(reference "#PWR08")
+					(unit 1)
+				)
+			)
 			(project "untitled"
 				(path "/857ae3a4-c6bf-4fa1-a753-0c301d3ce421"
 					(reference "#PWR08")
@@ -4779,6 +4893,12 @@
 			(uuid "607ff8c2-4340-44dc-9c60-c56c2bf7af9f")
 		)
 		(instances
+			(project "VCA_Panner"
+				(path "/416439c0-fe9f-449c-a999-c0ea4c6cd459/a04dbddc-53b8-4383-9885-b6c4fff3c880"
+					(reference "R9")
+					(unit 1)
+				)
+			)
 			(project "untitled"
 				(path "/857ae3a4-c6bf-4fa1-a753-0c301d3ce421"
 					(reference "R9")
@@ -4847,6 +4967,12 @@
 			(uuid "a89a3ebf-463c-43b8-b6e6-4bbf4c7167c5")
 		)
 		(instances
+			(project "VCA_Panner"
+				(path "/416439c0-fe9f-449c-a999-c0ea4c6cd459/a04dbddc-53b8-4383-9885-b6c4fff3c880"
+					(reference "R5")
+					(unit 1)
+				)
+			)
 			(project "untitled"
 				(path "/857ae3a4-c6bf-4fa1-a753-0c301d3ce421"
 					(reference "R5")
@@ -4912,6 +5038,12 @@
 			(uuid "fc259ff8-2bf3-456a-a69c-cbdcea9dfcfc")
 		)
 		(instances
+			(project "VCA_Panner"
+				(path "/416439c0-fe9f-449c-a999-c0ea4c6cd459/a04dbddc-53b8-4383-9885-b6c4fff3c880"
+					(reference "#PWR011")
+					(unit 1)
+				)
+			)
 			(project "untitled"
 				(path "/857ae3a4-c6bf-4fa1-a753-0c301d3ce421"
 					(reference "#PWR011")
@@ -4980,6 +5112,12 @@
 			(uuid "c0ade374-dd27-46a9-8ad1-149bc8d0f43f")
 		)
 		(instances
+			(project "VCA_Panner"
+				(path "/416439c0-fe9f-449c-a999-c0ea4c6cd459/a04dbddc-53b8-4383-9885-b6c4fff3c880"
+					(reference "R14")
+					(unit 1)
+				)
+			)
 			(project "untitled"
 				(path "/857ae3a4-c6bf-4fa1-a753-0c301d3ce421"
 					(reference "R14")
@@ -5048,6 +5186,12 @@
 			(uuid "6a694b4d-8a83-4dbe-986a-1979850c8a77")
 		)
 		(instances
+			(project "VCA_Panner"
+				(path "/416439c0-fe9f-449c-a999-c0ea4c6cd459/a04dbddc-53b8-4383-9885-b6c4fff3c880"
+					(reference "R23")
+					(unit 1)
+				)
+			)
 			(project "untitled"
 				(path "/857ae3a4-c6bf-4fa1-a753-0c301d3ce421"
 					(reference "R23")
@@ -5180,6 +5324,12 @@
 			(uuid "20f3b88d-d6ee-4180-b2d1-da76cbae72fc")
 		)
 		(instances
+			(project "VCA_Panner"
+				(path "/416439c0-fe9f-449c-a999-c0ea4c6cd459/a04dbddc-53b8-4383-9885-b6c4fff3c880"
+					(reference "#PWR09")
+					(unit 1)
+				)
+			)
 			(project "untitled"
 				(path "/857ae3a4-c6bf-4fa1-a753-0c301d3ce421"
 					(reference "#PWR09")
@@ -5313,6 +5463,12 @@
 			(uuid "ac5e2e0f-8af7-4f53-bd0d-de775b1a7b8d")
 		)
 		(instances
+			(project "VCA_Panner"
+				(path "/416439c0-fe9f-449c-a999-c0ea4c6cd459/a04dbddc-53b8-4383-9885-b6c4fff3c880"
+					(reference "#PWR012")
+					(unit 1)
+				)
+			)
 			(project "untitled"
 				(path "/857ae3a4-c6bf-4fa1-a753-0c301d3ce421"
 					(reference "#PWR012")
@@ -5456,6 +5612,12 @@
 			(uuid "9da934b7-d704-48d2-909b-7f1430292df2")
 		)
 		(instances
+			(project "VCA_Panner"
+				(path "/416439c0-fe9f-449c-a999-c0ea4c6cd459/a04dbddc-53b8-4383-9885-b6c4fff3c880"
+					(reference "U1")
+					(unit 5)
+				)
+			)
 			(project "untitled"
 				(path "/857ae3a4-c6bf-4fa1-a753-0c301d3ce421"
 					(reference "U1")
@@ -5522,6 +5684,12 @@
 			(uuid "ee3667a5-62f6-4992-a49b-b330a8037540")
 		)
 		(instances
+			(project "VCA_Panner"
+				(path "/416439c0-fe9f-449c-a999-c0ea4c6cd459/a04dbddc-53b8-4383-9885-b6c4fff3c880"
+					(reference "#PWR017")
+					(unit 1)
+				)
+			)
 			(project "untitled"
 				(path "/857ae3a4-c6bf-4fa1-a753-0c301d3ce421"
 					(reference "#PWR017")
@@ -5591,6 +5759,12 @@
 			(uuid "9ec4b3bb-56d7-4da7-a7d0-474294ba9dcf")
 		)
 		(instances
+			(project "VCA_Panner"
+				(path "/416439c0-fe9f-449c-a999-c0ea4c6cd459/a04dbddc-53b8-4383-9885-b6c4fff3c880"
+					(reference "R1")
+					(unit 1)
+				)
+			)
 			(project "untitled"
 				(path "/857ae3a4-c6bf-4fa1-a753-0c301d3ce421"
 					(reference "R1")
@@ -5656,6 +5830,12 @@
 			(uuid "f16f3224-a6b7-4fc9-b723-b3b1cce4b163")
 		)
 		(instances
+			(project "VCA_Panner"
+				(path "/416439c0-fe9f-449c-a999-c0ea4c6cd459/a04dbddc-53b8-4383-9885-b6c4fff3c880"
+					(reference "#PWR014")
+					(unit 1)
+				)
+			)
 			(project "untitled"
 				(path "/857ae3a4-c6bf-4fa1-a753-0c301d3ce421"
 					(reference "#PWR014")
@@ -5721,6 +5901,12 @@
 			(uuid "c4e036b6-ca84-4cfb-9d2b-efc029e2379d")
 		)
 		(instances
+			(project "VCA_Panner"
+				(path "/416439c0-fe9f-449c-a999-c0ea4c6cd459/a04dbddc-53b8-4383-9885-b6c4fff3c880"
+					(reference "#PWR010")
+					(unit 1)
+				)
+			)
 			(project "untitled"
 				(path "/857ae3a4-c6bf-4fa1-a753-0c301d3ce421"
 					(reference "#PWR010")
@@ -5790,6 +5976,12 @@
 			(uuid "83a5adf2-3673-4a4f-9a35-a5672d012393")
 		)
 		(instances
+			(project "VCA_Panner"
+				(path "/416439c0-fe9f-449c-a999-c0ea4c6cd459/a04dbddc-53b8-4383-9885-b6c4fff3c880"
+					(reference "R2")
+					(unit 1)
+				)
+			)
 			(project "untitled"
 				(path "/857ae3a4-c6bf-4fa1-a753-0c301d3ce421"
 					(reference "R2")
@@ -5931,6 +6123,12 @@
 			(uuid "9da934b7-d704-48d2-909b-7f1430292df3")
 		)
 		(instances
+			(project "VCA_Panner"
+				(path "/416439c0-fe9f-449c-a999-c0ea4c6cd459/a04dbddc-53b8-4383-9885-b6c4fff3c880"
+					(reference "U1")
+					(unit 3)
+				)
+			)
 			(project "untitled"
 				(path "/857ae3a4-c6bf-4fa1-a753-0c301d3ce421"
 					(reference "U1")
@@ -6101,6 +6299,12 @@
 			(uuid "2ac05745-f79b-450c-a1a4-858d8280bcfe")
 		)
 		(instances
+			(project "VCA_Panner"
+				(path "/416439c0-fe9f-449c-a999-c0ea4c6cd459/a04dbddc-53b8-4383-9885-b6c4fff3c880"
+					(reference "V3")
+					(unit 1)
+				)
+			)
 			(project "untitled"
 				(path "/857ae3a4-c6bf-4fa1-a753-0c301d3ce421"
 					(reference "V3")
@@ -6169,6 +6373,12 @@
 			(uuid "906a866b-c949-4062-8cc5-d9f21c2ac173")
 		)
 		(instances
+			(project "VCA_Panner"
+				(path "/416439c0-fe9f-449c-a999-c0ea4c6cd459/a04dbddc-53b8-4383-9885-b6c4fff3c880"
+					(reference "R18")
+					(unit 1)
+				)
+			)
 			(project "untitled"
 				(path "/857ae3a4-c6bf-4fa1-a753-0c301d3ce421"
 					(reference "R18")
@@ -6302,6 +6512,12 @@
 			(uuid "4e74c12b-d96f-47f4-a807-55523e04ad56")
 		)
 		(instances
+			(project "VCA_Panner"
+				(path "/416439c0-fe9f-449c-a999-c0ea4c6cd459/a04dbddc-53b8-4383-9885-b6c4fff3c880"
+					(reference "#PWR03")
+					(unit 1)
+				)
+			)
 			(project "untitled"
 				(path "/857ae3a4-c6bf-4fa1-a753-0c301d3ce421"
 					(reference "#PWR03")
@@ -6370,6 +6586,12 @@
 			(uuid "befbb52c-e3d5-43cd-b798-0b2cff1e4f57")
 		)
 		(instances
+			(project "VCA_Panner"
+				(path "/416439c0-fe9f-449c-a999-c0ea4c6cd459/a04dbddc-53b8-4383-9885-b6c4fff3c880"
+					(reference "R15")
+					(unit 1)
+				)
+			)
 			(project "untitled"
 				(path "/857ae3a4-c6bf-4fa1-a753-0c301d3ce421"
 					(reference "R15")
@@ -6651,6 +6873,12 @@
 			(uuid "6cd5a0cc-ff4d-444c-9085-d2b72927d3f2")
 		)
 		(instances
+			(project "VCA_Panner"
+				(path "/416439c0-fe9f-449c-a999-c0ea4c6cd459/a04dbddc-53b8-4383-9885-b6c4fff3c880"
+					(reference "R26")
+					(unit 1)
+				)
+			)
 			(project "untitled"
 				(path "/857ae3a4-c6bf-4fa1-a753-0c301d3ce421"
 					(reference "R26")
@@ -6793,6 +7021,12 @@
 			(uuid "2f843709-7d98-43c9-a51d-b3ec4d909f05")
 		)
 		(instances
+			(project "VCA_Panner"
+				(path "/416439c0-fe9f-449c-a999-c0ea4c6cd459/a04dbddc-53b8-4383-9885-b6c4fff3c880"
+					(reference "R10")
+					(unit 1)
+				)
+			)
 			(project "untitled"
 				(path "/857ae3a4-c6bf-4fa1-a753-0c301d3ce421"
 					(reference "R10")
@@ -6859,6 +7093,12 @@
 			(uuid "e406b9d7-a03d-4708-a649-200465835b04")
 		)
 		(instances
+			(project "VCA_Panner"
+				(path "/416439c0-fe9f-449c-a999-c0ea4c6cd459/a04dbddc-53b8-4383-9885-b6c4fff3c880"
+					(reference "#PWR05")
+					(unit 1)
+				)
+			)
 			(project "untitled"
 				(path "/857ae3a4-c6bf-4fa1-a753-0c301d3ce421"
 					(reference "#PWR05")
@@ -7001,6 +7241,12 @@
 			(uuid "fad226bd-7055-485f-aa53-fd6de76b4000")
 		)
 		(instances
+			(project "VCA_Panner"
+				(path "/416439c0-fe9f-449c-a999-c0ea4c6cd459/a04dbddc-53b8-4383-9885-b6c4fff3c880"
+					(reference "R6")
+					(unit 1)
+				)
+			)
 			(project "untitled"
 				(path "/857ae3a4-c6bf-4fa1-a753-0c301d3ce421"
 					(reference "R6")
@@ -7136,6 +7382,12 @@
 			(uuid "86718ad8-16b8-497d-8344-da428172e8f0")
 		)
 		(instances
+			(project "VCA_Panner"
+				(path "/416439c0-fe9f-449c-a999-c0ea4c6cd459/a04dbddc-53b8-4383-9885-b6c4fff3c880"
+					(reference "R8")
+					(unit 1)
+				)
+			)
 			(project "untitled"
 				(path "/857ae3a4-c6bf-4fa1-a753-0c301d3ce421"
 					(reference "R8")
@@ -7242,6 +7494,12 @@
 			(uuid "dc2b5ef0-296e-48a1-81a3-504f3b25f931")
 		)
 		(instances
+			(project "VCA_Panner"
+				(path "/416439c0-fe9f-449c-a999-c0ea4c6cd459/a04dbddc-53b8-4383-9885-b6c4fff3c880"
+					(reference "V4")
+					(unit 1)
+				)
+			)
 			(project "untitled"
 				(path "/857ae3a4-c6bf-4fa1-a753-0c301d3ce421"
 					(reference "V4")
@@ -7482,6 +7740,12 @@
 			(uuid "47615760-55c3-4773-a2a1-21c6b49f7ed4")
 		)
 		(instances
+			(project "VCA_Panner"
+				(path "/416439c0-fe9f-449c-a999-c0ea4c6cd459/a04dbddc-53b8-4383-9885-b6c4fff3c880"
+					(reference "V2")
+					(unit 1)
+				)
+			)
 			(project "untitled"
 				(path "/857ae3a4-c6bf-4fa1-a753-0c301d3ce421"
 					(reference "V2")
@@ -7836,6 +8100,12 @@
 			(uuid "cbe72aff-910c-4585-a65d-6876f0408781")
 		)
 		(instances
+			(project "VCA_Panner"
+				(path "/416439c0-fe9f-449c-a999-c0ea4c6cd459/a04dbddc-53b8-4383-9885-b6c4fff3c880"
+					(reference "#PWR016")
+					(unit 1)
+				)
+			)
 			(project "untitled"
 				(path "/857ae3a4-c6bf-4fa1-a753-0c301d3ce421"
 					(reference "#PWR016")
@@ -7949,6 +8219,12 @@
 			(uuid "b2f13d76-18a5-4438-ba1a-98a04b5283b8")
 		)
 		(instances
+			(project "VCA_Panner"
+				(path "/416439c0-fe9f-449c-a999-c0ea4c6cd459/a04dbddc-53b8-4383-9885-b6c4fff3c880"
+					(reference "D2")
+					(unit 1)
+				)
+			)
 			(project "untitled"
 				(path "/857ae3a4-c6bf-4fa1-a753-0c301d3ce421"
 					(reference "D2")
@@ -8017,6 +8293,12 @@
 			(uuid "29be1382-9c11-4d1d-9f02-e1fd020dbbf0")
 		)
 		(instances
+			(project "VCA_Panner"
+				(path "/416439c0-fe9f-449c-a999-c0ea4c6cd459/a04dbddc-53b8-4383-9885-b6c4fff3c880"
+					(reference "R16")
+					(unit 1)
+				)
+			)
 			(project "untitled"
 				(path "/857ae3a4-c6bf-4fa1-a753-0c301d3ce421"
 					(reference "R16")
@@ -8206,6 +8488,12 @@
 			(uuid "b5f8f68e-06ed-4f61-863f-730bc4e4dfda")
 		)
 		(instances
+			(project "VCA_Panner"
+				(path "/416439c0-fe9f-449c-a999-c0ea4c6cd459/a04dbddc-53b8-4383-9885-b6c4fff3c880"
+					(reference "D4")
+					(unit 1)
+				)
+			)
 			(project "untitled"
 				(path "/857ae3a4-c6bf-4fa1-a753-0c301d3ce421"
 					(reference "D4")
@@ -8348,6 +8636,12 @@
 			(uuid "8ba4cd61-d099-4299-9984-ec6f3f9aa3ba")
 		)
 		(instances
+			(project "VCA_Panner"
+				(path "/416439c0-fe9f-449c-a999-c0ea4c6cd459/a04dbddc-53b8-4383-9885-b6c4fff3c880"
+					(reference "R11")
+					(unit 1)
+				)
+			)
 			(project "untitled"
 				(path "/857ae3a4-c6bf-4fa1-a753-0c301d3ce421"
 					(reference "R11")
