@@ -4,7 +4,7 @@
     {
       "analysis": "DC",
       "commands": [
-        ".dc V1 -10 10 10m",
+        ".dc V1 -5 5 100m",
         ".kicad adjustpaths",
         ".save all",
         ".probe alli",
@@ -21,12 +21,12 @@
       "showGrid": true,
       "traces": [
         {
-          "color": "rgb(55, 126, 184)",
+          "color": "rgb(228, 26, 28)",
           "signal": "V(out1)",
           "trace_type": 2049
         },
         {
-          "color": "rgb(228, 26, 28)",
+          "color": "rgb(55, 126, 184)",
           "signal": "V(out2)",
           "trace_type": 2049
         }
