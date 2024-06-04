@@ -24,11 +24,6 @@
           "color": "rgb(228, 26, 28)",
           "signal": "V(out1)",
           "trace_type": 2049
-        },
-        {
-          "color": "rgb(55, 126, 184)",
-          "signal": "V(out2)",
-          "trace_type": 2049
         }
       ]
     }
