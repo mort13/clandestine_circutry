@@ -11885,6 +11885,17 @@
 		(layer "Margin")
 		(uuid "f2b5e6e9-1e01-4215-b8db-4f60e85c2f3e")
 	)
+	(gr_circle
+		(center 176 80)
+		(end 166 80)
+		(stroke
+			(width 0.1)
+			(type default)
+		)
+		(fill none)
+		(layer "User.4")
+		(uuid "42a6e404-763b-4b30-a42e-fbd0592c2cbb")
+	)
 	(gr_text "Clandestine Circutry"
 		(at 140.906281 95.174599 90)
 		(layer "B.SilkS")
