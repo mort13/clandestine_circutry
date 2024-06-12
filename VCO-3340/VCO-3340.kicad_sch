@@ -4,6 +4,12 @@
 	(generator_version "8.0")
 	(uuid "83927a7b-f31e-475f-ac55-cd2bf2a0e341")
 	(paper "A4")
+	(title_block
+		(title "3340 VCO")
+		(date "2024-06-12")
+		(rev "2")
+		(company "Clandestine Circutry")
+	)
 	(lib_symbols
 		(symbol "Amplifier_Operational:TL074"
 			(pin_names
@@ -2852,7 +2858,7 @@
 				)
 			)
 		)
-		(symbol "Regulator_Linear:LM337L_TO92"
+		(symbol "Regulator_Linear:LM337L_SO8"
 			(pin_names
 				(offset 0.254)
 			)
@@ -2867,7 +2873,7 @@
 					)
 				)
 			)
-			(property "Value" "LM337L_TO92"
+			(property "Value" "LM337L_SO8"
 				(at 0 -3.175 0)
 				(effects
 					(font
@@ -2876,7 +2882,7 @@
 					(justify left)
 				)
 			)
-			(property "Footprint" "Package_TO_SOT_THT:TO-92_Inline"
+			(property "Footprint" "Package_SO:SOIC-8_3.9x4.9mm_P1.27mm"
 				(at 0 -5.08 0)
 				(effects
 					(font
@@ -2895,7 +2901,7 @@
 					(hide yes)
 				)
 			)
-			(property "Description" "Negative 100mA 35V Adjustable Linear Regulator, TO-92"
+			(property "Description" "100mA 35V Adjustable Negative Linear Regulator, SO-8"
 				(at 0 0 0)
 				(effects
 					(font
@@ -2904,7 +2910,7 @@
 					(hide yes)
 				)
 			)
-			(property "ki_keywords" "Adjustable Voltage Regulator 100mA Negative"
+			(property "ki_keywords" "Adjustable Negative Voltage Regulator 100mA"
 				(at 0 0 0)
 				(effects
 					(font
@@ -2913,7 +2919,7 @@
 					(hide yes)
 				)
 			)
-			(property "ki_fp_filters" "TO?92*"
+			(property "ki_fp_filters" "SOIC*3.9x4.9mm*P1.27mm*"
 				(at 0 0 0)
 				(effects
 					(font
@@ -2922,7 +2928,7 @@
 					(hide yes)
 				)
 			)
-			(symbol "LM337L_TO92_0_1"
+			(symbol "LM337L_SO8_0_1"
 				(rectangle
 					(start -5.08 5.08)
 					(end 5.08 -1.905)
@@ -2935,25 +2941,7 @@
 					)
 				)
 			)
-			(symbol "LM337L_TO92_1_1"
-				(pin input line
-					(at 0 7.62 270)
-					(length 2.54)
-					(name "ADJ"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "1"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
+			(symbol "LM337L_SO8_1_1"
 				(pin power_out line
 					(at 7.62 0 180)
 					(length 2.54)
@@ -2964,7 +2952,7 @@
 							)
 						)
 					)
-					(number "2"
+					(number "1"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -2982,7 +2970,115 @@
 							)
 						)
 					)
+					(number "2"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at -7.62 0 0)
+					(length 2.54) hide
+					(name "VI"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
 					(number "3"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin input line
+					(at 0 7.62 270)
+					(length 2.54)
+					(name "ADJ"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "4"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin no_connect line
+					(at -5.08 2.54 0)
+					(length 2.54) hide
+					(name "NC"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "5"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at -7.62 0 0)
+					(length 2.54) hide
+					(name "VI"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "6"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at -7.62 0 0)
+					(length 2.54) hide
+					(name "VI"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "7"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin no_connect line
+					(at 5.08 2.54 180)
+					(length 2.54) hide
+					(name "NC"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "8"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -8023,78 +8119,6 @@
 		)
 	)
 	(symbol
-		(lib_id "Regulator_Linear:LM337L_TO92")
-		(at 41.91 171.45 0)
-		(mirror x)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "0e99baba-bb08-40c1-ae0b-0448b8fe9601")
-		(property "Reference" "U2"
-			(at 41.91 165.1 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "LM337L_TO92"
-			(at 41.91 167.64 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" "Package_SO:SO-8_3.9x4.9mm_P1.27mm"
-			(at 41.91 166.37 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(italic yes)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "http://www.ti.com/lit/ds/symlink/lm337l.pdf"
-			(at 41.91 171.45 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Negative 100mA 35V Adjustable Linear Regulator, TO-92"
-			(at 41.91 171.45 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "a288ea88-62bb-4bbc-b248-9d89d1a8c866")
-		)
-		(pin "3"
-			(uuid "bc4e8b2d-b41a-4a56-ad47-f54023d3b3af")
-		)
-		(pin "2"
-			(uuid "553788f9-8844-4162-a5d6-ed86c449c0c7")
-		)
-		(instances
-			(project "VCO-3340"
-				(path "/83927a7b-f31e-475f-ac55-cd2bf2a0e341"
-					(reference "U2")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "Connector_Audio:AudioJack2_SwitchT")
 		(at 24.13 102.87 0)
 		(mirror x)
@@ -11075,7 +11099,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Diode_SMD:D_SOD-323F"
+		(property "Footprint" "Diode_THT:D_DO-41_SOD81_P2.54mm_Vertical_AnodeUp"
 			(at 116.84 140.335 0)
 			(effects
 				(font
@@ -15376,6 +15400,94 @@
 		)
 	)
 	(symbol
+		(lib_id "Regulator_Linear:LM337L_SO8")
+		(at 41.91 171.45 0)
+		(mirror x)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "b0acf9a0-fdf3-4011-87ac-089f51f31976")
+		(property "Reference" "U2"
+			(at 41.91 165.1 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "LM337L_SO8"
+			(at 41.91 167.64 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "Package_SO:SOIC-8_3.9x4.9mm_P1.27mm"
+			(at 41.91 166.37 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(italic yes)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "http://www.ti.com/lit/ds/symlink/lm337l.pdf"
+			(at 41.91 171.45 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "100mA 35V Adjustable Negative Linear Regulator, SO-8"
+			(at 41.91 171.45 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "9ccbe850-a99d-4dad-a6cf-1408b4a6f535")
+		)
+		(pin "7"
+			(uuid "0acb9e29-c844-4d26-8ec1-dcaf3b34a663")
+		)
+		(pin "2"
+			(uuid "b2a9f19e-1930-48b3-9b8b-2a79ed0fbd86")
+		)
+		(pin "6"
+			(uuid "5bce86de-a4e2-4320-ba13-1a44ec590df1")
+		)
+		(pin "4"
+			(uuid "c5883672-b28e-4171-aef9-dcbceac402b4")
+		)
+		(pin "3"
+			(uuid "c810cc8d-2a2e-4377-bcab-1f9bbb2bffd4")
+		)
+		(pin "5"
+			(uuid "b88462c1-b297-4c75-a315-971bc1d86691")
+		)
+		(pin "8"
+			(uuid "4ce680ae-f1d2-424c-a59b-e1dcefb659ca")
+		)
+		(instances
+			(project "VCO-3340"
+				(path "/83927a7b-f31e-475f-ac55-cd2bf2a0e341"
+					(reference "U2")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "power:+5V")
 		(at 114.3 172.72 0)
 		(unit 1)
@@ -16000,7 +16112,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder"
+		(property "Footprint" "Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P1.90mm_Vertical"
 			(at 124.46 156.718 90)
 			(effects
 				(font
@@ -16203,7 +16315,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder"
+		(property "Footprint" "Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P1.90mm_Vertical"
 			(at 124.46 143.002 90)
 			(effects
 				(font
@@ -17105,7 +17217,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Diode_SMD:D_SOD-323F"
+		(property "Footprint" "Diode_THT:D_DO-41_SOD81_P2.54mm_Vertical_AnodeUp"
 			(at 116.84 159.385 0)
 			(effects
 				(font
@@ -17440,7 +17552,7 @@
 	)
 	(symbol
 		(lib_id "Device:C_Polarized")
-		(at 74.93 177.8 0)
+		(at 74.93 177.8 180)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -17449,25 +17561,25 @@
 		(fields_autoplaced yes)
 		(uuid "e0d7a163-2a8a-4410-a185-ccaa0bec71fb")
 		(property "Reference" "C12"
-			(at 78.74 175.6409 0)
+			(at 78.74 177.4189 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify left)
+				(justify right)
 			)
 		)
 		(property "Value" "10uF/25V"
-			(at 78.74 178.1809 0)
+			(at 78.74 179.9589 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify left)
+				(justify right)
 			)
 		)
 		(property "Footprint" "Capacitor_THT:CP_Radial_D4.0mm_P2.00mm"
-			(at 75.8952 181.61 0)
+			(at 73.9648 173.99 0)
 			(effects
 				(font
 					(size 1.27 1.27)
