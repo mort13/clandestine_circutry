@@ -3249,12 +3249,6 @@
 		(uuid "0a2b1182-9776-4b68-8f8d-d6dc8418cc85")
 	)
 	(junction
-		(at 243.84 106.68)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "0ae6d2e6-b7c3-4a30-85a6-0f4becfcff63")
-	)
-	(junction
 		(at 212.09 154.94)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -3397,12 +3391,6 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "5740e46a-e198-4897-b3db-d1962e953ae1")
-	)
-	(junction
-		(at 243.84 63.5)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "57773e8b-9417-4071-8707-debbdbfc050a")
 	)
 	(junction
 		(at 134.62 33.02)
@@ -3758,16 +3746,6 @@
 	)
 	(wire
 		(pts
-			(xy 232.41 63.5) (xy 228.6 63.5)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "157aa6df-a914-4c65-bc56-75f5d2bcfffb")
-	)
-	(wire
-		(pts
 			(xy 121.92 137.16) (xy 121.92 138.43)
 		)
 		(stroke
@@ -4058,7 +4036,7 @@
 	)
 	(wire
 		(pts
-			(xy 243.84 63.5) (xy 243.84 67.31)
+			(xy 243.84 53.34) (xy 243.84 67.31)
 		)
 		(stroke
 			(width 0)
@@ -4165,16 +4143,6 @@
 			(type default)
 		)
 		(uuid "42949eb8-2fff-4b8d-831b-9e8cb7ae6787")
-	)
-	(wire
-		(pts
-			(xy 243.84 106.68) (xy 243.84 110.49)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "42a3738a-9bed-4d79-8251-e6d0c5c3e996")
 	)
 	(wire
 		(pts
@@ -4345,16 +4313,6 @@
 			(type default)
 		)
 		(uuid "5aedb07e-6d1d-43e3-9484-51d340138b2a")
-	)
-	(wire
-		(pts
-			(xy 232.41 106.68) (xy 228.6 106.68)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "5b93aa45-d5b3-4f02-b600-4d9ab85a6ada")
 	)
 	(wire
 		(pts
@@ -4728,16 +4686,6 @@
 	)
 	(wire
 		(pts
-			(xy 240.03 63.5) (xy 243.84 63.5)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "91fcf45a-28cc-47f5-bd74-c73131901da2")
-	)
-	(wire
-		(pts
 			(xy 193.04 73.66) (xy 196.85 73.66)
 		)
 		(stroke
@@ -4978,7 +4926,7 @@
 	)
 	(wire
 		(pts
-			(xy 243.84 96.52) (xy 243.84 106.68)
+			(xy 243.84 96.52) (xy 243.84 110.49)
 		)
 		(stroke
 			(width 0)
@@ -5025,16 +4973,6 @@
 			(type default)
 		)
 		(uuid "baf57097-b6f8-49fc-9917-16a112dacd91")
-	)
-	(wire
-		(pts
-			(xy 240.03 106.68) (xy 243.84 106.68)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "be0df835-1c8f-45af-a285-8bdce785b195")
 	)
 	(wire
 		(pts
@@ -5135,16 +5073,6 @@
 			(type default)
 		)
 		(uuid "c856a589-9538-42c3-9d41-ca2f02c6ffb2")
-	)
-	(wire
-		(pts
-			(xy 243.84 53.34) (xy 243.84 63.5)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "c9535d92-1268-431e-adca-3ad1ea2c56b3")
 	)
 	(wire
 		(pts
@@ -5470,7 +5398,7 @@
 			)
 		)
 	)
-	(global_label "audio_from_ch1"
+	(global_label "audio_to_ch2"
 		(shape input)
 		(at 29.21 172.72 0)
 		(fields_autoplaced yes)
@@ -5482,7 +5410,7 @@
 		)
 		(uuid "33cb3216-6b51-4e3f-9f6f-9fb4dac90abd")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 47.1325 172.72 0)
+			(at 44.653 172.72 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5903,73 +5831,6 @@
 			(project "VCA_Panner"
 				(path "/416439c0-fe9f-449c-a999-c0ea4c6cd459"
 					(reference "#PWR033")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Device:LED")
-		(at 236.22 106.68 180)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "01ceedfa-d27b-420e-a487-677ac53eaced")
-		(property "Reference" "D7"
-			(at 236.22 101.346 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "LED"
-			(at 235.966 103.632 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" "LED_THT:LED_D3.0mm"
-			(at 236.22 106.68 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 236.22 106.68 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Light emitting diode"
-			(at 236.22 106.68 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "c266b6d0-d783-46bc-9836-8b79d74eb75d")
-		)
-		(pin "2"
-			(uuid "f4da73a4-50f0-4daf-bda7-f6a19473d646")
-		)
-		(instances
-			(project "VCA_Panner"
-				(path "/416439c0-fe9f-449c-a999-c0ea4c6cd459"
-					(reference "D7")
 					(unit 1)
 				)
 			)
@@ -9811,73 +9672,6 @@
 		)
 	)
 	(symbol
-		(lib_id "Device:LED")
-		(at 236.22 63.5 180)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "53451617-690e-4db6-8d01-83f77f1ad9d6")
-		(property "Reference" "D5"
-			(at 236.22 58.166 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "LED"
-			(at 235.966 60.452 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" "LED_THT:LED_D3.0mm"
-			(at 236.22 63.5 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 236.22 63.5 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Light emitting diode"
-			(at 236.22 63.5 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "d4dafe53-d623-469b-bf1a-21186c478e4f")
-		)
-		(pin "2"
-			(uuid "5242381c-08c3-4051-9347-12aa5c32a170")
-		)
-		(instances
-			(project "VCA_Panner"
-				(path "/416439c0-fe9f-449c-a999-c0ea4c6cd459"
-					(reference "D5")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "power:+12V")
 		(at 233.68 134.62 0)
 		(unit 1)
@@ -10924,28 +10718,28 @@
 			)
 		)
 		(pin "8"
-			(uuid "a484b9e3-2ca3-4475-91e5-730742979657")
+			(uuid "a484b9e3-2ca3-4475-91e5-730742979658")
 		)
 		(pin "3"
-			(uuid "701eb595-7f10-45a6-b476-ce367aed8b74")
+			(uuid "701eb595-7f10-45a6-b476-ce367aed8b75")
 		)
 		(pin "6"
-			(uuid "d388d24f-5386-4f4e-86aa-9da45301dfb9")
+			(uuid "d388d24f-5386-4f4e-86aa-9da45301dfba")
 		)
 		(pin "1"
-			(uuid "f5e0956b-7d5d-4db0-a575-e23718b43f68")
+			(uuid "f5e0956b-7d5d-4db0-a575-e23718b43f69")
 		)
 		(pin "5"
-			(uuid "7c14c03f-bd6b-4f93-b635-2c276467c4f8")
+			(uuid "7c14c03f-bd6b-4f93-b635-2c276467c4f9")
 		)
 		(pin "2"
-			(uuid "4b82d92e-b895-4f96-873b-16d978d28431")
+			(uuid "4b82d92e-b895-4f96-873b-16d978d28432")
 		)
 		(pin "4"
-			(uuid "3153efbc-b691-4b53-8234-7d0a553a1968")
+			(uuid "3153efbc-b691-4b53-8234-7d0a553a1969")
 		)
 		(pin "7"
-			(uuid "a2d92ee5-9294-4ca4-ba91-3e1cd5774987")
+			(uuid "a2d92ee5-9294-4ca4-ba91-3e1cd5774988")
 		)
 		(instances
 			(project "VCA_Panner"
@@ -12111,28 +11905,28 @@
 			)
 		)
 		(pin "8"
-			(uuid "a484b9e3-2ca3-4475-91e5-730742979657")
+			(uuid "a484b9e3-2ca3-4475-91e5-730742979659")
 		)
 		(pin "3"
-			(uuid "701eb595-7f10-45a6-b476-ce367aed8b74")
+			(uuid "701eb595-7f10-45a6-b476-ce367aed8b76")
 		)
 		(pin "6"
-			(uuid "d388d24f-5386-4f4e-86aa-9da45301dfb9")
+			(uuid "d388d24f-5386-4f4e-86aa-9da45301dfbb")
 		)
 		(pin "1"
-			(uuid "f5e0956b-7d5d-4db0-a575-e23718b43f68")
+			(uuid "f5e0956b-7d5d-4db0-a575-e23718b43f6a")
 		)
 		(pin "5"
-			(uuid "7c14c03f-bd6b-4f93-b635-2c276467c4f8")
+			(uuid "7c14c03f-bd6b-4f93-b635-2c276467c4fa")
 		)
 		(pin "2"
-			(uuid "4b82d92e-b895-4f96-873b-16d978d28431")
+			(uuid "4b82d92e-b895-4f96-873b-16d978d28433")
 		)
 		(pin "4"
-			(uuid "3153efbc-b691-4b53-8234-7d0a553a1968")
+			(uuid "3153efbc-b691-4b53-8234-7d0a553a196a")
 		)
 		(pin "7"
-			(uuid "a2d92ee5-9294-4ca4-ba91-3e1cd5774987")
+			(uuid "a2d92ee5-9294-4ca4-ba91-3e1cd5774989")
 		)
 		(instances
 			(project "VCA_Panner"
