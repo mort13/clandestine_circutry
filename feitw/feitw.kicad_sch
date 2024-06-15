@@ -4,6 +4,12 @@
 	(generator_version "8.0")
 	(uuid "ca360145-ae4b-41bc-bd13-c8d35a7aedaa")
 	(paper "A4")
+	(title_block
+		(title "Fastest Envelope in the West")
+		(date "2024-06-12")
+		(rev "2")
+		(company "Clandestine Circutry")
+	)
 	(lib_symbols
 		(symbol "Connector_Audio:AudioJack2_SwitchT"
 			(exclude_from_sim no)
@@ -2907,16 +2913,16 @@
 		(uuid "229bf686-0b6f-4489-b754-f80ed8d4173b")
 	)
 	(junction
-		(at 60.96 107.95)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "241df3fe-982c-4bbb-b45e-e1d98fe78373")
-	)
-	(junction
 		(at 177.8 81.28)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "24cbae8a-3252-42a6-b223-ad3f5c6849de")
+	)
+	(junction
+		(at 260.35 96.52)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "2d6bde41-428f-42fb-b3d8-0acbd7786528")
 	)
 	(junction
 		(at 223.52 90.17)
@@ -3180,6 +3186,16 @@
 	)
 	(wire
 		(pts
+			(xy 260.35 96.52) (xy 267.97 96.52)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "17ec0fab-90e1-4d03-b8a6-81f488e4481f")
+	)
+	(wire
+		(pts
 			(xy 111.76 107.95) (xy 111.76 118.11)
 		)
 		(stroke
@@ -3227,16 +3243,6 @@
 			(type default)
 		)
 		(uuid "1ea855fe-627a-49f0-99dd-5f401a3bcb5d")
-	)
-	(wire
-		(pts
-			(xy 53.34 107.95) (xy 60.96 107.95)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "218f3a0c-1f0d-49bc-ace2-b3b1a62ced4d")
 	)
 	(wire
 		(pts
@@ -3680,7 +3686,7 @@
 	)
 	(wire
 		(pts
-			(xy 259.08 96.52) (xy 267.97 96.52)
+			(xy 259.08 96.52) (xy 260.35 96.52)
 		)
 		(stroke
 			(width 0)
@@ -4060,16 +4066,6 @@
 	)
 	(wire
 		(pts
-			(xy 53.34 101.6) (xy 53.34 107.95)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "e2904bda-2ede-476e-ade7-e6a0ada5e6da")
-	)
-	(wire
-		(pts
 			(xy 238.76 63.5) (xy 238.76 67.31)
 		)
 		(stroke
@@ -4097,6 +4093,16 @@
 			(type default)
 		)
 		(uuid "eb098f32-6e2f-4b21-8e9d-3da9a4e45b62")
+	)
+	(wire
+		(pts
+			(xy 260.35 96.52) (xy 260.35 134.62)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "eb71e284-92d2-4f00-9050-8f04e77d1f1e")
 	)
 	(wire
 		(pts
@@ -4508,7 +4514,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P1.90mm_Vertical"
+		(property "Footprint" "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder"
 			(at 220.98 50.038 90)
 			(effects
 				(font
@@ -4576,7 +4582,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Capacitor_THT:C_Disc_D3.0mm_W1.6mm_P2.50mm"
+		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder"
 			(at 168.91 82.2452 0)
 			(effects
 				(font
@@ -4613,72 +4619,6 @@
 			(project "feitw"
 				(path "/ca360145-ae4b-41bc-bd13-c8d35a7aedaa"
 					(reference "C1")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "power:+12V")
-		(at 53.34 86.36 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "1c7e9f49-ffd1-4d03-8af8-3e75fc0be05e")
-		(property "Reference" "#PWR07"
-			(at 53.34 90.17 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Value" "+12V"
-			(at 53.34 81.28 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 53.34 86.36 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 53.34 86.36 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Power symbol creates a global label with name \"+12V\""
-			(at 53.34 86.36 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "74f564fa-7ad6-4679-92f1-81622dae2758")
-		)
-		(instances
-			(project "feitw"
-				(path "/ca360145-ae4b-41bc-bd13-c8d35a7aedaa"
-					(reference "#PWR07")
 					(unit 1)
 				)
 			)
@@ -4842,7 +4782,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P1.90mm_Vertical"
+		(property "Footprint" "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder"
 			(at 219.71 69.088 90)
 			(effects
 				(font
@@ -4885,6 +4825,72 @@
 		)
 	)
 	(symbol
+		(lib_id "power:GND")
+		(at 267.97 139.7 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "34186e2a-7ca9-45db-969f-8eed7bb27466")
+		(property "Reference" "#PWR07"
+			(at 267.97 146.05 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "GND"
+			(at 267.97 144.78 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 267.97 139.7 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 267.97 139.7 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
+			(at 267.97 139.7 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "f228fbe2-0031-43d3-8ee2-3d168e845ada")
+		)
+		(instances
+			(project "feitw"
+				(path "/ca360145-ae4b-41bc-bd13-c8d35a7aedaa"
+					(reference "#PWR07")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "Device:R")
 		(at 115.57 118.11 270)
 		(unit 1)
@@ -4910,7 +4916,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P1.90mm_Vertical"
+		(property "Footprint" "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder"
 			(at 115.57 116.332 90)
 			(effects
 				(font
@@ -5113,7 +5119,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P1.90mm_Vertical"
+		(property "Footprint" "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder"
 			(at 61.722 97.79 90)
 			(effects
 				(font
@@ -5150,6 +5156,76 @@
 			(project "feitw"
 				(path "/ca360145-ae4b-41bc-bd13-c8d35a7aedaa"
 					(reference "R8")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:LED")
+		(at 267.97 118.11 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "4b0bb0a1-bf06-44aa-98e6-8e72d85ba4ac")
+		(property "Reference" "D2"
+			(at 271.78 118.4274 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Value" "LED"
+			(at 271.78 120.9674 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Footprint" "LED_THT:LED_D1.8mm_W3.3mm_H2.4mm"
+			(at 267.97 118.11 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 267.97 118.11 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Light emitting diode"
+			(at 267.97 118.11 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "2"
+			(uuid "7a59f5ae-4225-4d15-afc9-0d86b84e647a")
+		)
+		(pin "1"
+			(uuid "90856424-e927-47f7-a673-b125422c5e88")
+		)
+		(instances
+			(project "feitw"
+				(path "/ca360145-ae4b-41bc-bd13-c8d35a7aedaa"
+					(reference "D2")
 					(unit 1)
 				)
 			)
@@ -5854,7 +5930,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Capacitor_THT:C_Disc_D3.0mm_W1.6mm_P2.50mm"
+		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder"
 			(at 102.87 106.9848 0)
 			(effects
 				(font
@@ -6054,7 +6130,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P1.90mm_Vertical"
+		(property "Footprint" "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder"
 			(at 69.85 61.468 90)
 			(effects
 				(font
@@ -6309,7 +6385,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Capacitor_THT:C_Disc_D3.0mm_W1.6mm_P2.50mm"
+		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder"
 			(at 128.5748 158.75 0)
 			(effects
 				(font
@@ -6516,7 +6592,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P1.90mm_Vertical"
+		(property "Footprint" "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder"
 			(at 208.28 91.948 90)
 			(effects
 				(font
@@ -6851,7 +6927,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P1.90mm_Vertical"
+		(property "Footprint" "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder"
 			(at 35.56 119.888 90)
 			(effects
 				(font
@@ -6921,7 +6997,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_THT:C_Disc_D3.0mm_W1.6mm_P2.50mm"
+		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder"
 			(at 159.7152 116.84 0)
 			(effects
 				(font
@@ -6958,6 +7034,72 @@
 			(project "feitw"
 				(path "/ca360145-ae4b-41bc-bd13-c8d35a7aedaa"
 					(reference "C4")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:+12V")
+		(at 267.97 114.3 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "9977c435-f9dd-446f-9b33-322a9c33a19a")
+		(property "Reference" "#PWR05"
+			(at 267.97 118.11 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "+12V"
+			(at 267.97 109.22 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 267.97 114.3 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 267.97 114.3 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"+12V\""
+			(at 267.97 114.3 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "7e4c107e-a26a-47ad-af08-47d76a201058")
+		)
+		(instances
+			(project "feitw"
+				(path "/ca360145-ae4b-41bc-bd13-c8d35a7aedaa"
+					(reference "#PWR05")
 					(unit 1)
 				)
 			)
@@ -7395,76 +7537,6 @@
 		)
 	)
 	(symbol
-		(lib_id "Device:LED")
-		(at 53.34 90.17 90)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "af897794-0acb-4835-b5bf-5c61ddef9a0c")
-		(property "Reference" "D3"
-			(at 57.15 90.4874 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(property "Value" "LED"
-			(at 57.15 93.0274 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(property "Footprint" "LED_THT:LED_D1.8mm_W3.3mm_H2.4mm"
-			(at 53.34 90.17 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 53.34 90.17 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Light emitting diode"
-			(at 53.34 90.17 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "2"
-			(uuid "5cec7545-636c-447b-b91e-5f260a4191a1")
-		)
-		(pin "1"
-			(uuid "648bd226-8d31-44c9-933c-9c1bf26bddd1")
-		)
-		(instances
-			(project "feitw"
-				(path "/ca360145-ae4b-41bc-bd13-c8d35a7aedaa"
-					(reference "D3")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "power:+12V")
 		(at 63.5 93.98 0)
 		(unit 1)
@@ -7598,6 +7670,76 @@
 	)
 	(symbol
 		(lib_id "Device:R")
+		(at 267.97 125.73 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "b7a0ff33-b0a2-49a8-a528-12e86ecd653e")
+		(property "Reference" "R4"
+			(at 270.51 124.4599 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "3k3"
+			(at 270.51 126.9999 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder"
+			(at 266.192 125.73 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 267.97 125.73 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Resistor"
+			(at 267.97 125.73 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "fb881b82-dc52-4c3a-8bf1-be2681982284")
+		)
+		(pin "2"
+			(uuid "7c9ed9b5-9da4-4e81-967f-4531adc9ba39")
+		)
+		(instances
+			(project "feitw"
+				(path "/ca360145-ae4b-41bc-bd13-c8d35a7aedaa"
+					(reference "R4")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:R")
 		(at 142.24 83.82 180)
 		(unit 1)
 		(exclude_from_sim no)
@@ -7624,7 +7766,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P1.90mm_Vertical"
+		(property "Footprint" "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder"
 			(at 144.018 83.82 90)
 			(effects
 				(font
@@ -7890,7 +8032,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P1.90mm_Vertical"
+		(property "Footprint" "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder"
 			(at 255.27 98.298 90)
 			(effects
 				(font
@@ -7957,7 +8099,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Connector_PinSocket_2.54mm:PinSocket_2x05_P2.54mm_Vertical"
+		(property "Footprint" "mort_mix:PinHeader_2x05_P2.54mm_Vertical_shrouded"
 			(at 69.85 181.61 0)
 			(effects
 				(font
@@ -8274,6 +8416,82 @@
 		)
 	)
 	(symbol
+		(lib_id "Transistor_BJT:BC847")
+		(at 265.43 134.62 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "dd30f4bf-9145-44cb-af25-c1fad7a2b918")
+		(property "Reference" "Q4"
+			(at 270.51 133.3499 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "BC847"
+			(at 270.51 135.8899 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "Package_TO_SOT_SMD:SOT-23"
+			(at 270.51 136.525 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(italic yes)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "http://www.infineon.com/dgdl/Infineon-BC847SERIES_BC848SERIES_BC849SERIES_BC850SERIES-DS-v01_01-en.pdf?fileId=db3a304314dca389011541d4630a1657"
+			(at 265.43 134.62 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Description" "0.1A Ic, 45V Vce, NPN Transistor, SOT-23"
+			(at 265.43 134.62 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "2"
+			(uuid "af70678a-ebcc-4f8d-a51d-9fb3b306549a")
+		)
+		(pin "3"
+			(uuid "f0a3c9f6-03ac-45bc-8f04-95c6ac2e5ba9")
+		)
+		(pin "1"
+			(uuid "6be97efe-5e32-4457-a02d-51a2835a75a1")
+		)
+		(instances
+			(project "feitw"
+				(path "/ca360145-ae4b-41bc-bd13-c8d35a7aedaa"
+					(reference "Q4")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "power:GND")
 		(at 127 123.19 0)
 		(unit 1)
@@ -8365,7 +8583,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P1.90mm_Vertical"
+		(property "Footprint" "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder"
 			(at 71.12 109.728 90)
 			(effects
 				(font
@@ -8611,76 +8829,6 @@
 	)
 	(symbol
 		(lib_id "Device:R")
-		(at 53.34 97.79 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "f0b4daca-bd4e-46af-a6a7-6277fbe7fdd1")
-		(property "Reference" "R9"
-			(at 55.88 96.5199 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "3k3"
-			(at 55.88 99.0599 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" "Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P1.90mm_Vertical"
-			(at 51.562 97.79 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 53.34 97.79 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Resistor"
-			(at 53.34 97.79 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "61417f84-02a3-4e57-b95c-bbc12561c940")
-		)
-		(pin "2"
-			(uuid "115eb01b-7c5a-46e4-8088-129d75515b07")
-		)
-		(instances
-			(project "feitw"
-				(path "/ca360145-ae4b-41bc-bd13-c8d35a7aedaa"
-					(reference "R9")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Device:R")
 		(at 83.82 92.71 0)
 		(unit 1)
 		(exclude_from_sim no)
@@ -8707,7 +8855,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P1.90mm_Vertical"
+		(property "Footprint" "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder"
 			(at 82.042 92.71 90)
 			(effects
 				(font
@@ -9013,7 +9161,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P1.90mm_Vertical"
+		(property "Footprint" "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder"
 			(at 183.388 31.75 90)
 			(effects
 				(font

@@ -1,4 +1,4 @@
-23591729132396063
+23595162600239758
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -96613,6 +96613,20 @@ PJ398SM
 0
 3
 3
+mort_mix
+PinHeader_2x05_P2.54mm_Vertical_shrouded
+Through hole straight pin header, 2x05, 2.54mm pitch, double rows
+Through hole pin header THT 2x05 2.54mm double row
+0
+10
+10
+mort_mix
+Pins_2x05_2.54mm_TH_Europower_shrouded
+
+Through hole pin header THT 2x05 2.54mm Eurorack power europower
+0
+10
+10
 mort_mix
 Potentiometer_Alpha_RD901F-40-00D_Single_Vertical_withhole
 Potentiometer, vertical, 9mm, single, http://www.taiwanalpha.com.tw/downloads?target=products&id=113

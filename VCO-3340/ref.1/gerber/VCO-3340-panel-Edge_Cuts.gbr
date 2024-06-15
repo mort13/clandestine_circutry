@@ -1,0 +1,23 @@
+%TF.GenerationSoftware,KiCad,Pcbnew,8.0.0*%
+%TF.CreationDate,2024-05-14T17:12:12+02:00*%
+%TF.ProjectId,VCO-3340-panel,56434f2d-3333-4343-902d-70616e656c2e,rev?*%
+%TF.SameCoordinates,Original*%
+%TF.FileFunction,Profile,NP*%
+%FSLAX46Y46*%
+G04 Gerber Fmt 4.6, Leading zero omitted, Abs format (unit mm)*
+G04 Created by KiCad (PCBNEW 8.0.0) date 2024-05-14 17:12:12*
+%MOMM*%
+%LPD*%
+G01*
+G04 APERTURE LIST*
+%TA.AperFunction,Profile*%
+%ADD10C,0.100000*%
+%TD*%
+G04 APERTURE END LIST*
+D10*
+X76640600Y-30205500D02*
+X137600600Y-30205500D01*
+X137600600Y-158705500D01*
+X76640600Y-158705500D01*
+X76640600Y-30205500D01*
+M02*

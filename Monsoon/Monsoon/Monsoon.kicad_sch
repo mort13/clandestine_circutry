@@ -1,0 +1,165 @@
+(kicad_sch
+	(version 20231120)
+	(generator "eeschema")
+	(generator_version "8.0")
+	(uuid "39ed7a5e-bc43-4fbf-a913-3c48ed2769e8")
+	(paper "A4")
+	(lib_symbols)
+	(sheet
+		(at 25.4 25.4)
+		(size 12.7 3.81)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "ba8d6b82-0a97-4e13-86d0-9fc3a7543038")
+		(property "Sheetname" "eagle_export_sch_1"
+			(at 25.4 24.6884 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "eagle_export_sch_1.kicad_sch"
+			(at 25.4 29.7946 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "Monsoon"
+				(path "/39ed7a5e-bc43-4fbf-a913-3c48ed2769e8"
+					(page "1")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 76.2 25.4)
+		(size 12.7 3.81)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "bc48477a-9937-462d-98b7-07c364bf789f")
+		(property "Sheetname" "eagle_export_sch_2"
+			(at 76.2 24.6884 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "eagle_export_sch_2.kicad_sch"
+			(at 76.2 29.7946 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "Monsoon"
+				(path "/39ed7a5e-bc43-4fbf-a913-3c48ed2769e8"
+					(page "2")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 177.8 25.4)
+		(size 12.7 3.81)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "cbfb2fdb-bcb1-44df-939a-b36adb620c29")
+		(property "Sheetname" "eagle_export_sch_4"
+			(at 177.8 24.6884 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "eagle_export_sch_4.kicad_sch"
+			(at 177.8 29.7946 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "Monsoon"
+				(path "/39ed7a5e-bc43-4fbf-a913-3c48ed2769e8"
+					(page "4")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 127 25.4)
+		(size 12.7 3.81)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "e102d455-7614-4593-85b6-72814a177eca")
+		(property "Sheetname" "eagle_export_sch_3"
+			(at 127 24.6884 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "eagle_export_sch_3.kicad_sch"
+			(at 127 29.7946 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "Monsoon"
+				(path "/39ed7a5e-bc43-4fbf-a913-3c48ed2769e8"
+					(page "3")
+				)
+			)
+		)
+	)
+	(sheet_instances
+		(path "/"
+			(page "1")
+		)
+	)
+)
