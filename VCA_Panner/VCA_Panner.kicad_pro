@@ -465,7 +465,7 @@
       "gencad": "",
       "idf": "",
       "netlist": "",
-      "plot": "",
+      "plot": "vca_gerber/",
       "pos_files": "",
       "specctra_dsn": "",
       "step": "",
