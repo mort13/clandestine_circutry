@@ -7210,7 +7210,7 @@
 				)
 			)
 		)
-		(property "Value" "B1M"
+		(property "Value" "A1M"
 			(at 236.22 54.61 90)
 			(effects
 				(font
@@ -8775,7 +8775,7 @@
 				)
 			)
 		)
-		(property "Value" "B1M"
+		(property "Value" "A1M"
 			(at 233.68 73.66 90)
 			(effects
 				(font
@@ -8916,7 +8916,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "B10K"
+		(property "Value" "A10K"
 			(at 179.07 44.4501 0)
 			(effects
 				(font
@@ -9072,7 +9072,7 @@
 				)
 			)
 		)
-		(property "Value" "B1M"
+		(property "Value" "A1M"
 			(at 218.44 96.52 90)
 			(effects
 				(font
