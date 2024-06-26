@@ -478,6 +478,7 @@
   },
   "schematic": {
     "annotate_start_num": 0,
+    "bom_export_filename": "VCO-3340_bom.csv",
     "bom_fmt_presets": [],
     "bom_fmt_settings": {
       "field_delimiter": ",",
@@ -631,7 +632,7 @@
   "sheets": [
     [
       "83927a7b-f31e-475f-ac55-cd2bf2a0e341",
-      "Stammblatt"
+      "Root"
     ]
   ],
   "text_variables": {}

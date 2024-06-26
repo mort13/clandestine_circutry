@@ -3796,6 +3796,16 @@
 	)
 	(wire
 		(pts
+			(xy 137.16 137.16) (xy 139.7 137.16)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "177ccd1f-6977-438b-bdcf-295dfd656853")
+	)
+	(wire
+		(pts
 			(xy 99.06 177.8) (xy 105.41 177.8)
 		)
 		(stroke
@@ -4313,6 +4323,16 @@
 			(type default)
 		)
 		(uuid "5aedb07e-6d1d-43e3-9484-51d340138b2a")
+	)
+	(wire
+		(pts
+			(xy 132.08 134.62) (xy 132.08 137.16)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "5cf4490f-bfd7-4c77-a939-c5fa89c891e9")
 	)
 	(wire
 		(pts
@@ -5266,6 +5286,16 @@
 	)
 	(wire
 		(pts
+			(xy 137.16 147.32) (xy 137.16 137.16)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "ec2af5fd-6473-4233-9e4e-75faf661f448")
+	)
+	(wire
+		(pts
 			(xy 125.73 73.66) (xy 125.73 77.47)
 		)
 		(stroke
@@ -5420,6 +5450,28 @@
 			)
 		)
 	)
+	(global_label "audio_to_ch2"
+		(shape output)
+		(at 35.56 132.08 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "38444d7b-f0a7-45bf-8e49-bb1f0540e48b")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 51.003 132.08 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+	)
 	(global_label "CV2"
 		(shape input)
 		(at 83.82 77.47 180)
@@ -5530,28 +5582,6 @@
 			)
 		)
 	)
-	(global_label "audio_from_ch2"
-		(shape input)
-		(at 139.7 134.62 180)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right)
-		)
-		(uuid "85d04b5b-f377-4c16-b387-74cc7ea0ee15")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 121.7775 134.62 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-				(hide yes)
-			)
-		)
-	)
 	(global_label "cv2_to_vca2"
 		(shape output)
 		(at 229.87 80.01 0)
@@ -5565,28 +5595,6 @@
 		(uuid "97080a42-4c64-4649-a396-d7f7bff6e5c8")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
 			(at 244.3455 80.01 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-				(hide yes)
-			)
-		)
-	)
-	(global_label "audio1_to_vca1"
-		(shape output)
-		(at 35.56 132.08 0)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left)
-		)
-		(uuid "b845ce5b-0669-4852-baf0-adb632a04b3f")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 51.9706 132.08 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5640,28 +5648,6 @@
 			)
 		)
 	)
-	(global_label "audio_to_ch2"
-		(shape output)
-		(at 27.94 129.54 0)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left)
-		)
-		(uuid "c7218b88-dba1-4e18-ac65-075b40f81ce4")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 43.383 129.54 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-				(hide yes)
-			)
-		)
-	)
 	(global_label "CV2"
 		(shape output)
 		(at 35.56 72.39 0)
@@ -5680,6 +5666,50 @@
 					(size 1.27 1.27)
 				)
 				(justify left)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "audio1_to_vca1"
+		(shape output)
+		(at 27.94 129.54 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "da455e0f-0d4d-4aae-be2e-2f82c325408c")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 44.3506 129.54 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "audio_from_ch2"
+		(shape input)
+		(at 137.16 147.32 270)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "ddef7d55-c7ee-4d7f-b1dd-4fcae65164c5")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 137.16 165.2425 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
 				(hide yes)
 			)
 		)
@@ -12865,7 +12895,7 @@
 	)
 	(symbol
 		(lib_id "Device:R")
-		(at 135.89 137.16 90)
+		(at 135.89 134.62 90)
 		(mirror x)
 		(unit 1)
 		(exclude_from_sim no)
@@ -12874,14 +12904,6 @@
 		(dnp no)
 		(uuid "c0d595e9-db22-48c6-993f-87b2eb7b57fe")
 		(property "Reference" "R17"
-			(at 135.89 143.51 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "1k"
 			(at 135.89 140.97 90)
 			(effects
 				(font
@@ -12889,8 +12911,16 @@
 				)
 			)
 		)
+		(property "Value" "1k"
+			(at 135.89 138.43 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(property "Footprint" "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder"
-			(at 135.89 135.382 90)
+			(at 135.89 132.842 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12899,7 +12929,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 135.89 137.16 0)
+			(at 135.89 134.62 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12908,7 +12938,7 @@
 			)
 		)
 		(property "Description" "Resistor"
-			(at 135.89 137.16 0)
+			(at 135.89 134.62 0)
 			(effects
 				(font
 					(size 1.27 1.27)

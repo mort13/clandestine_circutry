@@ -476,6 +476,7 @@
   },
   "schematic": {
     "annotate_start_num": 0,
+    "bom_export_filename": "feitw_bom.csv",
     "bom_fmt_presets": [],
     "bom_fmt_settings": {
       "field_delimiter": ",",
@@ -635,7 +636,7 @@
   "sheets": [
     [
       "ca360145-ae4b-41bc-bd13-c8d35a7aedaa",
-      "Stammblatt"
+      "Root"
     ]
   ],
   "text_variables": {}
