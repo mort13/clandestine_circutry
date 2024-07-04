@@ -430,7 +430,7 @@
     "pinned_symbol_libs": []
   },
   "meta": {
-    "filename": "Sloth.kicad_pro",
+    "filename": "Sloth_panel.kicad_pro",
     "version": 1
   },
   "net_settings": {
@@ -465,7 +465,7 @@
       "gencad": "",
       "idf": "",
       "netlist": "",
-      "plot": "",
+      "plot": "gerber/",
       "pos_files": "",
       "specctra_dsn": "",
       "step": "",

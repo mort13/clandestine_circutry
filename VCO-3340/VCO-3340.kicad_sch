@@ -7424,7 +7424,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "100k"
+		(property "Value" "B100k"
 			(at 38.862 103.632 0)
 			(effects
 				(font
@@ -9215,7 +9215,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "100k"
+		(property "Value" "B100k"
 			(at 38.862 131.572 0)
 			(effects
 				(font
@@ -9827,7 +9827,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "100k"
+		(property "Value" "B100k"
 			(at 36.322 75.692 0)
 			(effects
 				(font
@@ -10412,7 +10412,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "100k"
+		(property "Value" "B100k"
 			(at 35.56 25.4001 0)
 			(effects
 				(font
@@ -15208,7 +15208,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "100k"
+		(property "Value" "B100k"
 			(at 35.56 41.9101 0)
 			(effects
 				(font
@@ -15709,7 +15709,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "100k"
+		(property "Value" "B100k"
 			(at 76.708 131.572 0)
 			(effects
 				(font
