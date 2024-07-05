@@ -792,6 +792,167 @@
 				)
 			)
 		)
+		(symbol "Device:R_Potentiometer_Trim"
+			(pin_names
+				(offset 1.016) hide)
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(property "Reference" "RV"
+				(at -4.445 0 90)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Value" "R_Potentiometer_Trim"
+				(at -2.54 0 90)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Footprint" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Datasheet" "~"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Description" "Trim-potentiometer"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "ki_keywords" "resistor variable trimpot trimmer"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "ki_fp_filters" "Potentiometer*"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(symbol "R_Potentiometer_Trim_0_1"
+				(polyline
+					(pts
+						(xy 1.524 0.762) (xy 1.524 -0.762)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 2.54 0) (xy 1.524 0)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(rectangle
+					(start 1.016 2.54)
+					(end -1.016 -2.54)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+			)
+			(symbol "R_Potentiometer_Trim_1_1"
+				(pin passive line
+					(at 0 3.81 270)
+					(length 1.27)
+					(name "1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at 3.81 0 180)
+					(length 1.27)
+					(name "2"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "2"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at 0 -3.81 90)
+					(length 1.27)
+					(name "3"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "3"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+			)
+		)
 		(symbol "Diode:1N4148WS"
 			(pin_numbers hide)
 			(pin_names hide)
@@ -2139,6 +2300,379 @@
 				)
 			)
 		)
+		(symbol "Simulation_SPICE:VDC"
+			(pin_numbers hide)
+			(pin_names
+				(offset 0.0254)
+			)
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(property "Reference" "V"
+				(at 2.54 2.54 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left)
+				)
+			)
+			(property "Value" "1"
+				(at 2.54 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left)
+				)
+			)
+			(property "Footprint" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Datasheet" "https://ngspice.sourceforge.io/docs/ngspice-html-manual/manual.xhtml#sec_Independent_Sources_for"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Description" "Voltage source, DC"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Sim.Pins" "1=+ 2=-"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Sim.Type" "DC"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Sim.Device" "V"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left)
+					(hide yes)
+				)
+			)
+			(property "ki_keywords" "simulation"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(symbol "VDC_0_0"
+				(polyline
+					(pts
+						(xy -1.27 0.254) (xy 1.27 0.254)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy -0.762 -0.254) (xy -1.27 -0.254)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 0.254 -0.254) (xy -0.254 -0.254)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 1.27 -0.254) (xy 0.762 -0.254)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(text "+"
+					(at 0 1.905 0)
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+			(symbol "VDC_0_1"
+				(circle
+					(center 0 0)
+					(radius 2.54)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type background)
+					)
+				)
+			)
+			(symbol "VDC_1_1"
+				(pin passive line
+					(at 0 5.08 270)
+					(length 2.54)
+					(name "~"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at 0 -5.08 90)
+					(length 2.54)
+					(name "~"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "2"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+			)
+		)
+		(symbol "Simulation_SPICE:VPWL"
+			(pin_numbers hide)
+			(pin_names
+				(offset 0.0254)
+			)
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(property "Reference" "V"
+				(at 2.54 2.54 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left)
+				)
+			)
+			(property "Value" "VPWL"
+				(at 2.54 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left)
+				)
+			)
+			(property "Footprint" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Datasheet" "https://ngspice.sourceforge.io/docs/ngspice-html-manual/manual.xhtml#sec_Independent_Sources_for"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Description" "Voltage source, piece-wise linear"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Sim.Pins" "1=+ 2=-"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Sim.Device" "V"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left)
+					(hide yes)
+				)
+			)
+			(property "Sim.Params" "pwl=\"0 -1 50n -1 51n 0 97n 1 171n -1 200n -1\""
+				(at 2.54 -2.54 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left)
+				)
+			)
+			(property "Sim.Type" "PWL"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "ki_keywords" "simulation"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(symbol "VPWL_0_0"
+				(polyline
+					(pts
+						(xy -1.778 -1.016) (xy -0.762 1.016) (xy -0.254 0) (xy 0.762 0) (xy 1.27 1.27)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(text "+"
+					(at 0 1.905 0)
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+			(symbol "VPWL_0_1"
+				(circle
+					(center 0 0)
+					(radius 2.54)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type background)
+					)
+				)
+			)
+			(symbol "VPWL_1_1"
+				(pin passive line
+					(at 0 5.08 270)
+					(length 2.54)
+					(name "~"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at 0 -5.08 90)
+					(length 2.54)
+					(name "~"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "2"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+			)
+		)
 		(symbol "Timer:TLC555xD"
 			(exclude_from_sim no)
 			(in_bom yes)
@@ -2895,6 +3429,12 @@
 		(uuid "0ed5e30d-fd44-4f2e-a4f9-97f6a350b14d")
 	)
 	(junction
+		(at 251.46 104.14)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "101f2318-3589-4665-8de2-8fb77f969bd2")
+	)
+	(junction
 		(at 111.76 118.11)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -2907,6 +3447,12 @@
 		(uuid "1753365c-a2e6-4d6b-bdf8-c3afbfd2feee")
 	)
 	(junction
+		(at 267.97 143.51)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "1b3ec88b-c476-482a-b53b-f12b9db8c534")
+	)
+	(junction
 		(at 143.51 156.21)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -2917,12 +3463,6 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "24cbae8a-3252-42a6-b223-ad3f5c6849de")
-	)
-	(junction
-		(at 260.35 96.52)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "2d6bde41-428f-42fb-b3d8-0acbd7786528")
 	)
 	(junction
 		(at 223.52 90.17)
@@ -2991,6 +3531,12 @@
 		(uuid "96312d0e-a203-4d15-a8df-934e031d80de")
 	)
 	(junction
+		(at 232.41 90.17)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "a71d0618-b140-4e39-9f3a-8ce4463a242e")
+	)
+	(junction
 		(at 95.25 166.37)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -3003,16 +3549,16 @@
 		(uuid "b4314635-2686-461a-b44b-e5183a445b2e")
 	)
 	(junction
+		(at 143.51 170.18)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "bd4ec878-dbc7-4624-95e1-b55869d27797")
+	)
+	(junction
 		(at 251.46 67.31)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "c540be55-b135-418c-8a3f-c5cd7f65d8bc")
-	)
-	(junction
-		(at 234.95 93.98)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "d36701cf-a7c5-40dc-8c49-a01218f2aa19")
 	)
 	(junction
 		(at 63.5 107.95)
@@ -3073,6 +3619,16 @@
 			(type default)
 		)
 		(uuid "01e9993c-5c74-451e-90d6-ec3302aa78ef")
+	)
+	(wire
+		(pts
+			(xy 157.48 166.37) (xy 157.48 170.18)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "038b5741-5c4c-4d79-bc99-e3d24b74c291")
 	)
 	(wire
 		(pts
@@ -3176,6 +3732,16 @@
 	)
 	(wire
 		(pts
+			(xy 255.27 132.08) (xy 255.27 143.51)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "178cead9-fdc0-4fb1-9bd2-937bc208ea71")
+	)
+	(wire
+		(pts
 			(xy 92.71 100.33) (xy 83.82 100.33)
 		)
 		(stroke
@@ -3186,7 +3752,7 @@
 	)
 	(wire
 		(pts
-			(xy 260.35 96.52) (xy 267.97 96.52)
+			(xy 259.08 96.52) (xy 267.97 96.52)
 		)
 		(stroke
 			(width 0)
@@ -3266,7 +3832,7 @@
 	)
 	(wire
 		(pts
-			(xy 143.51 171.45) (xy 143.51 168.91)
+			(xy 143.51 171.45) (xy 143.51 170.18)
 		)
 		(stroke
 			(width 0)
@@ -3313,6 +3879,16 @@
 			(type default)
 		)
 		(uuid "330bcd2b-2831-46a9-8e57-90469528a8a9")
+	)
+	(wire
+		(pts
+			(xy 259.08 128.27) (xy 259.08 134.62)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "3732af5e-8d7e-40a3-adad-1253542d05b5")
 	)
 	(wire
 		(pts
@@ -3396,6 +3972,16 @@
 	)
 	(wire
 		(pts
+			(xy 267.97 143.51) (xy 267.97 144.78)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "4aafd07b-ea86-47aa-8500-be52db08a980")
+	)
+	(wire
+		(pts
 			(xy 81.28 59.69) (xy 81.28 105.41)
 		)
 		(stroke
@@ -3426,7 +4012,7 @@
 	)
 	(wire
 		(pts
-			(xy 234.95 83.82) (xy 234.95 93.98)
+			(xy 232.41 83.82) (xy 232.41 90.17)
 		)
 		(stroke
 			(width 0)
@@ -3463,6 +4049,16 @@
 			(type default)
 		)
 		(uuid "59c4abe1-95bb-463f-bbea-a69fd5f6865d")
+	)
+	(wire
+		(pts
+			(xy 251.46 116.84) (xy 251.46 104.14)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "5c8c19f3-b3cb-4ca5-b8e5-88d3ae22210a")
 	)
 	(wire
 		(pts
@@ -3576,6 +4172,26 @@
 	)
 	(wire
 		(pts
+			(xy 232.41 93.98) (xy 236.22 93.98)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "6fa6f0d1-9195-4eae-b9df-1b945d370026")
+	)
+	(wire
+		(pts
+			(xy 143.51 156.21) (xy 157.48 156.21)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "7438aa01-642a-4d6d-9cd2-951d325c65b4")
+	)
+	(wire
+		(pts
 			(xy 252.73 67.31) (xy 251.46 67.31)
 		)
 		(stroke
@@ -3686,16 +4302,6 @@
 	)
 	(wire
 		(pts
-			(xy 259.08 96.52) (xy 260.35 96.52)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "8800901e-c86f-49c5-a236-db46ad652292")
-	)
-	(wire
-		(pts
 			(xy 154.94 67.31) (xy 154.94 63.5)
 		)
 		(stroke
@@ -3753,16 +4359,6 @@
 			(type default)
 		)
 		(uuid "9b2dd660-f93b-4401-be25-94cd7a7501d4")
-	)
-	(wire
-		(pts
-			(xy 234.95 93.98) (xy 232.41 93.98)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "9c8dfeb1-168e-4919-b1f1-b7fc6d9c3947")
 	)
 	(wire
 		(pts
@@ -3886,6 +4482,26 @@
 	)
 	(wire
 		(pts
+			(xy 143.51 170.18) (xy 143.51 168.91)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "b2688df9-e73a-4f48-97a1-62cec253a74a")
+	)
+	(wire
+		(pts
+			(xy 259.08 134.62) (xy 260.35 134.62)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "b3b7abd7-5fde-48cc-99d8-fd1bb36aa288")
+	)
+	(wire
+		(pts
 			(xy 177.8 81.28) (xy 176.53 81.28)
 		)
 		(stroke
@@ -3893,6 +4509,16 @@
 			(type default)
 		)
 		(uuid "b541682f-27af-43e7-8d93-a2d2ddd8b302")
+	)
+	(wire
+		(pts
+			(xy 255.27 116.84) (xy 251.46 116.84)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "b57f8d21-f57b-4273-9ef7-c82c7f3e3738")
 	)
 	(wire
 		(pts
@@ -3936,6 +4562,16 @@
 	)
 	(wire
 		(pts
+			(xy 157.48 170.18) (xy 143.51 170.18)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "bfe737a3-0c1c-4588-ac1f-e53f64f28991")
+	)
+	(wire
+		(pts
 			(xy 223.52 90.17) (xy 224.79 90.17)
 		)
 		(stroke
@@ -3953,6 +4589,16 @@
 			(type default)
 		)
 		(uuid "c2fef0ca-ee9a-424d-96b9-ca531744bd10")
+	)
+	(wire
+		(pts
+			(xy 267.97 119.38) (xy 267.97 121.92)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "c3a8ad1a-b54c-455c-a3b7-4b6216d828e6")
 	)
 	(wire
 		(pts
@@ -4076,6 +4722,16 @@
 	)
 	(wire
 		(pts
+			(xy 255.27 143.51) (xy 267.97 143.51)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "e7bbd625-8d74-498f-9778-71ddf06d04f7")
+	)
+	(wire
+		(pts
 			(xy 194.31 50.8) (xy 194.31 58.42)
 		)
 		(stroke
@@ -4086,23 +4742,13 @@
 	)
 	(wire
 		(pts
-			(xy 251.46 83.82) (xy 234.95 83.82)
+			(xy 251.46 83.82) (xy 232.41 83.82)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
 		(uuid "eb098f32-6e2f-4b21-8e9d-3da9a4e45b62")
-	)
-	(wire
-		(pts
-			(xy 260.35 96.52) (xy 260.35 134.62)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "eb71e284-92d2-4f00-9050-8f04e77d1f1e")
 	)
 	(wire
 		(pts
@@ -4156,16 +4802,6 @@
 	)
 	(wire
 		(pts
-			(xy 236.22 93.98) (xy 234.95 93.98)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "f6b0678c-e504-429b-825b-21e0dab7d900")
-	)
-	(wire
-		(pts
 			(xy 181.61 49.53) (xy 181.61 72.39)
 		)
 		(stroke
@@ -4183,6 +4819,16 @@
 			(type default)
 		)
 		(uuid "fb00f71d-d887-4a76-b75d-0348213f6d32")
+	)
+	(wire
+		(pts
+			(xy 267.97 139.7) (xy 267.97 143.51)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "fb991910-b486-4c3d-837b-1d7134af33df")
 	)
 	(symbol
 		(lib_id "PCM_4ms_IC:LM358")
@@ -4255,6 +4901,42 @@
 				(hide yes)
 			)
 		)
+		(property "Sim.Library" "/home/moritz/clandestine_circutry/spice_models/lm358.txt"
+			(at 201.93 48.26 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sim.Name" "LM358"
+			(at 201.93 48.26 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sim.Device" "SUBCKT"
+			(at 201.93 48.26 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sim.Pins" "4=5 5=2 6=1 7=3 8=4"
+			(at 201.93 48.26 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "6"
 			(uuid "cbf06de6-b2ae-426e-abb8-e8672f16dd64")
 		)
@@ -4292,7 +4974,7 @@
 		(lib_id "Diode:1N5819")
 		(at 83.82 166.37 180)
 		(unit 1)
-		(exclude_from_sim no)
+		(exclude_from_sim yes)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
@@ -4625,6 +5307,112 @@
 		)
 	)
 	(symbol
+		(lib_id "Simulation_SPICE:VPWL")
+		(at 218.44 116.84 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "1ea2f6e7-8231-4513-955a-f65d8b9a0ab4")
+		(property "Reference" "V1"
+			(at 222.25 114.1701 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "VPWL"
+			(at 222.25 116.7101 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" ""
+			(at 218.44 116.84 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "https://ngspice.sourceforge.io/docs/ngspice-html-manual/manual.xhtml#sec_Independent_Sources_for"
+			(at 218.44 116.84 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Voltage source, piece-wise linear"
+			(at 218.44 116.84 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sim.Pins" "1=+ 2=-"
+			(at 218.44 116.84 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sim.Device" "V"
+			(at 218.44 116.84 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Sim.Params" "pwl=\"0 -1 50n -1 51n 0 97n 1 171n -1 200n -1\""
+			(at 181.864 132.08 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Sim.Type" "PWL"
+			(at 218.44 116.84 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "2"
+			(uuid "a4dcc53c-b1dd-4285-b605-819cff88a822")
+		)
+		(pin "1"
+			(uuid "52e3ca30-dcc8-4dec-b06c-5778fcaa5e07")
+		)
+		(instances
+			(project ""
+				(path "/ca360145-ae4b-41bc-bd13-c8d35a7aedaa"
+					(reference "V1")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "power:+12V")
 		(at 177.8 81.28 0)
 		(unit 1)
@@ -4826,7 +5614,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 267.97 139.7 0)
+		(at 267.97 144.78 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -4835,7 +5623,7 @@
 		(fields_autoplaced yes)
 		(uuid "34186e2a-7ca9-45db-969f-8eed7bb27466")
 		(property "Reference" "#PWR07"
-			(at 267.97 146.05 0)
+			(at 267.97 151.13 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4844,7 +5632,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 267.97 144.78 0)
+			(at 267.97 149.86 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4852,7 +5640,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 267.97 139.7 0)
+			(at 267.97 144.78 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4861,7 +5649,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 267.97 139.7 0)
+			(at 267.97 144.78 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4870,7 +5658,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 267.97 139.7 0)
+			(at 267.97 144.78 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5163,7 +5951,7 @@
 	)
 	(symbol
 		(lib_id "Device:LED")
-		(at 267.97 118.11 90)
+		(at 267.97 115.57 90)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -5172,7 +5960,7 @@
 		(fields_autoplaced yes)
 		(uuid "4b0bb0a1-bf06-44aa-98e6-8e72d85ba4ac")
 		(property "Reference" "D2"
-			(at 271.78 118.4274 90)
+			(at 271.78 115.8874 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5181,7 +5969,7 @@
 			)
 		)
 		(property "Value" "LED"
-			(at 271.78 120.9674 90)
+			(at 271.78 118.4274 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5190,7 +5978,7 @@
 			)
 		)
 		(property "Footprint" "LED_THT:LED_D1.8mm_W3.3mm_H2.4mm"
-			(at 267.97 118.11 0)
+			(at 267.97 115.57 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5199,7 +5987,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 267.97 118.11 0)
+			(at 267.97 115.57 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5208,7 +5996,52 @@
 			)
 		)
 		(property "Description" "Light emitting diode"
-			(at 267.97 118.11 0)
+			(at 267.97 115.57 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sim.Library" "/home/moritz/clandestine_circutry/spice_models/led.txt"
+			(at 267.97 115.57 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sim.Name" "Dled_test"
+			(at 267.97 115.57 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sim.Device" "D"
+			(at 267.97 115.57 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sim.Pins" "1=A 2=K"
+			(at 267.97 115.57 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sim.Params" "temp=20"
+			(at 267.97 115.57 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5235,7 +6068,7 @@
 		(lib_id "Diode:1N4148WS")
 		(at 248.92 48.26 0)
 		(unit 1)
-		(exclude_from_sim no)
+		(exclude_from_sim yes)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
@@ -5386,6 +6219,72 @@
 	)
 	(symbol
 		(lib_id "power:GND")
+		(at 218.44 121.92 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "5790ea90-d0d0-478b-9725-f950d395744b")
+		(property "Reference" "#PWR026"
+			(at 218.44 128.27 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "GND"
+			(at 218.44 127 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 218.44 121.92 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 218.44 121.92 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
+			(at 218.44 121.92 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "9c8f9686-964a-4f75-8bdb-4b9b15a83c0c")
+		)
+		(instances
+			(project "feitw"
+				(path "/ca360145-ae4b-41bc-bd13-c8d35a7aedaa"
+					(reference "#PWR026")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:GND")
 		(at 269.24 92.71 0)
 		(mirror y)
 		(unit 1)
@@ -5524,6 +6423,42 @@
 				(hide yes)
 			)
 		)
+		(property "Sim.Library" "/home/moritz/clandestine_circutry/spice_models/lm358.txt"
+			(at 143.51 162.56 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sim.Name" "LM358"
+			(at 143.51 162.56 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sim.Device" "SUBCKT"
+			(at 143.51 162.56 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sim.Pins" "4=5 5=2 6=1 7=3 8=4"
+			(at 143.51 162.56 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "6"
 			(uuid "cbf06de6-b2ae-426e-abb8-e8672f16dd65")
 		)
@@ -5565,10 +6500,9 @@
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "62c3d168-bb5b-48ce-9af1-510ef9a9e2e2")
 		(property "Reference" "C6"
-			(at 234.95 104.9781 0)
+			(at 220.98 107.442 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5644,7 +6578,7 @@
 			)
 		)
 		(property "Display" "47uF/16V"
-			(at 234.95 107.5181 0)
+			(at 220.98 109.982 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5680,7 +6614,7 @@
 		(lib_id "Transistor_BJT:BC847")
 		(at 124.46 118.11 0)
 		(unit 1)
-		(exclude_from_sim no)
+		(exclude_from_sim yes)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
@@ -5822,7 +6756,7 @@
 		(lib_id "Diode:1N4148WS")
 		(at 228.6 90.17 180)
 		(unit 1)
-		(exclude_from_sim no)
+		(exclude_from_sim yes)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
@@ -6428,11 +7362,84 @@
 		)
 	)
 	(symbol
+		(lib_id "Device:R_Potentiometer_Trim")
+		(at 255.27 128.27 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "88550d9f-da7d-4a79-8eac-b55623c6c168")
+		(property "Reference" "RV5"
+			(at 252.73 126.9999 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Value" "50k"
+			(at 252.73 129.5399 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Footprint" ""
+			(at 255.27 128.27 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 255.27 128.27 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Trim-potentiometer"
+			(at 255.27 128.27 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "2"
+			(uuid "864f6008-c01b-4242-b136-633b124f1af9")
+		)
+		(pin "3"
+			(uuid "f6eb4875-4719-4971-bb13-432f4c9a55aa")
+		)
+		(pin "1"
+			(uuid "49bbcf46-341d-4c71-a29b-8e71c527ad23")
+		)
+		(instances
+			(project ""
+				(path "/ca360145-ae4b-41bc-bd13-c8d35a7aedaa"
+					(reference "RV5")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "Connector_Audio:AudioJack2_SwitchT")
 		(at 22.86 118.11 0)
 		(mirror x)
 		(unit 1)
-		(exclude_from_sim no)
+		(exclude_from_sim yes)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
@@ -6706,6 +7713,42 @@
 				(hide yes)
 			)
 		)
+		(property "Sim.Library" "/home/moritz/clandestine_circutry/spice_models/lm358.txt"
+			(at 243.84 96.52 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sim.Name" "LM358"
+			(at 243.84 96.52 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sim.Device" "SUBCKT"
+			(at 243.84 96.52 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sim.Pins" "4=5 5=2 6=1 7=3 8=4"
+			(at 243.84 96.52 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "6"
 			(uuid "cbf06de6-b2ae-426e-abb8-e8672f16dd66")
 		)
@@ -6743,7 +7786,7 @@
 		(lib_id "Diode:1N4148WS")
 		(at 41.91 124.46 270)
 		(unit 1)
-		(exclude_from_sim no)
+		(exclude_from_sim yes)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
@@ -6832,7 +7875,7 @@
 		(at 276.86 99.06 0)
 		(mirror y)
 		(unit 1)
-		(exclude_from_sim no)
+		(exclude_from_sim yes)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
@@ -7041,7 +8084,7 @@
 	)
 	(symbol
 		(lib_id "power:+12V")
-		(at 267.97 114.3 0)
+		(at 267.97 111.76 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -7050,7 +8093,7 @@
 		(fields_autoplaced yes)
 		(uuid "9977c435-f9dd-446f-9b33-322a9c33a19a")
 		(property "Reference" "#PWR05"
-			(at 267.97 118.11 0)
+			(at 267.97 115.57 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7059,7 +8102,7 @@
 			)
 		)
 		(property "Value" "+12V"
-			(at 267.97 109.22 0)
+			(at 267.97 106.68 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7067,7 +8110,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 267.97 114.3 0)
+			(at 267.97 111.76 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7076,7 +8119,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 267.97 114.3 0)
+			(at 267.97 111.76 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7085,7 +8128,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"+12V\""
-			(at 267.97 114.3 0)
+			(at 267.97 111.76 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7106,10 +8149,108 @@
 		)
 	)
 	(symbol
+		(lib_id "Simulation_SPICE:VDC")
+		(at 157.48 161.29 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "999e283d-4dcb-4391-945d-5a03f499405e")
+		(property "Reference" "V2"
+			(at 161.29 159.8901 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "12"
+			(at 161.29 162.4301 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" ""
+			(at 157.48 161.29 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "https://ngspice.sourceforge.io/docs/ngspice-html-manual/manual.xhtml#sec_Independent_Sources_for"
+			(at 157.48 161.29 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Voltage source, DC"
+			(at 157.48 161.29 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sim.Pins" "1=+ 2=-"
+			(at 157.48 161.29 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sim.Type" "DC"
+			(at 157.48 161.29 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sim.Device" "V"
+			(at 157.48 161.29 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(pin "2"
+			(uuid "b3d9a372-f140-4ef5-a850-04060e4129fc")
+		)
+		(pin "1"
+			(uuid "4565c507-7a12-4976-b365-8889e64349a3")
+		)
+		(instances
+			(project ""
+				(path "/ca360145-ae4b-41bc-bd13-c8d35a7aedaa"
+					(reference "V2")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "Timer:TLC555xD")
 		(at 177.8 97.79 0)
 		(unit 1)
-		(exclude_from_sim no)
+		(exclude_from_sim yes)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
@@ -7197,7 +8338,7 @@
 		(lib_id "Device:R_Potentiometer")
 		(at 236.22 48.26 90)
 		(unit 1)
-		(exclude_from_sim no)
+		(exclude_from_sim yes)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
@@ -7266,7 +8407,7 @@
 		(lib_id "Transistor_BJT:BC847")
 		(at 81.28 118.11 0)
 		(unit 1)
-		(exclude_from_sim no)
+		(exclude_from_sim yes)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
@@ -8078,7 +9219,7 @@
 		(lib_id "PCM_4ms_Connector:Eurorack_Power_10pin_Unshrouded")
 		(at 67.31 167.64 0)
 		(unit 1)
-		(exclude_from_sim no)
+		(exclude_from_sim yes)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
@@ -8265,7 +9406,7 @@
 		(lib_id "Diode:1N4148WS")
 		(at 111.76 121.92 270)
 		(unit 1)
-		(exclude_from_sim no)
+		(exclude_from_sim yes)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
@@ -8473,6 +9614,60 @@
 				(hide yes)
 			)
 		)
+		(property "Sim.Library" "/home/moritz/clandestine_circutry/spice_models/BC847B.spice.txt"
+			(at 265.43 134.62 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sim.Name" "DI_BC847B"
+			(at 265.43 134.62 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sim.Device" "NPN"
+			(at 265.43 134.62 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sim.Type" "GUMMELPOON"
+			(at 265.43 134.62 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sim.Pins" "1=C 2=B 3=E"
+			(at 265.43 134.62 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sim.Params" "temp=20"
+			(at 265.43 134.62 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "af70678a-ebcc-4f8d-a51d-9fb3b306549a")
 		)
@@ -8552,6 +9747,76 @@
 			(project "feitw"
 				(path "/ca360145-ae4b-41bc-bd13-c8d35a7aedaa"
 					(reference "#PWR013")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:R")
+		(at 255.27 120.65 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "e7a4ab6c-db64-4a47-857e-b329071bf406")
+		(property "Reference" "R9"
+			(at 257.81 119.3799 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "47k"
+			(at 257.81 121.9199 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder"
+			(at 253.492 120.65 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 255.27 120.65 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Resistor"
+			(at 255.27 120.65 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "1c82163f-0341-491f-9641-9408de79e643")
+		)
+		(pin "2"
+			(uuid "df3f1fb2-e7e5-4931-9cdf-8a7ee61ad736")
+		)
+		(instances
+			(project "feitw"
+				(path "/ca360145-ae4b-41bc-bd13-c8d35a7aedaa"
+					(reference "R9")
 					(unit 1)
 				)
 			)
@@ -8762,7 +10027,7 @@
 		(lib_id "Device:R_Potentiometer")
 		(at 233.68 67.31 90)
 		(unit 1)
-		(exclude_from_sim no)
+		(exclude_from_sim yes)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
@@ -8902,7 +10167,7 @@
 		(at 181.61 45.72 0)
 		(mirror x)
 		(unit 1)
-		(exclude_from_sim no)
+		(exclude_from_sim yes)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
@@ -8973,7 +10238,7 @@
 		(lib_id "Diode:1N4148WS")
 		(at 247.65 67.31 0)
 		(unit 1)
-		(exclude_from_sim no)
+		(exclude_from_sim yes)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
@@ -9059,7 +10324,7 @@
 		(lib_id "Device:R_Potentiometer")
 		(at 218.44 90.17 90)
 		(unit 1)
-		(exclude_from_sim no)
+		(exclude_from_sim yes)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
@@ -9207,7 +10472,7 @@
 		(lib_id "Transistor_BJT:BC847")
 		(at 58.42 118.11 0)
 		(unit 1)
-		(exclude_from_sim no)
+		(exclude_from_sim yes)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
