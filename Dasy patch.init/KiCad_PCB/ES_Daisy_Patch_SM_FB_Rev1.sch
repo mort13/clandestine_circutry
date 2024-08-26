@@ -1,0 +1,1232 @@
+EESchema Schematic File Version 4
+EELAYER 30 0
+EELAYER END
+$Descr User 16803 11155
+encoding utf-8
+Sheet 1 1
+Title ""
+Date ""
+Rev ""
+Comp ""
+Comment1 ""
+Comment2 ""
+Comment3 ""
+Comment4 ""
+$EndDescr
+Wire Wire Line
+	2800 2100 3200 2100
+Wire Wire Line
+	3200 2100 3200 2000
+Text Label 2800 2100 0    10   ~ 0
++12V
+Wire Wire Line
+	8350 1650 8350 1950
+Text Label 8350 1650 0    10   ~ 0
++12V
+Wire Wire Line
+	2800 2500 3200 2500
+Wire Wire Line
+	3200 2500 3200 2600
+Text Label 2800 2500 0    10   ~ 0
+-12V
+Wire Wire Line
+	8150 4950 8150 4550
+Text Label 8150 4950 0    10   ~ 0
+-12V
+Wire Wire Line
+	2800 2300 3500 2300
+Wire Wire Line
+	3500 2300 3500 2400
+Text Label 2800 2300 0    10   ~ 0
+GND
+Wire Wire Line
+	8350 4750 8350 4550
+Text Label 8350 4750 0    10   ~ 0
+GND
+Wire Wire Line
+	2700 8600 2700 8500
+Wire Wire Line
+	2700 8500 2600 8500
+Text Label 2700 8600 0    10   ~ 0
+GND
+Wire Wire Line
+	2600 7700 2700 7700
+Wire Wire Line
+	2700 7700 2700 7800
+Text Label 2600 7700 0    10   ~ 0
+GND
+Wire Wire Line
+	4100 6100 4200 6100
+Wire Wire Line
+	4200 6100 4200 6200
+Text Label 4100 6100 0    10   ~ 0
+GND
+Wire Wire Line
+	4000 6800 4100 6800
+Wire Wire Line
+	4100 6800 4100 6900
+Text Label 4000 6800 0    10   ~ 0
+GND
+Wire Wire Line
+	4100 7600 4200 7600
+Wire Wire Line
+	4200 7600 4200 7700
+Text Label 4100 7600 0    10   ~ 0
+GND
+Wire Wire Line
+	4000 8500 4100 8500
+Wire Wire Line
+	4100 8500 4100 8600
+Text Label 4000 8500 0    10   ~ 0
+GND
+Wire Wire Line
+	5700 8600 5800 8600
+Wire Wire Line
+	5800 8600 5800 8700
+Text Label 5700 8600 0    10   ~ 0
+GND
+Wire Wire Line
+	5700 7600 5800 7600
+Wire Wire Line
+	5800 7600 5800 7700
+Text Label 5700 7600 0    10   ~ 0
+GND
+Wire Wire Line
+	8000 7600 7900 7600
+Wire Wire Line
+	7900 7600 7900 7700
+Text Label 8000 7600 0    10   ~ 0
+GND
+Wire Wire Line
+	8000 8600 7900 8600
+Wire Wire Line
+	7900 8600 7900 8700
+Text Label 8000 8600 0    10   ~ 0
+GND
+Wire Wire Line
+	9100 8100 9000 8100
+Wire Wire Line
+	9000 8100 9000 8200
+Text Label 9100 8100 0    10   ~ 0
+GND
+Wire Wire Line
+	10600 8600 10500 8600
+Wire Wire Line
+	10500 8600 10500 8700
+Text Label 10600 8600 0    10   ~ 0
+GND
+Wire Wire Line
+	10600 7700 10500 7700
+Wire Wire Line
+	10500 7700 10500 7800
+Text Label 10600 7700 0    10   ~ 0
+GND
+Wire Wire Line
+	11200 2300 11200 2200
+Text Label 11200 2300 0    10   ~ 0
+GND
+Wire Wire Line
+	12400 2300 12400 2200
+Text Label 12400 2300 0    10   ~ 0
+GND
+Wire Wire Line
+	14800 2300 14800 2200
+Text Label 14800 2300 0    10   ~ 0
+GND
+Wire Wire Line
+	13600 2300 13600 2200
+Text Label 13600 2300 0    10   ~ 0
+GND
+Wire Wire Line
+	14400 8200 14300 8200
+Wire Wire Line
+	14300 8200 14300 8300
+Wire Wire Line
+	14300 8300 14400 8300
+Wire Wire Line
+	14300 8300 14300 8400
+Wire Wire Line
+	14400 7800 14300 7800
+Wire Wire Line
+	14300 7800 14300 8200
+Connection ~ 14300 8300
+Connection ~ 14300 8200
+Text Label 14400 8200 0    10   ~ 0
+GND
+Wire Wire Line
+	13000 5100 13300 5100
+Wire Wire Line
+	13300 5100 13300 5200
+Text Label 13000 5100 0    10   ~ 0
+GND
+Wire Wire Line
+	13300 4100 13300 4000
+Wire Wire Line
+	13300 4000 13500 4000
+Text Label 13300 4100 0    10   ~ 0
+GND
+Wire Wire Line
+	12300 3900 12400 3900
+Wire Wire Line
+	12400 3900 12400 4000
+Wire Wire Line
+	12400 4000 12400 4100
+Wire Wire Line
+	12300 4000 12400 4000
+Connection ~ 12400 4000
+Text Label 12300 3900 0    10   ~ 0
+GND
+Wire Wire Line
+	3600 4900 3600 4800
+Wire Wire Line
+	2600 4800 3600 4800
+Text Label 3400 4800 0    70   ~ 0
+GND
+Wire Wire Line
+	8150 1950 8150 1650
+Text Label 8200 1900 0    10   ~ 0
++5V
+Wire Wire Line
+	14800 1600 14800 1500
+Text Label 14800 1600 0    10   ~ 0
++5V
+Wire Wire Line
+	13600 1600 13600 1500
+Text Label 13600 1600 0    10   ~ 0
++5V
+Wire Wire Line
+	12400 1600 12400 1500
+Text Label 12400 1600 0    10   ~ 0
++5V
+Wire Wire Line
+	11200 1600 11200 1500
+Text Label 11200 1600 0    10   ~ 0
++5V
+Wire Wire Line
+	2600 3800 4000 3800
+Wire Wire Line
+	4000 3800 4000 3600
+Text Label 3400 3800 0    70   ~ 0
++5V
+Wire Wire Line
+	8050 1950 8050 1850
+Wire Wire Line
+	8050 1850 7850 1850
+Wire Wire Line
+	7850 1850 7850 1650
+Text Label 8100 1900 0    10   ~ 0
++3V3
+Wire Wire Line
+	12400 7500 12400 7600
+Wire Wire Line
+	12400 7600 14400 7600
+Text Label 12400 7500 0    10   ~ 0
++3V3
+Wire Wire Line
+	2600 3700 3700 3700
+Wire Wire Line
+	3700 3700 3700 3600
+Text Label 3400 3700 0    70   ~ 0
++3V3
+Wire Wire Line
+	11400 1900 11500 1900
+Text Label 11500 1900 0    70   ~ 0
+SIG_KNOB1
+Wire Wire Line
+	7500 2200 6500 2200
+Text Label 6600 2200 0    70   ~ 0
+SIG_KNOB1
+Wire Wire Line
+	12600 1900 12700 1900
+Text Label 12700 1900 0    70   ~ 0
+SIG_KNOB2
+Wire Wire Line
+	7500 2300 6500 2300
+Text Label 6600 2300 0    70   ~ 0
+SIG_KNOB2
+Wire Wire Line
+	13800 1900 13900 1900
+Text Label 13900 1900 0    70   ~ 0
+SIG_KNOB3
+Wire Wire Line
+	7500 2400 6500 2400
+Text Label 6600 2400 0    70   ~ 0
+SIG_KNOB3
+Wire Wire Line
+	15000 1900 15100 1900
+Text Label 15100 1900 0    70   ~ 0
+SIG_KNOB4
+Wire Wire Line
+	7500 2500 6500 2500
+Text Label 6600 2500 0    70   ~ 0
+SIG_KNOB4
+Wire Wire Line
+	14400 7400 13200 7400
+Text Label 13200 7400 2    70   ~ 0
+SD_D3
+Wire Wire Line
+	7500 3600 6500 3600
+Text Label 6600 3600 0    70   ~ 0
+SD_D3
+Wire Wire Line
+	14400 7300 13200 7300
+Text Label 13200 7300 2    70   ~ 0
+SD_D2
+Wire Wire Line
+	7500 3500 6500 3500
+Text Label 6600 3500 0    70   ~ 0
+SD_D2
+Wire Wire Line
+	14400 8000 13200 8000
+Text Label 13200 8000 2    70   ~ 0
+SD_D1
+Wire Wire Line
+	7500 3400 6500 3400
+Text Label 6600 3400 0    70   ~ 0
+SD_D1
+Wire Wire Line
+	14400 7900 13200 7900
+Text Label 13200 7900 2    70   ~ 0
+SD_D0
+Wire Wire Line
+	7500 3300 6500 3300
+Text Label 6600 3300 0    70   ~ 0
+SD_D0
+Wire Wire Line
+	14400 7500 13200 7500
+Text Label 13200 7500 2    70   ~ 0
+SD_CMD
+Wire Wire Line
+	7500 3200 6500 3200
+Text Label 6600 3200 0    70   ~ 0
+SD_CMD
+Wire Wire Line
+	14400 7700 13200 7700
+Text Label 13200 7700 2    70   ~ 0
+SD_CK
+Wire Wire Line
+	7500 3100 6500 3100
+Text Label 6600 3100 0    70   ~ 0
+SD_CK
+Wire Wire Line
+	9100 2300 10200 2300
+Text Label 10100 2300 0    70   ~ 0
+SIG_LIN
+Wire Wire Line
+	2600 7500 2900 7500
+Text Label 2900 7500 0    70   ~ 0
+SIG_LIN
+Wire Wire Line
+	2600 8400 2800 8400
+Text Label 2800 8400 0    70   ~ 0
+SIG_LIN
+Wire Wire Line
+	9100 2400 10200 2400
+Text Label 10100 2400 0    70   ~ 0
+SIG_RIN
+Wire Wire Line
+	2600 8300 2900 8300
+Text Label 2900 8300 0    70   ~ 0
+SIG_RIN
+Wire Wire Line
+	9100 2600 10200 2600
+Text Label 10100 2600 0    70   ~ 0
+SIG_LOUT
+Wire Wire Line
+	10600 7500 10200 7500
+Text Label 10200 7500 2    70   ~ 0
+SIG_LOUT
+Wire Wire Line
+	9100 2700 10200 2700
+Text Label 10100 2700 0    70   ~ 0
+SIG_ROUT
+Wire Wire Line
+	10600 8400 10200 8400
+Text Label 10200 8400 2    70   ~ 0
+SIG_ROUT
+Wire Wire Line
+	9100 2900 10200 2900
+Text Label 10100 2900 0    70   ~ 0
+SIG_CVOUT1
+Wire Wire Line
+	9100 7900 8700 7900
+Text Label 8700 7900 2    70   ~ 0
+SIG_CVOUT1
+Wire Wire Line
+	9100 3000 10200 3000
+Text Label 10100 3000 0    70   ~ 0
+SIG_CVOUT2
+Wire Wire Line
+	12700 5100 12300 5100
+Text Label 12300 5100 2    70   ~ 0
+SIG_CVOUT2
+Wire Wire Line
+	7500 2600 6500 2600
+Text Label 6600 2600 0    70   ~ 0
+SIG_CV1
+Wire Wire Line
+	4100 5900 4500 5900
+Text Label 4500 5900 0    70   ~ 0
+SIG_CV1
+Wire Wire Line
+	7500 2700 6500 2700
+Text Label 6600 2700 0    70   ~ 0
+SIG_CV2
+Wire Wire Line
+	4000 6600 4500 6600
+Text Label 4500 6600 0    70   ~ 0
+SIG_CV2
+Wire Wire Line
+	7500 2800 6500 2800
+Text Label 6600 2800 0    70   ~ 0
+SIG_CV3
+Wire Wire Line
+	4100 7400 4500 7400
+Text Label 4500 7400 0    70   ~ 0
+SIG_CV3
+Wire Wire Line
+	7500 2900 6500 2900
+Text Label 6600 2900 0    70   ~ 0
+SIG_CV4
+Wire Wire Line
+	4000 8300 4500 8300
+Text Label 4500 8300 0    70   ~ 0
+SIG_CV4
+Wire Wire Line
+	9100 3200 10200 3200
+Text Label 10100 3200 0    70   ~ 0
+SIG_SW1
+Wire Wire Line
+	11900 3900 11700 3900
+Wire Wire Line
+	11700 3900 11700 4000
+Wire Wire Line
+	11700 4000 11900 4000
+Wire Wire Line
+	11700 3900 11500 3900
+Connection ~ 11700 3900
+Text Label 11500 3900 2    70   ~ 0
+SIG_SW1
+Wire Wire Line
+	9100 3300 10200 3300
+Text Label 10100 3300 0    70   ~ 0
+SIG_SW2
+Wire Wire Line
+	13900 3900 14100 3900
+Text Label 14100 3900 0    70   ~ 0
+SIG_SW2
+Wire Wire Line
+	9100 3500 10200 3500
+Text Label 10100 3500 0    70   ~ 0
+SIG_GATE_IN_1
+Wire Wire Line
+	5700 7400 6000 7400
+Text Label 6000 7400 0    70   ~ 0
+SIG_GATE_IN_1
+Wire Wire Line
+	9100 3600 10200 3600
+Text Label 10100 3600 0    70   ~ 0
+SIG_GATE_IN_2
+Wire Wire Line
+	5700 8400 6000 8400
+Text Label 6000 8400 0    70   ~ 0
+SIG_GATE_IN_2
+Wire Wire Line
+	9100 3700 10200 3700
+Text Label 10100 3700 0    70   ~ 0
+SIG_GATE_OUT_1
+Wire Wire Line
+	8000 7400 7700 7400
+Text Label 7700 7400 2    70   ~ 0
+SIG_GATE_OUT_1
+Wire Wire Line
+	9100 3800 10200 3800
+Text Label 10100 3800 0    70   ~ 0
+SIG_GATE_OUT_2
+Wire Wire Line
+	8000 8400 7700 8400
+Text Label 7700 8400 2    70   ~ 0
+SIG_GATE_OUT_2
+Wire Wire Line
+	7500 3800 6500 3800
+Text Label 6600 3800 0    70   ~ 0
+SIG_UART_RX
+Wire Wire Line
+	2600 4500 3500 4500
+Text Label 3400 4500 0    70   ~ 0
+SIG_UART_RX
+Wire Wire Line
+	7500 4100 6500 4100
+Text Label 6600 4100 0    70   ~ 0
+SIG_USB_DP
+Wire Wire Line
+	2600 3900 3500 3900
+Text Label 3400 3900 0    70   ~ 0
+SIG_USB_DP
+Wire Wire Line
+	7500 4200 6500 4200
+Text Label 6600 4200 0    70   ~ 0
+SIG_USB_DM
+Wire Wire Line
+	2600 4000 3500 4000
+Text Label 3400 4000 0    70   ~ 0
+SIG_USB_DM
+Wire Wire Line
+	7500 3900 6500 3900
+Text Label 6600 3900 0    70   ~ 0
+SIG_UART_TX
+Wire Wire Line
+	2600 4600 3500 4600
+Text Label 3400 4600 2    70   ~ 0
+SIG_UART_TX
+Wire Wire Line
+	9100 4000 10200 4000
+Text Label 10100 4000 0    70   ~ 0
+SIG_SPI_NSS
+Wire Wire Line
+	2600 4400 3500 4400
+Text Label 3400 4400 0    70   ~ 0
+SIG_SPI_NSS
+Wire Wire Line
+	9100 4100 10200 4100
+Text Label 10100 4100 0    70   ~ 0
+SIG_SPI_MOSI
+Wire Wire Line
+	2600 4100 3500 4100
+Text Label 3400 4100 0    70   ~ 0
+SIG_SPI_MOSI
+Wire Wire Line
+	9100 4200 10200 4200
+Text Label 10100 4200 0    70   ~ 0
+SIG_SPI_MISO
+Wire Wire Line
+	2600 4200 3500 4200
+Text Label 3400 4200 0    70   ~ 0
+SIG_SPI_MISO
+Wire Wire Line
+	9100 4300 10200 4300
+Text Label 10100 4300 0    70   ~ 0
+SIG_SPI_SCK
+Wire Wire Line
+	2600 4300 3500 4300
+Text Label 3400 4300 0    70   ~ 0
+SIG_SPI_SCK
+$Comp
+L ES_Daisy_Patch_SM_FB_Rev1-eagle-import:A3L-LOC #FRAME1
+U 1 1 B853E666
+P 900 10300
+F 0 "#FRAME1" H 900 10300 50  0001 C CNN
+F 1 "mainframe" H 900 10300 50  0001 C CNN
+F 2 "" H 900 10300 50  0001 C CNN
+F 3 "" H 900 10300 50  0001 C CNN
+	1    900  10300
+	1    0    0    -1  
+$EndComp
+$Comp
+L ES_Daisy_Patch_SM_FB_Rev1-eagle-import:EURO_JACK J_LIN1
+U 1 1 4BBA333D
+P 2400 7600
+F 0 "J_LIN1" H 2300 7760 59  0000 L BNN
+F 1 "EURO_JACK" H 2300 7360 59  0000 L BNN
+F 2 "ES_Daisy_Patch_SM_FB_Rev1:S_JACK" H 2400 7600 50  0001 C CNN
+F 3 "" H 2400 7600 50  0001 C CNN
+	1    2400 7600
+	-1   0    0    -1  
+$EndComp
+$Comp
+L ES_Daisy_Patch_SM_FB_Rev1-eagle-import:EURO_JACK J_RIN1
+U 1 1 E7314FEE
+P 2400 8400
+F 0 "J_RIN1" H 2300 8560 59  0000 L BNN
+F 1 "EURO_JACK" H 2300 8160 59  0000 L BNN
+F 2 "ES_Daisy_Patch_SM_FB_Rev1:S_JACK" H 2400 8400 50  0001 C CNN
+F 3 "" H 2400 8400 50  0001 C CNN
+	1    2400 8400
+	-1   0    0    -1  
+$EndComp
+$Comp
+L ES_Daisy_Patch_SM_FB_Rev1-eagle-import:EURO_JACK J_CV1
+U 1 1 DF9C567C
+P 3900 6000
+F 0 "J_CV1" H 3800 6160 59  0000 L BNN
+F 1 "EURO_JACK" H 3800 5760 59  0000 L BNN
+F 2 "ES_Daisy_Patch_SM_FB_Rev1:S_JACK" H 3900 6000 50  0001 C CNN
+F 3 "" H 3900 6000 50  0001 C CNN
+	1    3900 6000
+	-1   0    0    -1  
+$EndComp
+$Comp
+L ES_Daisy_Patch_SM_FB_Rev1-eagle-import:EURO_JACK J_CV2
+U 1 1 FB4FEDFE
+P 3800 6700
+F 0 "J_CV2" H 3700 6860 59  0000 L BNN
+F 1 "EURO_JACK" H 3700 6460 59  0000 L BNN
+F 2 "ES_Daisy_Patch_SM_FB_Rev1:S_JACK" H 3800 6700 50  0001 C CNN
+F 3 "" H 3800 6700 50  0001 C CNN
+	1    3800 6700
+	-1   0    0    -1  
+$EndComp
+$Comp
+L ES_Daisy_Patch_SM_FB_Rev1-eagle-import:EURO_JACK J_CV3
+U 1 1 3725D1B6
+P 3900 7500
+F 0 "J_CV3" H 3800 7660 59  0000 L BNN
+F 1 "EURO_JACK" H 3800 7260 59  0000 L BNN
+F 2 "ES_Daisy_Patch_SM_FB_Rev1:S_JACK" H 3900 7500 50  0001 C CNN
+F 3 "" H 3900 7500 50  0001 C CNN
+	1    3900 7500
+	-1   0    0    -1  
+$EndComp
+$Comp
+L ES_Daisy_Patch_SM_FB_Rev1-eagle-import:EURO_JACK J_CV4
+U 1 1 D5857B9B
+P 3800 8400
+F 0 "J_CV4" H 3700 8560 59  0000 L BNN
+F 1 "EURO_JACK" H 3700 8160 59  0000 L BNN
+F 2 "ES_Daisy_Patch_SM_FB_Rev1:S_JACK" H 3800 8400 50  0001 C CNN
+F 3 "" H 3800 8400 50  0001 C CNN
+	1    3800 8400
+	-1   0    0    -1  
+$EndComp
+$Comp
+L ES_Daisy_Patch_SM_FB_Rev1-eagle-import:EURO_JACK J_GATEIN1
+U 1 1 3B55E494
+P 5500 7500
+F 0 "J_GATEIN1" H 5400 7660 59  0000 L BNN
+F 1 "EURO_JACK" H 5400 7260 59  0000 L BNN
+F 2 "ES_Daisy_Patch_SM_FB_Rev1:S_JACK" H 5500 7500 50  0001 C CNN
+F 3 "" H 5500 7500 50  0001 C CNN
+	1    5500 7500
+	-1   0    0    -1  
+$EndComp
+$Comp
+L ES_Daisy_Patch_SM_FB_Rev1-eagle-import:EURO_JACK J_GATEIN2
+U 1 1 275F49FF
+P 5500 8500
+F 0 "J_GATEIN2" H 5400 8660 59  0000 L BNN
+F 1 "EURO_JACK" H 5400 8260 59  0000 L BNN
+F 2 "ES_Daisy_Patch_SM_FB_Rev1:S_JACK" H 5500 8500 50  0001 C CNN
+F 3 "" H 5500 8500 50  0001 C CNN
+	1    5500 8500
+	-1   0    0    -1  
+$EndComp
+$Comp
+L ES_Daisy_Patch_SM_FB_Rev1-eagle-import:EURO_JACK J_GATEOUT1
+U 1 1 79CC22D3
+P 8200 7500
+F 0 "J_GATEOUT1" H 8100 7660 59  0000 L BNN
+F 1 "EURO_JACK" H 8100 7260 59  0000 L BNN
+F 2 "ES_Daisy_Patch_SM_FB_Rev1:S_JACK" H 8200 7500 50  0001 C CNN
+F 3 "" H 8200 7500 50  0001 C CNN
+	1    8200 7500
+	1    0    0    -1  
+$EndComp
+$Comp
+L ES_Daisy_Patch_SM_FB_Rev1-eagle-import:EURO_JACK J_GATEOUT2
+U 1 1 0B0C8979
+P 8200 8500
+F 0 "J_GATEOUT2" H 8100 8660 59  0000 L BNN
+F 1 "EURO_JACK" H 8100 8260 59  0000 L BNN
+F 2 "ES_Daisy_Patch_SM_FB_Rev1:S_JACK" H 8200 8500 50  0001 C CNN
+F 3 "" H 8200 8500 50  0001 C CNN
+	1    8200 8500
+	1    0    0    -1  
+$EndComp
+$Comp
+L ES_Daisy_Patch_SM_FB_Rev1-eagle-import:EURO_JACK J_CVOUT1
+U 1 1 8FE9F6C1
+P 9300 8000
+F 0 "J_CVOUT1" H 9200 8160 59  0000 L BNN
+F 1 "EURO_JACK" H 9200 7760 59  0000 L BNN
+F 2 "ES_Daisy_Patch_SM_FB_Rev1:S_JACK" H 9300 8000 50  0001 C CNN
+F 3 "" H 9300 8000 50  0001 C CNN
+	1    9300 8000
+	1    0    0    -1  
+$EndComp
+$Comp
+L ES_Daisy_Patch_SM_FB_Rev1-eagle-import:EURO_JACK J_LOUT1
+U 1 1 5A4558BB
+P 10800 7600
+F 0 "J_LOUT1" H 10700 7760 59  0000 L BNN
+F 1 "EURO_JACK" H 10700 7360 59  0000 L BNN
+F 2 "ES_Daisy_Patch_SM_FB_Rev1:S_JACK" H 10800 7600 50  0001 C CNN
+F 3 "" H 10800 7600 50  0001 C CNN
+	1    10800 7600
+	1    0    0    -1  
+$EndComp
+$Comp
+L ES_Daisy_Patch_SM_FB_Rev1-eagle-import:EURO_JACK J_ROUT1
+U 1 1 0D7C8513
+P 10800 8500
+F 0 "J_ROUT1" H 10700 8660 59  0000 L BNN
+F 1 "EURO_JACK" H 10700 8260 59  0000 L BNN
+F 2 "ES_Daisy_Patch_SM_FB_Rev1:S_JACK" H 10800 8500 50  0001 C CNN
+F 3 "" H 10800 8500 50  0001 C CNN
+	1    10800 8500
+	1    0    0    -1  
+$EndComp
+$Comp
+L ES_Daisy_Patch_SM_FB_Rev1-eagle-import:GND #GND01
+U 1 1 DB8695AC
+P 8350 4850
+F 0 "#GND01" H 8350 4850 50  0001 C CNN
+F 1 "GND" H 8250 4750 59  0000 L BNN
+F 2 "" H 8350 4850 50  0001 C CNN
+F 3 "" H 8350 4850 50  0001 C CNN
+	1    8350 4850
+	1    0    0    -1  
+$EndComp
+$Comp
+L ES_Daisy_Patch_SM_FB_Rev1-eagle-import:GND #GND02
+U 1 1 13A376EC
+P 2700 8700
+F 0 "#GND02" H 2700 8700 50  0001 C CNN
+F 1 "GND" H 2600 8600 59  0000 L BNN
+F 2 "" H 2700 8700 50  0001 C CNN
+F 3 "" H 2700 8700 50  0001 C CNN
+	1    2700 8700
+	1    0    0    -1  
+$EndComp
+$Comp
+L ES_Daisy_Patch_SM_FB_Rev1-eagle-import:GND #GND03
+U 1 1 7679BDCC
+P 2700 7900
+F 0 "#GND03" H 2700 7900 50  0001 C CNN
+F 1 "GND" H 2600 7800 59  0000 L BNN
+F 2 "" H 2700 7900 50  0001 C CNN
+F 3 "" H 2700 7900 50  0001 C CNN
+	1    2700 7900
+	1    0    0    -1  
+$EndComp
+$Comp
+L ES_Daisy_Patch_SM_FB_Rev1-eagle-import:GND #GND04
+U 1 1 D896219B
+P 4200 6300
+F 0 "#GND04" H 4200 6300 50  0001 C CNN
+F 1 "GND" H 4100 6200 59  0000 L BNN
+F 2 "" H 4200 6300 50  0001 C CNN
+F 3 "" H 4200 6300 50  0001 C CNN
+	1    4200 6300
+	1    0    0    -1  
+$EndComp
+$Comp
+L ES_Daisy_Patch_SM_FB_Rev1-eagle-import:GND #GND05
+U 1 1 EF27308A
+P 4100 7000
+F 0 "#GND05" H 4100 7000 50  0001 C CNN
+F 1 "GND" H 4000 6900 59  0000 L BNN
+F 2 "" H 4100 7000 50  0001 C CNN
+F 3 "" H 4100 7000 50  0001 C CNN
+	1    4100 7000
+	1    0    0    -1  
+$EndComp
+$Comp
+L ES_Daisy_Patch_SM_FB_Rev1-eagle-import:GND #GND06
+U 1 1 A07C0193
+P 4200 7800
+F 0 "#GND06" H 4200 7800 50  0001 C CNN
+F 1 "GND" H 4100 7700 59  0000 L BNN
+F 2 "" H 4200 7800 50  0001 C CNN
+F 3 "" H 4200 7800 50  0001 C CNN
+	1    4200 7800
+	1    0    0    -1  
+$EndComp
+$Comp
+L ES_Daisy_Patch_SM_FB_Rev1-eagle-import:GND #GND07
+U 1 1 9CDE76EF
+P 4100 8700
+F 0 "#GND07" H 4100 8700 50  0001 C CNN
+F 1 "GND" H 4000 8600 59  0000 L BNN
+F 2 "" H 4100 8700 50  0001 C CNN
+F 3 "" H 4100 8700 50  0001 C CNN
+	1    4100 8700
+	1    0    0    -1  
+$EndComp
+$Comp
+L ES_Daisy_Patch_SM_FB_Rev1-eagle-import:GND #GND08
+U 1 1 DF24F9E8
+P 5800 8800
+F 0 "#GND08" H 5800 8800 50  0001 C CNN
+F 1 "GND" H 5700 8700 59  0000 L BNN
+F 2 "" H 5800 8800 50  0001 C CNN
+F 3 "" H 5800 8800 50  0001 C CNN
+	1    5800 8800
+	1    0    0    -1  
+$EndComp
+$Comp
+L ES_Daisy_Patch_SM_FB_Rev1-eagle-import:GND #GND09
+U 1 1 928DF91D
+P 5800 7800
+F 0 "#GND09" H 5800 7800 50  0001 C CNN
+F 1 "GND" H 5700 7700 59  0000 L BNN
+F 2 "" H 5800 7800 50  0001 C CNN
+F 3 "" H 5800 7800 50  0001 C CNN
+	1    5800 7800
+	1    0    0    -1  
+$EndComp
+$Comp
+L ES_Daisy_Patch_SM_FB_Rev1-eagle-import:GND #GND010
+U 1 1 845C69E3
+P 7900 7800
+F 0 "#GND010" H 7900 7800 50  0001 C CNN
+F 1 "GND" H 7800 7700 59  0000 L BNN
+F 2 "" H 7900 7800 50  0001 C CNN
+F 3 "" H 7900 7800 50  0001 C CNN
+	1    7900 7800
+	1    0    0    -1  
+$EndComp
+$Comp
+L ES_Daisy_Patch_SM_FB_Rev1-eagle-import:GND #GND011
+U 1 1 19DA8D48
+P 7900 8800
+F 0 "#GND011" H 7900 8800 50  0001 C CNN
+F 1 "GND" H 7800 8700 59  0000 L BNN
+F 2 "" H 7900 8800 50  0001 C CNN
+F 3 "" H 7900 8800 50  0001 C CNN
+	1    7900 8800
+	1    0    0    -1  
+$EndComp
+$Comp
+L ES_Daisy_Patch_SM_FB_Rev1-eagle-import:GND #GND012
+U 1 1 A5F18D96
+P 9000 8300
+F 0 "#GND012" H 9000 8300 50  0001 C CNN
+F 1 "GND" H 8900 8200 59  0000 L BNN
+F 2 "" H 9000 8300 50  0001 C CNN
+F 3 "" H 9000 8300 50  0001 C CNN
+	1    9000 8300
+	1    0    0    -1  
+$EndComp
+$Comp
+L ES_Daisy_Patch_SM_FB_Rev1-eagle-import:GND #GND013
+U 1 1 9E3D6951
+P 10500 8800
+F 0 "#GND013" H 10500 8800 50  0001 C CNN
+F 1 "GND" H 10400 8700 59  0000 L BNN
+F 2 "" H 10500 8800 50  0001 C CNN
+F 3 "" H 10500 8800 50  0001 C CNN
+	1    10500 8800
+	1    0    0    -1  
+$EndComp
+$Comp
+L ES_Daisy_Patch_SM_FB_Rev1-eagle-import:GND #GND014
+U 1 1 109F320A
+P 10500 7900
+F 0 "#GND014" H 10500 7900 50  0001 C CNN
+F 1 "GND" H 10400 7800 59  0000 L BNN
+F 2 "" H 10500 7900 50  0001 C CNN
+F 3 "" H 10500 7900 50  0001 C CNN
+	1    10500 7900
+	1    0    0    -1  
+$EndComp
+$Comp
+L ES_Daisy_Patch_SM_FB_Rev1-eagle-import:GND #GND015
+U 1 1 257B06B4
+P 11200 2400
+F 0 "#GND015" H 11200 2400 50  0001 C CNN
+F 1 "GND" H 11100 2300 59  0000 L BNN
+F 2 "" H 11200 2400 50  0001 C CNN
+F 3 "" H 11200 2400 50  0001 C CNN
+	1    11200 2400
+	1    0    0    -1  
+$EndComp
+$Comp
+L ES_Daisy_Patch_SM_FB_Rev1-eagle-import:EURORACK_POWERLOCK EP1
+U 1 1 8C8C5E52
+P 2400 2200
+F 0 "EP1" H 2400 2200 50  0001 C CNN
+F 1 "EURORACK_POWERLOCK" H 2400 2200 50  0001 C CNN
+F 2 "ES_Daisy_Patch_SM_FB_Rev1:EURORACK_POWER_SHROUD_LOCK" H 2400 2200 50  0001 C CNN
+F 3 "" H 2400 2200 50  0001 C CNN
+	1    2400 2200
+	-1   0    0    -1  
+$EndComp
+$Comp
+L ES_Daisy_Patch_SM_FB_Rev1-eagle-import:+12V #SUPPLY01
+U 1 1 E46721A6
+P 3200 1900
+F 0 "#SUPPLY01" H 3200 1900 50  0001 C CNN
+F 1 "+12V" H 3100 2025 59  0000 L BNN
+F 2 "" H 3200 1900 50  0001 C CNN
+F 3 "" H 3200 1900 50  0001 C CNN
+	1    3200 1900
+	-1   0    0    -1  
+$EndComp
+$Comp
+L ES_Daisy_Patch_SM_FB_Rev1-eagle-import:-12V #SUPPLY02
+U 1 1 33EFDB7C
+P 3200 2700
+F 0 "#SUPPLY02" H 3200 2700 50  0001 C CNN
+F 1 "-12V" H 3075 2515 59  0000 L BNN
+F 2 "" H 3200 2700 50  0001 C CNN
+F 3 "" H 3200 2700 50  0001 C CNN
+	1    3200 2700
+	-1   0    0    -1  
+$EndComp
+$Comp
+L ES_Daisy_Patch_SM_FB_Rev1-eagle-import:GND #GND016
+U 1 1 99D4D269
+P 3500 2500
+F 0 "#GND016" H 3500 2500 50  0001 C CNN
+F 1 "GND" H 3400 2400 59  0000 L BNN
+F 2 "" H 3500 2500 50  0001 C CNN
+F 3 "" H 3500 2500 50  0001 C CNN
+	1    3500 2500
+	1    0    0    -1  
+$EndComp
+$Comp
+L ES_Daisy_Patch_SM_FB_Rev1-eagle-import:+5V #SUPPLY03
+U 1 1 D5692080
+P 8150 1550
+F 0 "#SUPPLY03" H 8150 1550 50  0001 C CNN
+F 1 "+5V" H 8075 1675 59  0000 L BNN
+F 2 "" H 8150 1550 50  0001 C CNN
+F 3 "" H 8150 1550 50  0001 C CNN
+	1    8150 1550
+	1    0    0    -1  
+$EndComp
+$Comp
+L ES_Daisy_Patch_SM_FB_Rev1-eagle-import:+3V3 #SUPPLY04
+U 1 1 6DF68C43
+P 7850 1650
+F 0 "#SUPPLY04" H 7850 1650 50  0001 C CNN
+F 1 "+3V3" H 7775 1875 59  0000 L BNN
+F 2 "" H 7850 1650 50  0001 C CNN
+F 3 "" H 7850 1650 50  0001 C CNN
+	1    7850 1650
+	1    0    0    -1  
+$EndComp
+$Comp
+L ES_Daisy_Patch_SM_FB_Rev1-eagle-import:+12V #SUPPLY05
+U 1 1 FD320F9F
+P 8350 1550
+F 0 "#SUPPLY05" H 8350 1550 50  0001 C CNN
+F 1 "+12V" H 8250 1675 59  0000 L BNN
+F 2 "" H 8350 1550 50  0001 C CNN
+F 3 "" H 8350 1550 50  0001 C CNN
+	1    8350 1550
+	-1   0    0    -1  
+$EndComp
+$Comp
+L ES_Daisy_Patch_SM_FB_Rev1-eagle-import:-12V #SUPPLY06
+U 1 1 C21E2EB3
+P 8150 5050
+F 0 "#SUPPLY06" H 8150 5050 50  0001 C CNN
+F 1 "-12V" H 8025 4865 59  0000 L BNN
+F 2 "" H 8150 5050 50  0001 C CNN
+F 3 "" H 8150 5050 50  0001 C CNN
+	1    8150 5050
+	-1   0    0    -1  
+$EndComp
+$Comp
+L ES_Daisy_Patch_SM_FB_Rev1-eagle-import:POT_9MM_SNAP-IN__ VR_1
+U 1 1 719353AA
+P 11200 1900
+F 0 "VR_1" V 11000 1800 59  0000 L BNN
+F 1 "M-10K-B-D" V 11100 1800 59  0000 L BNN
+F 2 "ES_Daisy_Patch_SM_FB_Rev1:9MM_SNAP-IN_POT_SILK" H 11200 1900 50  0001 C CNN
+F 3 "" H 11200 1900 50  0001 C CNN
+	1    11200 1900
+	1    0    0    -1  
+$EndComp
+$Comp
+L ES_Daisy_Patch_SM_FB_Rev1-eagle-import:POT_9MM_SNAP-IN__ VR_2
+U 1 1 67E2F28F
+P 12400 1900
+F 0 "VR_2" V 12200 1800 59  0000 L BNN
+F 1 "M-10K-B-D" V 12300 1800 59  0000 L BNN
+F 2 "ES_Daisy_Patch_SM_FB_Rev1:9MM_SNAP-IN_POT_SILK" H 12400 1900 50  0001 C CNN
+F 3 "" H 12400 1900 50  0001 C CNN
+	1    12400 1900
+	1    0    0    -1  
+$EndComp
+$Comp
+L ES_Daisy_Patch_SM_FB_Rev1-eagle-import:POT_9MM_SNAP-IN__ VR_3
+U 1 1 20862C89
+P 13600 1900
+F 0 "VR_3" V 13400 1800 59  0000 L BNN
+F 1 "M-10K-B-D" V 13500 1800 59  0000 L BNN
+F 2 "ES_Daisy_Patch_SM_FB_Rev1:9MM_SNAP-IN_POT_SILK" H 13600 1900 50  0001 C CNN
+F 3 "" H 13600 1900 50  0001 C CNN
+	1    13600 1900
+	1    0    0    -1  
+$EndComp
+$Comp
+L ES_Daisy_Patch_SM_FB_Rev1-eagle-import:POT_9MM_SNAP-IN__ VR_4
+U 1 1 4880BD8A
+P 14800 1900
+F 0 "VR_4" V 14600 1800 59  0000 L BNN
+F 1 "M-10K-B-D" V 14700 1800 59  0000 L BNN
+F 2 "ES_Daisy_Patch_SM_FB_Rev1:9MM_SNAP-IN_POT_SILK" H 14800 1900 50  0001 C CNN
+F 3 "" H 14800 1900 50  0001 C CNN
+	1    14800 1900
+	1    0    0    -1  
+$EndComp
+$Comp
+L ES_Daisy_Patch_SM_FB_Rev1-eagle-import:GND #GND017
+U 1 1 0A5A0AC8
+P 12400 2400
+F 0 "#GND017" H 12400 2400 50  0001 C CNN
+F 1 "GND" H 12300 2300 59  0000 L BNN
+F 2 "" H 12400 2400 50  0001 C CNN
+F 3 "" H 12400 2400 50  0001 C CNN
+	1    12400 2400
+	1    0    0    -1  
+$EndComp
+$Comp
+L ES_Daisy_Patch_SM_FB_Rev1-eagle-import:GND #GND018
+U 1 1 E0081D19
+P 13600 2400
+F 0 "#GND018" H 13600 2400 50  0001 C CNN
+F 1 "GND" H 13500 2300 59  0000 L BNN
+F 2 "" H 13600 2400 50  0001 C CNN
+F 3 "" H 13600 2400 50  0001 C CNN
+	1    13600 2400
+	1    0    0    -1  
+$EndComp
+$Comp
+L ES_Daisy_Patch_SM_FB_Rev1-eagle-import:GND #GND019
+U 1 1 48B3EBD8
+P 14800 2400
+F 0 "#GND019" H 14800 2400 50  0001 C CNN
+F 1 "GND" H 14700 2300 59  0000 L BNN
+F 2 "" H 14800 2400 50  0001 C CNN
+F 3 "" H 14800 2400 50  0001 C CNN
+	1    14800 2400
+	1    0    0    -1  
+$EndComp
+$Comp
+L ES_Daisy_Patch_SM_FB_Rev1-eagle-import:+5V #SUPPLY07
+U 1 1 70B0FDB1
+P 11200 1400
+F 0 "#SUPPLY07" H 11200 1400 50  0001 C CNN
+F 1 "+5V" H 11125 1525 59  0000 L BNN
+F 2 "" H 11200 1400 50  0001 C CNN
+F 3 "" H 11200 1400 50  0001 C CNN
+	1    11200 1400
+	1    0    0    -1  
+$EndComp
+$Comp
+L ES_Daisy_Patch_SM_FB_Rev1-eagle-import:+5V #SUPPLY08
+U 1 1 CC52D7E0
+P 12400 1400
+F 0 "#SUPPLY08" H 12400 1400 50  0001 C CNN
+F 1 "+5V" H 12325 1525 59  0000 L BNN
+F 2 "" H 12400 1400 50  0001 C CNN
+F 3 "" H 12400 1400 50  0001 C CNN
+	1    12400 1400
+	1    0    0    -1  
+$EndComp
+$Comp
+L ES_Daisy_Patch_SM_FB_Rev1-eagle-import:+5V #SUPPLY09
+U 1 1 7F737C64
+P 13600 1400
+F 0 "#SUPPLY09" H 13600 1400 50  0001 C CNN
+F 1 "+5V" H 13525 1525 59  0000 L BNN
+F 2 "" H 13600 1400 50  0001 C CNN
+F 3 "" H 13600 1400 50  0001 C CNN
+	1    13600 1400
+	1    0    0    -1  
+$EndComp
+$Comp
+L ES_Daisy_Patch_SM_FB_Rev1-eagle-import:+5V #SUPPLY010
+U 1 1 AC3081B0
+P 14800 1400
+F 0 "#SUPPLY010" H 14800 1400 50  0001 C CNN
+F 1 "+5V" H 14725 1525 59  0000 L BNN
+F 2 "" H 14800 1400 50  0001 C CNN
+F 3 "" H 14800 1400 50  0001 C CNN
+	1    14800 1400
+	1    0    0    -1  
+$EndComp
+$Comp
+L ES_Daisy_Patch_SM_FB_Rev1-eagle-import:MICRO_SD_CARDCENTERED U_SDCARD1
+U 1 1 73559841
+P 14700 7800
+F 0 "U_SDCARD1" H 14600 8420 59  0000 L BNN
+F 1 "MICRO_SD_CARDCENTERED" H 14300 8600 59  0000 L BNN
+F 2 "ES_Daisy_Patch_SM_FB_Rev1:VERT_MICROSD_CENTERED" H 14700 7800 50  0001 C CNN
+F 3 "" H 14700 7800 50  0001 C CNN
+	1    14700 7800
+	1    0    0    -1  
+$EndComp
+$Comp
+L ES_Daisy_Patch_SM_FB_Rev1-eagle-import:GND #GND020
+U 1 1 2DF12463
+P 14300 8500
+F 0 "#GND020" H 14300 8500 50  0001 C CNN
+F 1 "GND" H 14200 8400 59  0000 L BNN
+F 2 "" H 14300 8500 50  0001 C CNN
+F 3 "" H 14300 8500 50  0001 C CNN
+	1    14300 8500
+	1    0    0    -1  
+$EndComp
+$Comp
+L ES_Daisy_Patch_SM_FB_Rev1-eagle-import:+3V3 #SUPPLY011
+U 1 1 EFE06A32
+P 12400 7500
+F 0 "#SUPPLY011" H 12400 7500 50  0001 C CNN
+F 1 "+3V3" H 12325 7725 59  0000 L BNN
+F 2 "" H 12400 7500 50  0001 C CNN
+F 3 "" H 12400 7500 50  0001 C CNN
+	1    12400 7500
+	1    0    0    -1  
+$EndComp
+$Comp
+L ES_Daisy_Patch_SM_FB_Rev1-eagle-import:LED LED_1
+U 1 1 740FD8BA
+P 12800 5100
+F 0 "LED_1" V 12940 4920 59  0000 L BNN
+F 1 "LED" V 13025 4920 59  0000 L BNN
+F 2 "ES_Daisy_Patch_SM_FB_Rev1:LED" H 12800 5100 50  0001 C CNN
+F 3 "" H 12800 5100 50  0001 C CNN
+	1    12800 5100
+	0    -1   -1   0   
+$EndComp
+$Comp
+L ES_Daisy_Patch_SM_FB_Rev1-eagle-import:TAC_SWITCH_PTH_SILK SW_1
+U 1 1 AAB0569C
+P 12100 3900
+F 0 "SW_1" H 12000 4150 59  0000 L BNN
+F 1 "minibutton" H 12000 3650 59  0000 L BNN
+F 2 "ES_Daisy_Patch_SM_FB_Rev1:TL1105SPF250Q_SILK" H 12100 3900 50  0001 C CNN
+F 3 "" H 12100 3900 50  0001 C CNN
+	1    12100 3900
+	1    0    0    -1  
+$EndComp
+$Comp
+L ES_Daisy_Patch_SM_FB_Rev1-eagle-import:TOGGLE_ON-ON SW_2
+U 1 1 8BF29199
+P 13700 3900
+F 0 "SW_2" V 13900 3800 59  0000 L BNN
+F 1 "TOGGLE_ON-ON" V 14000 3800 59  0000 L BNN
+F 2 "ES_Daisy_Patch_SM_FB_Rev1:TOGGLE_ON-ON" H 13700 3900 50  0001 C CNN
+F 3 "" H 13700 3900 50  0001 C CNN
+	1    13700 3900
+	0    -1   -1   0   
+$EndComp
+$Comp
+L ES_Daisy_Patch_SM_FB_Rev1-eagle-import:GND #GND021
+U 1 1 CF593DC2
+P 13300 5300
+F 0 "#GND021" H 13300 5300 50  0001 C CNN
+F 1 "GND" H 13200 5200 59  0000 L BNN
+F 2 "" H 13300 5300 50  0001 C CNN
+F 3 "" H 13300 5300 50  0001 C CNN
+	1    13300 5300
+	1    0    0    -1  
+$EndComp
+$Comp
+L ES_Daisy_Patch_SM_FB_Rev1-eagle-import:GND #GND022
+U 1 1 FB1CD9CF
+P 13300 4200
+F 0 "#GND022" H 13300 4200 50  0001 C CNN
+F 1 "GND" H 13200 4100 59  0000 L BNN
+F 2 "" H 13300 4200 50  0001 C CNN
+F 3 "" H 13300 4200 50  0001 C CNN
+	1    13300 4200
+	1    0    0    -1  
+$EndComp
+$Comp
+L ES_Daisy_Patch_SM_FB_Rev1-eagle-import:GND #GND023
+U 1 1 C7080FD3
+P 12400 4200
+F 0 "#GND023" H 12400 4200 50  0001 C CNN
+F 1 "GND" H 12300 4100 59  0000 L BNN
+F 2 "" H 12400 4200 50  0001 C CNN
+F 3 "" H 12400 4200 50  0001 C CNN
+	1    12400 4200
+	1    0    0    -1  
+$EndComp
+$Comp
+L ES_Daisy_Patch_SM_FB_Rev1-eagle-import:+3V3 #SUPPLY012
+U 1 1 A9A8C894
+P 3700 3600
+F 0 "#SUPPLY012" H 3700 3600 50  0001 C CNN
+F 1 "+3V3" H 3625 3825 59  0000 L BNN
+F 2 "" H 3700 3600 50  0001 C CNN
+F 3 "" H 3700 3600 50  0001 C CNN
+	1    3700 3600
+	1    0    0    -1  
+$EndComp
+$Comp
+L ES_Daisy_Patch_SM_FB_Rev1-eagle-import:+5V #SUPPLY013
+U 1 1 0BDF3AC2
+P 4000 3500
+F 0 "#SUPPLY013" H 4000 3500 50  0001 C CNN
+F 1 "+5V" H 3925 3625 59  0000 L BNN
+F 2 "" H 4000 3500 50  0001 C CNN
+F 3 "" H 4000 3500 50  0001 C CNN
+	1    4000 3500
+	1    0    0    -1  
+$EndComp
+$Comp
+L ES_Daisy_Patch_SM_FB_Rev1-eagle-import:GND #GND024
+U 1 1 664B2FAE
+P 3600 5000
+F 0 "#GND024" H 3600 5000 50  0001 C CNN
+F 1 "GND" H 3500 4900 59  0000 L BNN
+F 2 "" H 3600 5000 50  0001 C CNN
+F 3 "" H 3600 5000 50  0001 C CNN
+	1    3600 5000
+	1    0    0    -1  
+$EndComp
+$Comp
+L ES_Daisy_Patch_SM_FB_Rev1-eagle-import:M12 P1
+U 1 1 F6E8D358
+P 2200 3600
+F 0 "P1" H 2200 3630 59  0000 L BNN
+F 1 "M12" H 2200 2200 59  0000 L BNN
+F 2 "ES_Daisy_Patch_SM_FB_Rev1:1X12" H 2200 3600 50  0001 C CNN
+F 3 "" H 2200 3600 50  0001 C CNN
+	1    2200 3600
+	1    0    0    -1  
+$EndComp
+$Comp
+L ES_Daisy_Patch_SM_FB_Rev1-eagle-import:DAISYLOGO U$2
+U 1 1 A8B04D1A
+P 1900 5700
+F 0 "U$2" H 1900 5700 50  0001 C CNN
+F 1 "DAISYLOGO" H 1900 5700 50  0001 C CNN
+F 2 "ES_Daisy_Patch_SM_FB_Rev1:ES_DAISY_LOGO_1" H 1900 5700 50  0001 C CNN
+F 3 "" H 1900 5700 50  0001 C CNN
+	1    1900 5700
+	1    0    0    -1  
+$EndComp
+$Comp
+L ES_Daisy_Patch_SM_FB_Rev1-eagle-import:ELECTROSMITH_CIRCLE_4.5MM LOGO1
+U 1 1 8712EDD9
+P 2100 6400
+F 0 "LOGO1" H 1300 6700 42  0000 L BNN
+F 1 "ELECTROSMITH_CIRCLE_4.5MM" H 1300 6100 42  0000 L BNN
+F 2 "ES_Daisy_Patch_SM_FB_Rev1:ES_CIRCLE_4.5MM" H 2100 6400 50  0001 C CNN
+F 3 "" H 2100 6400 50  0001 C CNN
+	1    2100 6400
+	1    0    0    -1  
+$EndComp
+Text Notes 5850 1250 0    59   ~ 0
+The generic comm. protocols are connected directly to the processor.\nThis means they can be used for standard functions including switches, LEDs, etc.\n\nThe CV in pins are -5V to 5V inputs\nThe CV out pins are 0-5V output\nThe Gate in pins are connected to BJT circuits\nThe Gate out pins are identical to the CV out circuit
+Text Notes 11100 3500 0    59   ~ 0
+Daisy has configurable pull up/down resistors \nfor the GPIO pins.\n\nThis allows us to connect switches to GND\nwith an internal pull up. \nWhen the switch is an unconnected state, the pullup sets it to 3v3,\n and when pressed it connects to GND.
+Text Notes 11400 4800 0    59   ~ 0
+The CV and GATE outputs have output resistors on the Daisy Patch SM,\nallowing us to connect LEDs without any series extra components.
+Text Notes 11100 1000 0    59   ~ 0
+Pots are wired 0-5V.\nThey could be wired between -5V and 5V if there is a negative 5V source present. \nThis would increase the resolution of the input from 15-bits (32768 values) to 16-bits (65536 values).
+Text Notes 1500 1500 0    59   ~ 0
+Power connections can go directly to the pins of the same name on the Daisy Patch SM.\n\nReverse protection is implemented on the SOM. \nHowever, if adding external components that would be sensitive to damage, \nit is recommended to add your own reverse protection.\nSee AN-DPSM-1001 for more info.
+Text Notes 12700 6700 0    59   ~ 0
+The SDMMC_CMD/D# pins on the Daisy Patch SM \nhave 47K Pullup resistors on board.\nThis allows connection directly to an SD Card slot connector with no \nadditional components.\n\nThese pins can be reused as standard GPIO, just \nkeep in mind that they do have a pull up installed. 
+Text Notes 12600 9800 0    127  ~ 0
+MICRO PATCH
+$Comp
+L Electrosmith-Boards:ES_DAISY_PATCH_SM_REV1 U1
+U 1 1 6131E9AA
+P 8300 3250
+F 0 "U1" H 8850 1900 50  0000 C CNN
+F 1 "ES_DAISY_PATCH_SM_REV1" H 8900 2000 50  0000 C CNN
+F 2 "Electrosmith-Boards:ES_DAISY_PATCH_SM_REV1" H 9300 4450 50  0001 C CNN
+F 3 "" H 8900 4550 50  0001 C CNN
+	1    8300 3250
+	1    0    0    -1  
+$EndComp
+$EndSCHEMATC

@@ -137,7 +137,7 @@
 		(uuid "cdf7d1d7-3170-4cc6-ae0f-d6b36cac0be5")
 	)
 	(gr_text "Poti"
-		(at 80.64 189.75 0)
+		(at 86.64 189.75 0)
 		(layer "User.6")
 		(uuid "194a4c39-d281-4d84-81b6-72d181bc06c0")
 		(effects
@@ -145,17 +145,7 @@
 				(size 1 1)
 				(thickness 0.15)
 			)
-		)
-	)
-	(gr_text "Mounting Hole"
-		(at 118.64 189.75 0)
-		(layer "User.6")
-		(uuid "27a6fe43-037b-4160-8fd1-5e93f3752d01")
-		(effects
-			(font
-				(size 1 1)
-				(thickness 0.15)
-			)
+			(justify top)
 		)
 	)
 	(gr_text "Jack"
@@ -167,10 +157,11 @@
 				(size 1 1)
 				(thickness 0.15)
 			)
+			(justify top)
 		)
 	)
 	(gr_text "LED"
-		(at 118.64 191.75 0)
+		(at 126.64 189.75 0)
 		(layer "User.6")
 		(uuid "46e92b55-0042-4b5c-a17b-022ee2eaf09c")
 		(effects
@@ -178,6 +169,7 @@
 				(size 1 1)
 				(thickness 0.15)
 			)
+			(justify top)
 		)
 	)
 	(gr_text "2HP"
@@ -189,6 +181,18 @@
 				(size 1 1)
 				(thickness 0.15)
 			)
+		)
+	)
+	(gr_text "Pushbutton\nSwitch\n"
+		(at 116.64 189.75 0)
+		(layer "User.6")
+		(uuid "6346fe86-2d38-4bd6-b144-4efb46dd6321")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+			(justify top)
 		)
 	)
 	(gr_text "4HP\n"
@@ -203,7 +207,7 @@
 		)
 	)
 	(gr_text "MiniSwitch"
-		(at 92.64 189.75 0)
+		(at 96.64 189.75 0)
 		(layer "User.6")
 		(uuid "78e04833-8a9c-47ea-b91f-e15a6aa08214")
 		(effects
@@ -211,6 +215,7 @@
 				(size 1 1)
 				(thickness 0.15)
 			)
+			(justify top)
 		)
 	)
 	(gr_text "10HP\n"
@@ -782,6 +787,14 @@
 		(uuid "66c494ea-45cd-490e-8f86-4bbd7282ad55")
 	)
 	(via
+		(at 116.64 183.75)
+		(size 5)
+		(drill 4)
+		(layers "F.Cu" "B.Cu")
+		(net 0)
+		(uuid "7189955f-e7e4-426b-a45f-51b09a30c6b2")
+	)
+	(via
 		(at 43.26 39.75)
 		(size 4)
 		(drill 3)
@@ -798,7 +811,7 @@
 		(uuid "a40190ac-0002-4345-bfba-d75c18060f98")
 	)
 	(via
-		(at 92.64 183.75)
+		(at 96.64 183.75)
 		(size 7.5)
 		(drill 6.5)
 		(layers "F.Cu" "B.Cu")
@@ -831,7 +844,7 @@
 		(uuid "d2d3dc8b-fa03-4ae0-9799-cf091beeaf16")
 	)
 	(via
-		(at 118.640002 183.75)
+		(at 126.64 183.75)
 		(size 4)
 		(drill 3)
 		(layers "F.Cu" "B.Cu")
@@ -864,7 +877,7 @@
 		(uuid "f7513f7d-a41f-4d0e-9f2b-9f13bb0298f6")
 	)
 	(via
-		(at 80.64 183.75)
+		(at 86.64 183.75)
 		(size 8)
 		(drill 7)
 		(layers "F.Cu" "B.Cu")
