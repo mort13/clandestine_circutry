@@ -3089,7 +3089,7 @@
 		(at 212.09 154.94)
 		(diameter 0)
 		(color 0 0 0 0)
-		(uuid "0d5a1c14-e8c6-4f19-b568-edaa2b8c9fcb")
+		(uuid "0bb0023a-eb99-4400-8942-6e44bffbe5a5")
 	)
 	(junction
 		(at 110.49 77.47)
@@ -3290,12 +3290,6 @@
 		(uuid "7462443a-ec89-4b80-85e8-72669d437909")
 	)
 	(junction
-		(at 212.09 139.7)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "74d1dcf4-83dc-4798-88f8-461352855c8b")
-	)
-	(junction
 		(at 181.61 33.02)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -3390,6 +3384,12 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "bc8f59b7-a408-4489-8335-818fa28483ff")
+	)
+	(junction
+		(at 212.09 139.7)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "c1fac54f-b428-447c-9cbe-9bdb9a7338b9")
 	)
 	(junction
 		(at 219.71 80.01)
@@ -4415,6 +4415,16 @@
 	)
 	(wire
 		(pts
+			(xy 204.47 154.94) (xy 212.09 154.94)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "832bb41f-31b2-4965-ad76-7d8647329620")
+	)
+	(wire
+		(pts
 			(xy 110.49 41.91) (xy 110.49 38.1)
 		)
 		(stroke
@@ -4482,6 +4492,16 @@
 			(type default)
 		)
 		(uuid "89bfc7c1-ea04-4752-8c6f-14cca75bfffa")
+	)
+	(wire
+		(pts
+			(xy 204.47 139.7) (xy 212.09 139.7)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "8a11393b-3f86-4810-9163-0c662a8a15a6")
 	)
 	(wire
 		(pts
@@ -6633,73 +6653,6 @@
 		)
 	)
 	(symbol
-		(lib_id "Device:R")
-		(at 208.28 154.94 90)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "16fb1101-bd1c-4c28-9167-3e2753e1a33b")
-		(property "Reference" "R36"
-			(at 208.28 160.782 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "10"
-			(at 208.28 157.988 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder"
-			(at 208.28 156.718 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 208.28 154.94 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Resistor"
-			(at 208.28 154.94 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "2"
-			(uuid "df2e83ac-63da-4f13-ac1d-ece1bd3df131")
-		)
-		(pin "1"
-			(uuid "8c58b77d-a790-4a36-84d6-fefa53b00a39")
-		)
-		(instances
-			(project "VCA_Panner"
-				(path "/416439c0-fe9f-449c-a999-c0ea4c6cd459"
-					(reference "R36")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "power:GND")
 		(at 83.82 96.52 0)
 		(unit 1)
@@ -7033,73 +6986,6 @@
 		)
 	)
 	(symbol
-		(lib_id "Device:R")
-		(at 208.28 139.7 270)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "2195a6bd-771c-475b-b73c-d65c4257a321")
-		(property "Reference" "R35"
-			(at 208.28 133.858 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "10"
-			(at 208.28 136.652 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder"
-			(at 208.28 137.922 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 208.28 139.7 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Resistor"
-			(at 208.28 139.7 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "2"
-			(uuid "ac45e7ce-c2c1-45f5-afe3-0b5417403ddd")
-		)
-		(pin "1"
-			(uuid "6c320bd2-d021-4ae0-9a7a-f0ac11583c47")
-		)
-		(instances
-			(project "VCA_Panner"
-				(path "/416439c0-fe9f-449c-a999-c0ea4c6cd459"
-					(reference "R35")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "Device:C")
 		(at 121.92 142.24 180)
 		(unit 1)
@@ -7188,7 +7074,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "400k"
+		(property "Value" "430k"
 			(at 165.1 60.9599 0)
 			(effects
 				(font
@@ -7328,7 +7214,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "330k"
+		(property "Value" "300k"
 			(at 165.1 97.7899 0)
 			(effects
 				(font
@@ -9270,7 +9156,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "330k"
+		(property "Value" "300k"
 			(at 165.1 53.3399 0)
 			(effects
 				(font
@@ -10282,7 +10168,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "400k"
+		(property "Value" "430k"
 			(at 165.1 105.4099 0)
 			(effects
 				(font
