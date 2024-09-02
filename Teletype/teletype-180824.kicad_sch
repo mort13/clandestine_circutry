@@ -2,7 +2,7 @@
 	(version 20231120)
 	(generator "eeschema")
 	(generator_version "8.0")
-	(uuid "cf3c22dc-49b9-48fe-9e81-085ac20f6b0e")
+	(uuid "632179f9-7164-438e-bcd2-4855c6344f91")
 	(paper "A4")
 	(lib_symbols)
 	(sheet
@@ -16,7 +16,7 @@
 		(fill
 			(color 0 0 0 0.0000)
 		)
-		(uuid "426057a3-e59d-4a6f-9279-001d0aa59014")
+		(uuid "14e77fa6-372d-4f4e-a60e-0a9edd514e4d")
 		(property "Sheetname" "teletype-180824_1"
 			(at 25.4 24.6884 0)
 			(effects
@@ -36,8 +36,8 @@
 			)
 		)
 		(instances
-			(project "Teletype"
-				(path "/cf3c22dc-49b9-48fe-9e81-085ac20f6b0e"
+			(project "teletype-180824"
+				(path "/632179f9-7164-438e-bcd2-4855c6344f91"
 					(page "1")
 				)
 			)
@@ -54,7 +54,7 @@
 		(fill
 			(color 0 0 0 0.0000)
 		)
-		(uuid "5593e350-6bb8-49d6-9e39-59458e240c78")
+		(uuid "77064b98-06e9-424c-92e2-d60f9f95af15")
 		(property "Sheetname" "teletype-180824_2"
 			(at 76.2 24.6884 0)
 			(effects
@@ -74,8 +74,8 @@
 			)
 		)
 		(instances
-			(project "Teletype"
-				(path "/cf3c22dc-49b9-48fe-9e81-085ac20f6b0e"
+			(project "teletype-180824"
+				(path "/632179f9-7164-438e-bcd2-4855c6344f91"
 					(page "2")
 				)
 			)

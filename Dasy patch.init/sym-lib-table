@@ -1,0 +1,4 @@
+(sym_lib_table
+  (version 0)
+  (lib (name "ES_Daisy_Patch_SM_Init_Rev1-eagle-import")(type "KiCad")(uri "${KIPRJMOD}/ES_Daisy_Patch_SM_Init_Rev1-eagle-import.kicad_sym")(options "")(descr ""))
+)

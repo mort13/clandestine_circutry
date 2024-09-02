@@ -54,6 +54,7 @@
       "diff_pair_dimensions": [],
       "drc_exclusions": [],
       "meta": {
+        "filename": "board_design_settings.json",
         "version": 2
       },
       "rule_severities": {
@@ -110,9 +111,9 @@
       },
       "rules": {
         "max_error": 0.005,
-        "min_clearance": 0.0,
+        "min_clearance": 0.127,
         "min_connection": 0.0,
-        "min_copper_edge_clearance": 0.5,
+        "min_copper_edge_clearance": 0.025,
         "min_hole_clearance": 0.25,
         "min_hole_to_hole": 0.25,
         "min_microvia_diameter": 0.2,
@@ -121,11 +122,11 @@
         "min_silk_clearance": 0.0,
         "min_text_height": 0.8,
         "min_text_thickness": 0.08,
-        "min_through_hole_diameter": 0.3,
+        "min_through_hole_diameter": 0.254,
         "min_track_width": 0.0,
         "min_via_annular_width": 0.1,
         "min_via_diameter": 0.5,
-        "solder_mask_to_copper_clearance": 0.0,
+        "solder_mask_to_copper_clearance": 0.005,
         "use_height_for_length_calcs": true
       },
       "teardrop_options": [
@@ -431,14 +432,14 @@
     "pinned_symbol_libs": []
   },
   "meta": {
-    "filename": "Teletype.kicad_pro",
+    "filename": "teletype-180824.kicad_pro",
     "version": 1
   },
   "net_settings": {
     "classes": [
       {
         "bus_width": 12,
-        "clearance": 0.2,
+        "clearance": 0.127,
         "diff_pair_gap": 0.25,
         "diff_pair_via_gap": 0.25,
         "diff_pair_width": 0.2,
@@ -527,11 +528,47 @@
           "label": "DNP",
           "name": "${DNP}",
           "show": true
+        },
+        {
+          "group_by": false,
+          "label": "#",
+          "name": "${ITEM_NUMBER}",
+          "show": false
+        },
+        {
+          "group_by": false,
+          "label": "MF",
+          "name": "MF",
+          "show": false
+        },
+        {
+          "group_by": false,
+          "label": "MPN",
+          "name": "MPN",
+          "show": false
+        },
+        {
+          "group_by": false,
+          "label": "OC_FARNELL",
+          "name": "OC_FARNELL",
+          "show": false
+        },
+        {
+          "group_by": false,
+          "label": "OC_NEWARK",
+          "name": "OC_NEWARK",
+          "show": false
+        },
+        {
+          "group_by": false,
+          "label": "Description",
+          "name": "Description",
+          "show": false
         }
       ],
       "filter_string": "",
       "group_symbols": true,
-      "name": "Grouped By Value",
+      "name": "",
       "sort_asc": true,
       "sort_field": "Reference"
     },
@@ -576,15 +613,15 @@
   },
   "sheets": [
     [
-      "cf3c22dc-49b9-48fe-9e81-085ac20f6b0e",
+      "632179f9-7164-438e-bcd2-4855c6344f91",
       ""
     ],
     [
-      "426057a3-e59d-4a6f-9279-001d0aa59014",
+      "14e77fa6-372d-4f4e-a60e-0a9edd514e4d",
       "teletype-180824_1"
     ],
     [
-      "5593e350-6bb8-49d6-9e39-59458e240c78",
+      "77064b98-06e9-424c-92e2-d60f9f95af15",
       "teletype-180824_2"
     ]
   ],

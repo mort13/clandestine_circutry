@@ -1,0 +1,165 @@
+(footprint "CHIP-LED0805"
+	(version 20240108)
+	(generator "pcbnew")
+	(generator_version "8.0")
+	(layer "F.Cu")
+	(descr "Hyper CHIPLED Hyper-Bright LED\n\nLB R99A\nSource: http://www.osram.convergy.de/ ... lb_r99a.pdf")
+	(property "Reference" "REF**"
+		(at -1.27 1.27 90)
+		(unlocked yes)
+		(layer "F.SilkS")
+		(uuid "c0d7bed4-cbbb-4646-8699-7d8fe8e02022")
+		(effects
+			(font
+				(size 1.1684 1.1684)
+				(thickness 0.1016)
+			)
+			(justify left bottom)
+		)
+	)
+	(property "Value" "CHIP-LED0805"
+		(at 2.54 1.27 90)
+		(unlocked yes)
+		(layer "F.Fab")
+		(uuid "0cce9f72-7c25-43ff-b14c-79171538c8d6")
+		(effects
+			(font
+				(size 1.1684 1.1684)
+				(thickness 0.1016)
+			)
+			(justify left bottom)
+		)
+	)
+	(property "Footprint" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "4e041838-d6e3-482b-97e7-f2504ce5a0cb")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Datasheet" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "dfed5a72-9c97-4238-a149-059751e0d89f")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Description" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "492e4caf-e207-42f2-bbc8-09a32d6668c2")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(fp_poly
+		(pts
+			(xy -0.675 0) (xy -0.525 0) (xy -0.525 -0.3) (xy -0.675 -0.3)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(fill solid)
+		(layer "F.SilkS")
+		(uuid "19edd11c-edfe-4c9e-baf0-059804085493")
+	)
+	(fp_poly
+		(pts
+			(xy -0.15 0) (xy 0.15 0) (xy 0.15 -0.3) (xy -0.15 -0.3)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(fill solid)
+		(layer "F.SilkS")
+		(uuid "061d9a22-daa6-4f36-aaed-280bb9dfafb9")
+	)
+	(fp_poly
+		(pts
+			(xy 0.525 0) (xy 0.675 0) (xy 0.675 -0.3) (xy 0.525 -0.3)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(fill solid)
+		(layer "F.SilkS")
+		(uuid "433f2edc-0826-4c64-9f24-180ad3876202")
+	)
+	(fp_line
+		(start -0.625 -0.45)
+		(end -0.625 0.45)
+		(stroke
+			(width 0.1016)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "79f88c9e-a873-4740-b2ad-cdf39324fbc1")
+	)
+	(fp_line
+		(start 0.625 -0.45)
+		(end 0.625 0.475)
+		(stroke
+			(width 0.1016)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "b152cabb-3d16-425d-9727-453cd47e4df6")
+	)
+	(fp_poly
+		(pts
+			(xy -0.675 -0.45) (xy 0.675 -0.45) (xy 0.675 -1.05) (xy -0.675 -1.05)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(fill solid)
+		(layer "F.Fab")
+		(uuid "03811e1b-91a6-486e-8a53-de5f6e1834cd")
+	)
+	(fp_poly
+		(pts
+			(xy -0.675 1.05) (xy 0.675 1.05) (xy 0.675 0.45) (xy -0.675 0.45)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(fill solid)
+		(layer "F.Fab")
+		(uuid "183269cf-ff3d-4b49-a216-df4668542012")
+	)
+	(pad "A" smd rect
+		(at 0 1.05)
+		(size 1.2 1.2)
+		(layers "F.Cu" "F.Paste" "F.Mask")
+		(solder_mask_margin 0.0508)
+		(thermal_bridge_angle 0)
+		(uuid "1af5511d-3bca-41bc-a2ed-ee841aea9286")
+	)
+	(pad "C" smd rect
+		(at 0 -1.05)
+		(size 1.2 1.2)
+		(layers "F.Cu" "F.Paste" "F.Mask")
+		(solder_mask_margin 0.0508)
+		(thermal_bridge_angle 0)
+		(uuid "9ba0ca7e-0bc7-4deb-a0ec-e52bf65fd071")
+	)
+)

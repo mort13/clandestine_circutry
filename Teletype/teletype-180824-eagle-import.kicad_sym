@@ -433,7 +433,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "Teletype:PAK100_2500-10"
+		(property "Footprint" "teletype-180824:PAK100_2500-10"
 			(at 0 0 0)
 			(effects
 				(font
@@ -802,7 +802,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "Teletype:PAK100_2500-5-10"
+		(property "Footprint" "teletype-180824:PAK100_2500-5-10"
 			(at 0 0 0)
 			(effects
 				(font
@@ -1170,7 +1170,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Teletype:TO252"
+		(property "Footprint" "teletype-180824:TO252"
 			(at 0 0 0)
 			(effects
 				(font
@@ -1341,7 +1341,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Teletype:TO39"
+		(property "Footprint" "teletype-180824:TO39"
 			(at 0 0 0)
 			(effects
 				(font
@@ -1512,7 +1512,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Teletype:TO92"
+		(property "Footprint" "teletype-180824:TO92"
 			(at 0 0 0)
 			(effects
 				(font
@@ -1683,7 +1683,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Teletype:TO220H"
+		(property "Footprint" "teletype-180824:TO220H"
 			(at 0 0 0)
 			(effects
 				(font
@@ -1854,7 +1854,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Teletype:TO220V"
+		(property "Footprint" "teletype-180824:TO220V"
 			(at 0 0 0)
 			(effects
 				(font
@@ -2025,7 +2025,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Teletype:TO92"
+		(property "Footprint" "teletype-180824:TO92"
 			(at 0 0 0)
 			(effects
 				(font
@@ -2197,7 +2197,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Teletype:TSSOP16"
+		(property "Footprint" "teletype-180824:TSSOP16"
 			(at 0 0 0)
 			(effects
 				(font
@@ -2593,7 +2593,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Teletype:TSSOP16"
+		(property "Footprint" "teletype-180824:TSSOP16"
 			(at 0 0 0)
 			(effects
 				(font
@@ -2989,7 +2989,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Teletype:SO14"
+		(property "Footprint" "teletype-180824:SO14"
 			(at 0 0 0)
 			(effects
 				(font
@@ -3597,7 +3597,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Teletype:TSSOP14"
+		(property "Footprint" "teletype-180824:TSSOP14"
 			(at 0 0 0)
 			(effects
 				(font
@@ -4206,7 +4206,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Teletype:SOT223"
+		(property "Footprint" "teletype-180824:SOT223"
 			(at 0 0 0)
 			(effects
 				(font
@@ -4525,7 +4525,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Teletype:TQFP64-10X10"
+		(property "Footprint" "teletype-180824:TQFP64-10X10"
 			(at 0 0 0)
 			(effects
 				(font
@@ -5785,7 +5785,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Teletype:SOT23"
+		(property "Footprint" "teletype-180824:SOT23"
 			(at 0 0 0)
 			(effects
 				(font
@@ -6162,7 +6162,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Teletype:C025-024X044"
+		(property "Footprint" "teletype-180824:C025-024X044"
 			(at 0 0 0)
 			(effects
 				(font
@@ -6306,7 +6306,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Teletype:C025-025X050"
+		(property "Footprint" "teletype-180824:C025-025X050"
 			(at 0 0 0)
 			(effects
 				(font
@@ -6450,7 +6450,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Teletype:C025-030X050"
+		(property "Footprint" "teletype-180824:C025-030X050"
 			(at 0 0 0)
 			(effects
 				(font
@@ -6594,7 +6594,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Teletype:C025-040X050"
+		(property "Footprint" "teletype-180824:C025-040X050"
 			(at 0 0 0)
 			(effects
 				(font
@@ -6738,7 +6738,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Teletype:C025-050X050"
+		(property "Footprint" "teletype-180824:C025-050X050"
 			(at 0 0 0)
 			(effects
 				(font
@@ -6882,7 +6882,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Teletype:C025-060X050"
+		(property "Footprint" "teletype-180824:C025-060X050"
 			(at 0 0 0)
 			(effects
 				(font
@@ -7026,7 +7026,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Teletype:C025_050-025X075"
+		(property "Footprint" "teletype-180824:C025_050-025X075"
 			(at 0 0 0)
 			(effects
 				(font
@@ -7170,7 +7170,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Teletype:C025_050-035X075"
+		(property "Footprint" "teletype-180824:C025_050-035X075"
 			(at 0 0 0)
 			(effects
 				(font
@@ -7314,7 +7314,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Teletype:C025_050-045X075"
+		(property "Footprint" "teletype-180824:C025_050-045X075"
 			(at 0 0 0)
 			(effects
 				(font
@@ -7458,7 +7458,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Teletype:C025_050-055X075"
+		(property "Footprint" "teletype-180824:C025_050-055X075"
 			(at 0 0 0)
 			(effects
 				(font
@@ -7602,7 +7602,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Teletype:C050-024X044"
+		(property "Footprint" "teletype-180824:C050-024X044"
 			(at 0 0 0)
 			(effects
 				(font
@@ -7746,7 +7746,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Teletype:C050-025X075"
+		(property "Footprint" "teletype-180824:C050-025X075"
 			(at 0 0 0)
 			(effects
 				(font
@@ -7890,7 +7890,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Teletype:C050-030X075"
+		(property "Footprint" "teletype-180824:C050-030X075"
 			(at 0 0 0)
 			(effects
 				(font
@@ -8034,7 +8034,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Teletype:C050-035X075"
+		(property "Footprint" "teletype-180824:C050-035X075"
 			(at 0 0 0)
 			(effects
 				(font
@@ -8178,7 +8178,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Teletype:C050-045X075"
+		(property "Footprint" "teletype-180824:C050-045X075"
 			(at 0 0 0)
 			(effects
 				(font
@@ -8322,7 +8322,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Teletype:C050-050X075"
+		(property "Footprint" "teletype-180824:C050-050X075"
 			(at 0 0 0)
 			(effects
 				(font
@@ -8466,7 +8466,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Teletype:C050-055X075"
+		(property "Footprint" "teletype-180824:C050-055X075"
 			(at 0 0 0)
 			(effects
 				(font
@@ -8610,7 +8610,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Teletype:C050-075X075"
+		(property "Footprint" "teletype-180824:C050-075X075"
 			(at 0 0 0)
 			(effects
 				(font
@@ -8754,7 +8754,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Teletype:C050H075X075"
+		(property "Footprint" "teletype-180824:C050H075X075"
 			(at 0 0 0)
 			(effects
 				(font
@@ -8898,7 +8898,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Teletype:C075-032X103"
+		(property "Footprint" "teletype-180824:C075-032X103"
 			(at 0 0 0)
 			(effects
 				(font
@@ -9042,7 +9042,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Teletype:C075-042X103"
+		(property "Footprint" "teletype-180824:C075-042X103"
 			(at 0 0 0)
 			(effects
 				(font
@@ -9186,7 +9186,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Teletype:C075-052X106"
+		(property "Footprint" "teletype-180824:C075-052X106"
 			(at 0 0 0)
 			(effects
 				(font
@@ -9330,7 +9330,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Teletype:C075-063X106"
+		(property "Footprint" "teletype-180824:C075-063X106"
 			(at 0 0 0)
 			(effects
 				(font
@@ -9474,7 +9474,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Teletype:C102-043X133"
+		(property "Footprint" "teletype-180824:C102-043X133"
 			(at 0 0 0)
 			(effects
 				(font
@@ -9618,7 +9618,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Teletype:C102-054X133"
+		(property "Footprint" "teletype-180824:C102-054X133"
 			(at 0 0 0)
 			(effects
 				(font
@@ -9762,7 +9762,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Teletype:C102-064X133"
+		(property "Footprint" "teletype-180824:C102-064X133"
 			(at 0 0 0)
 			(effects
 				(font
@@ -9906,7 +9906,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Teletype:C102_152-062X184"
+		(property "Footprint" "teletype-180824:C102_152-062X184"
 			(at 0 0 0)
 			(effects
 				(font
@@ -10050,7 +10050,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Teletype:C150-054X183"
+		(property "Footprint" "teletype-180824:C150-054X183"
 			(at 0 0 0)
 			(effects
 				(font
@@ -10194,7 +10194,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Teletype:C150-064X183"
+		(property "Footprint" "teletype-180824:C150-064X183"
 			(at 0 0 0)
 			(effects
 				(font
@@ -10338,7 +10338,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Teletype:C150-072X183"
+		(property "Footprint" "teletype-180824:C150-072X183"
 			(at 0 0 0)
 			(effects
 				(font
@@ -10482,7 +10482,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Teletype:C150-084X183"
+		(property "Footprint" "teletype-180824:C150-084X183"
 			(at 0 0 0)
 			(effects
 				(font
@@ -10626,7 +10626,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Teletype:C150-091X182"
+		(property "Footprint" "teletype-180824:C150-091X182"
 			(at 0 0 0)
 			(effects
 				(font
@@ -10770,7 +10770,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Teletype:C225-062X268"
+		(property "Footprint" "teletype-180824:C225-062X268"
 			(at 0 0 0)
 			(effects
 				(font
@@ -10914,7 +10914,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Teletype:C225-074X268"
+		(property "Footprint" "teletype-180824:C225-074X268"
 			(at 0 0 0)
 			(effects
 				(font
@@ -11058,7 +11058,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Teletype:C225-087X268"
+		(property "Footprint" "teletype-180824:C225-087X268"
 			(at 0 0 0)
 			(effects
 				(font
@@ -11202,7 +11202,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Teletype:C225-108X268"
+		(property "Footprint" "teletype-180824:C225-108X268"
 			(at 0 0 0)
 			(effects
 				(font
@@ -11346,7 +11346,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Teletype:C225-113X268"
+		(property "Footprint" "teletype-180824:C225-113X268"
 			(at 0 0 0)
 			(effects
 				(font
@@ -11490,7 +11490,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Teletype:C275-093X316"
+		(property "Footprint" "teletype-180824:C275-093X316"
 			(at 0 0 0)
 			(effects
 				(font
@@ -11634,7 +11634,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Teletype:C275-113X316"
+		(property "Footprint" "teletype-180824:C275-113X316"
 			(at 0 0 0)
 			(effects
 				(font
@@ -11778,7 +11778,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Teletype:C275-134X316"
+		(property "Footprint" "teletype-180824:C275-134X316"
 			(at 0 0 0)
 			(effects
 				(font
@@ -11922,7 +11922,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Teletype:C275-154X316"
+		(property "Footprint" "teletype-180824:C275-154X316"
 			(at 0 0 0)
 			(effects
 				(font
@@ -12066,7 +12066,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Teletype:C275-173X316"
+		(property "Footprint" "teletype-180824:C275-173X316"
 			(at 0 0 0)
 			(effects
 				(font
@@ -12210,7 +12210,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Teletype:C275-205X316"
+		(property "Footprint" "teletype-180824:C275-205X316"
 			(at 0 0 0)
 			(effects
 				(font
@@ -12354,7 +12354,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Teletype:C325-137X374"
+		(property "Footprint" "teletype-180824:C325-137X374"
 			(at 0 0 0)
 			(effects
 				(font
@@ -12498,7 +12498,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Teletype:C325-162X374"
+		(property "Footprint" "teletype-180824:C325-162X374"
 			(at 0 0 0)
 			(effects
 				(font
@@ -12642,7 +12642,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Teletype:C325-182X374"
+		(property "Footprint" "teletype-180824:C325-182X374"
 			(at 0 0 0)
 			(effects
 				(font
@@ -12786,7 +12786,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Teletype:C375-155X418"
+		(property "Footprint" "teletype-180824:C375-155X418"
 			(at 0 0 0)
 			(effects
 				(font
@@ -12930,7 +12930,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Teletype:C375-192X418"
+		(property "Footprint" "teletype-180824:C375-192X418"
 			(at 0 0 0)
 			(effects
 				(font
@@ -13074,7 +13074,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Teletype:C375-203X418"
+		(property "Footprint" "teletype-180824:C375-203X418"
 			(at 0 0 0)
 			(effects
 				(font
@@ -13218,7 +13218,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Teletype:C0201"
+		(property "Footprint" "teletype-180824:C0201"
 			(at 0 0 0)
 			(effects
 				(font
@@ -13362,7 +13362,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Teletype:C025_050-024X070"
+		(property "Footprint" "teletype-180824:C025_050-024X070"
 			(at 0 0 0)
 			(effects
 				(font
@@ -13506,7 +13506,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Teletype:C0402"
+		(property "Footprint" "teletype-180824:C0402"
 			(at 0 0 0)
 			(effects
 				(font
@@ -13650,7 +13650,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Teletype:C0402K"
+		(property "Footprint" "teletype-180824:C0402K"
 			(at 0 0 0)
 			(effects
 				(font
@@ -13794,7 +13794,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Teletype:C0504"
+		(property "Footprint" "teletype-180824:C0504"
 			(at 0 0 0)
 			(effects
 				(font
@@ -13938,7 +13938,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Teletype:C0603"
+		(property "Footprint" "teletype-180824:C0603"
 			(at 0 0 0)
 			(effects
 				(font
@@ -14082,7 +14082,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Teletype:C0603K"
+		(property "Footprint" "teletype-180824:C0603K"
 			(at 0 0 0)
 			(effects
 				(font
@@ -14226,7 +14226,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Teletype:C0805"
+		(property "Footprint" "teletype-180824:C0805"
 			(at 0 0 0)
 			(effects
 				(font
@@ -14370,7 +14370,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Teletype:C0805K"
+		(property "Footprint" "teletype-180824:C0805K"
 			(at 0 0 0)
 			(effects
 				(font
@@ -14514,7 +14514,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Teletype:C1005"
+		(property "Footprint" "teletype-180824:C1005"
 			(at 0 0 0)
 			(effects
 				(font
@@ -14658,7 +14658,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Teletype:C1206"
+		(property "Footprint" "teletype-180824:C1206"
 			(at 0 0 0)
 			(effects
 				(font
@@ -14802,7 +14802,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Teletype:C1206K"
+		(property "Footprint" "teletype-180824:C1206K"
 			(at 0 0 0)
 			(effects
 				(font
@@ -14946,7 +14946,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Teletype:C1210"
+		(property "Footprint" "teletype-180824:C1210"
 			(at 0 0 0)
 			(effects
 				(font
@@ -15090,7 +15090,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Teletype:C1210K"
+		(property "Footprint" "teletype-180824:C1210K"
 			(at 0 0 0)
 			(effects
 				(font
@@ -15234,7 +15234,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Teletype:C1310"
+		(property "Footprint" "teletype-180824:C1310"
 			(at 0 0 0)
 			(effects
 				(font
@@ -15378,7 +15378,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Teletype:C1608"
+		(property "Footprint" "teletype-180824:C1608"
 			(at 0 0 0)
 			(effects
 				(font
@@ -15522,7 +15522,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Teletype:C1808"
+		(property "Footprint" "teletype-180824:C1808"
 			(at 0 0 0)
 			(effects
 				(font
@@ -15666,7 +15666,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Teletype:C1812"
+		(property "Footprint" "teletype-180824:C1812"
 			(at 0 0 0)
 			(effects
 				(font
@@ -15810,7 +15810,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Teletype:C1812K"
+		(property "Footprint" "teletype-180824:C1812K"
 			(at 0 0 0)
 			(effects
 				(font
@@ -15954,7 +15954,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Teletype:C1825"
+		(property "Footprint" "teletype-180824:C1825"
 			(at 0 0 0)
 			(effects
 				(font
@@ -16098,7 +16098,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Teletype:C1825K"
+		(property "Footprint" "teletype-180824:C1825K"
 			(at 0 0 0)
 			(effects
 				(font
@@ -16242,7 +16242,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Teletype:C2012"
+		(property "Footprint" "teletype-180824:C2012"
 			(at 0 0 0)
 			(effects
 				(font
@@ -16386,7 +16386,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Teletype:C2220K"
+		(property "Footprint" "teletype-180824:C2220K"
 			(at 0 0 0)
 			(effects
 				(font
@@ -16530,7 +16530,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Teletype:C2225K"
+		(property "Footprint" "teletype-180824:C2225K"
 			(at 0 0 0)
 			(effects
 				(font
@@ -16674,7 +16674,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Teletype:C3216"
+		(property "Footprint" "teletype-180824:C3216"
 			(at 0 0 0)
 			(effects
 				(font
@@ -16818,7 +16818,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Teletype:C3225"
+		(property "Footprint" "teletype-180824:C3225"
 			(at 0 0 0)
 			(effects
 				(font
@@ -16962,7 +16962,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Teletype:C3640"
+		(property "Footprint" "teletype-180824:C3640"
 			(at 0 0 0)
 			(effects
 				(font
@@ -17106,7 +17106,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Teletype:C4532"
+		(property "Footprint" "teletype-180824:C4532"
 			(at 0 0 0)
 			(effects
 				(font
@@ -17250,7 +17250,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Teletype:C4564"
+		(property "Footprint" "teletype-180824:C4564"
 			(at 0 0 0)
 			(effects
 				(font
@@ -17394,7 +17394,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Teletype:C0402_T"
+		(property "Footprint" "teletype-180824:C0402_T"
 			(at 0 0 0)
 			(effects
 				(font
@@ -17583,7 +17583,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Teletype:C0402MP_T"
+		(property "Footprint" "teletype-180824:C0402MP_T"
 			(at 0 0 0)
 			(effects
 				(font
@@ -17772,7 +17772,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Teletype:C0603_T"
+		(property "Footprint" "teletype-180824:C0603_T"
 			(at 0 0 0)
 			(effects
 				(font
@@ -17961,7 +17961,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Teletype:C0603MP_T"
+		(property "Footprint" "teletype-180824:C0603MP_T"
 			(at 0 0 0)
 			(effects
 				(font
@@ -18150,7 +18150,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Teletype:C0805_T"
+		(property "Footprint" "teletype-180824:C0805_T"
 			(at 0 0 0)
 			(effects
 				(font
@@ -18339,7 +18339,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Teletype:C0805MP_T"
+		(property "Footprint" "teletype-180824:C0805MP_T"
 			(at 0 0 0)
 			(effects
 				(font
@@ -18528,7 +18528,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Teletype:C1206_T"
+		(property "Footprint" "teletype-180824:C1206_T"
 			(at 0 0 0)
 			(effects
 				(font
@@ -18717,7 +18717,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Teletype:C1206MP_T"
+		(property "Footprint" "teletype-180824:C1206MP_T"
 			(at 0 0 0)
 			(effects
 				(font
@@ -18906,7 +18906,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Teletype:C1210_T"
+		(property "Footprint" "teletype-180824:C1210_T"
 			(at 0 0 0)
 			(effects
 				(font
@@ -19095,7 +19095,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Teletype:C1210MP_T"
+		(property "Footprint" "teletype-180824:C1210MP_T"
 			(at 0 0 0)
 			(effects
 				(font
@@ -19284,7 +19284,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Teletype:C3216_T"
+		(property "Footprint" "teletype-180824:C3216_T"
 			(at 0 0 0)
 			(effects
 				(font
@@ -19473,7 +19473,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Teletype:C3216-18_T"
+		(property "Footprint" "teletype-180824:C3216-18_T"
 			(at 0 0 0)
 			(effects
 				(font
@@ -19662,7 +19662,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Teletype:C3528_T"
+		(property "Footprint" "teletype-180824:C3528_T"
 			(at 0 0 0)
 			(effects
 				(font
@@ -19851,7 +19851,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Teletype:C3528-21_T"
+		(property "Footprint" "teletype-180824:C3528-21_T"
 			(at 0 0 0)
 			(effects
 				(font
@@ -20040,7 +20040,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Teletype:C594D-B"
+		(property "Footprint" "teletype-180824:C594D-B"
 			(at 0 0 0)
 			(effects
 				(font
@@ -20229,7 +20229,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Teletype:C594D-C"
+		(property "Footprint" "teletype-180824:C594D-C"
 			(at 0 0 0)
 			(effects
 				(font
@@ -20418,7 +20418,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Teletype:C594D-D"
+		(property "Footprint" "teletype-180824:C594D-D"
 			(at 0 0 0)
 			(effects
 				(font
@@ -20607,7 +20607,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Teletype:C594D-R"
+		(property "Footprint" "teletype-180824:C594D-R"
 			(at 0 0 0)
 			(effects
 				(font
@@ -20796,7 +20796,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Teletype:C6032_T"
+		(property "Footprint" "teletype-180824:C6032_T"
 			(at 0 0 0)
 			(effects
 				(font
@@ -20985,7 +20985,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Teletype:C6032-28_T"
+		(property "Footprint" "teletype-180824:C6032-28_T"
 			(at 0 0 0)
 			(effects
 				(font
@@ -21174,7 +21174,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Teletype:C7260_T"
+		(property "Footprint" "teletype-180824:C7260_T"
 			(at 0 0 0)
 			(effects
 				(font
@@ -21363,7 +21363,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Teletype:C7260-12_T"
+		(property "Footprint" "teletype-180824:C7260-12_T"
 			(at 0 0 0)
 			(effects
 				(font
@@ -21552,7 +21552,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Teletype:C7343_T"
+		(property "Footprint" "teletype-180824:C7343_T"
 			(at 0 0 0)
 			(effects
 				(font
@@ -21741,7 +21741,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Teletype:C7343-43"
+		(property "Footprint" "teletype-180824:C7343-43"
 			(at 0 0 0)
 			(effects
 				(font
@@ -21930,7 +21930,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Teletype:C7361_T"
+		(property "Footprint" "teletype-180824:C7361_T"
 			(at 0 0 0)
 			(effects
 				(font
@@ -22119,7 +22119,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Teletype:C7361-38"
+		(property "Footprint" "teletype-180824:C7361-38"
 			(at 0 0 0)
 			(effects
 				(font
@@ -22308,7 +22308,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Teletype:CSV-A"
+		(property "Footprint" "teletype-180824:CSV-A"
 			(at 0 0 0)
 			(effects
 				(font
@@ -22497,7 +22497,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Teletype:CSV-B"
+		(property "Footprint" "teletype-180824:CSV-B"
 			(at 0 0 0)
 			(effects
 				(font
@@ -22686,7 +22686,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Teletype:CSV-C"
+		(property "Footprint" "teletype-180824:CSV-C"
 			(at 0 0 0)
 			(effects
 				(font
@@ -22875,7 +22875,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Teletype:CSV-D"
+		(property "Footprint" "teletype-180824:CSV-D"
 			(at 0 0 0)
 			(effects
 				(font
@@ -23064,7 +23064,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Teletype:CSV-E_F"
+		(property "Footprint" "teletype-180824:CSV-E_F"
 			(at 0 0 0)
 			(effects
 				(font
@@ -23253,7 +23253,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Teletype:CSV-G"
+		(property "Footprint" "teletype-180824:CSV-G"
 			(at 0 0 0)
 			(effects
 				(font
@@ -23442,7 +23442,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Teletype:CSV-H"
+		(property "Footprint" "teletype-180824:CSV-H"
 			(at 0 0 0)
 			(effects
 				(font
@@ -23631,7 +23631,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Teletype:CSV-J"
+		(property "Footprint" "teletype-180824:CSV-J"
 			(at 0 0 0)
 			(effects
 				(font
@@ -23820,7 +23820,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Teletype:CSV-K"
+		(property "Footprint" "teletype-180824:CSV-K"
 			(at 0 0 0)
 			(effects
 				(font
@@ -24009,7 +24009,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Teletype:5X10-2"
+		(property "Footprint" "teletype-180824:5X10-2"
 			(at 0 0 0)
 			(effects
 				(font
@@ -24199,7 +24199,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Teletype:86SMX"
+		(property "Footprint" "teletype-180824:86SMX"
 			(at 0 0 0)
 			(effects
 				(font
@@ -24389,7 +24389,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Teletype:ABM2"
+		(property "Footprint" "teletype-180824:ABM2"
 			(at 0 0 0)
 			(effects
 				(font
@@ -24579,7 +24579,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Teletype:ABM3"
+		(property "Footprint" "teletype-180824:ABM3"
 			(at 0 0 0)
 			(effects
 				(font
@@ -24769,7 +24769,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Teletype:ABM3B"
+		(property "Footprint" "teletype-180824:ABM3B"
 			(at 0 0 0)
 			(effects
 				(font
@@ -24959,7 +24959,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Teletype:ABM7"
+		(property "Footprint" "teletype-180824:ABM7"
 			(at 0 0 0)
 			(effects
 				(font
@@ -25149,7 +25149,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Teletype:ABMM2"
+		(property "Footprint" "teletype-180824:ABMM2"
 			(at 0 0 0)
 			(effects
 				(font
@@ -25339,7 +25339,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Teletype:ABS10"
+		(property "Footprint" "teletype-180824:ABS10"
 			(at 0 0 0)
 			(effects
 				(font
@@ -25529,7 +25529,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Teletype:CM200S"
+		(property "Footprint" "teletype-180824:CM200S"
 			(at 0 0 0)
 			(effects
 				(font
@@ -25719,7 +25719,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Teletype:CM415"
+		(property "Footprint" "teletype-180824:CM415"
 			(at 0 0 0)
 			(effects
 				(font
@@ -25909,7 +25909,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Teletype:CS10"
+		(property "Footprint" "teletype-180824:CS10"
 			(at 0 0 0)
 			(effects
 				(font
@@ -26099,7 +26099,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Teletype:HC49UP"
+		(property "Footprint" "teletype-180824:HC49UP"
 			(at 0 0 0)
 			(effects
 				(font
@@ -26289,7 +26289,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Teletype:CTS406"
+		(property "Footprint" "teletype-180824:CTS406"
 			(at 0 0 0)
 			(effects
 				(font
@@ -26479,7 +26479,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Teletype:ECX-31B"
+		(property "Footprint" "teletype-180824:ECX-31B"
 			(at 0 0 0)
 			(effects
 				(font
@@ -26669,7 +26669,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Teletype:ECX-64"
+		(property "Footprint" "teletype-180824:ECX-64"
 			(at 0 0 0)
 			(effects
 				(font
@@ -26859,7 +26859,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Teletype:ECX-64A"
+		(property "Footprint" "teletype-180824:ECX-64A"
 			(at 0 0 0)
 			(effects
 				(font
@@ -27049,7 +27049,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Teletype:FC-255"
+		(property "Footprint" "teletype-180824:FC-255"
 			(at 0 0 0)
 			(effects
 				(font
@@ -27239,7 +27239,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Teletype:HC13U-H"
+		(property "Footprint" "teletype-180824:HC13U-H"
 			(at 0 0 0)
 			(effects
 				(font
@@ -27429,7 +27429,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Teletype:HC18U-H"
+		(property "Footprint" "teletype-180824:HC18U-H"
 			(at 0 0 0)
 			(effects
 				(font
@@ -27619,7 +27619,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Teletype:HC18U-V"
+		(property "Footprint" "teletype-180824:HC18U-V"
 			(at 0 0 0)
 			(effects
 				(font
@@ -27809,7 +27809,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Teletype:HC33U-H"
+		(property "Footprint" "teletype-180824:HC33U-H"
 			(at 0 0 0)
 			(effects
 				(font
@@ -27999,7 +27999,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Teletype:HC33U-V"
+		(property "Footprint" "teletype-180824:HC33U-V"
 			(at 0 0 0)
 			(effects
 				(font
@@ -28189,7 +28189,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Teletype:HC49GW"
+		(property "Footprint" "teletype-180824:HC49GW"
 			(at 0 0 0)
 			(effects
 				(font
@@ -28379,7 +28379,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Teletype:HC49_S"
+		(property "Footprint" "teletype-180824:HC49_S"
 			(at 0 0 0)
 			(effects
 				(font
@@ -28569,7 +28569,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Teletype:HC49TL-H"
+		(property "Footprint" "teletype-180824:HC49TL-H"
 			(at 0 0 0)
 			(effects
 				(font
@@ -28759,7 +28759,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Teletype:HC49U-H"
+		(property "Footprint" "teletype-180824:HC49U-H"
 			(at 0 0 0)
 			(effects
 				(font
@@ -28949,7 +28949,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Teletype:HC49U-LM"
+		(property "Footprint" "teletype-180824:HC49U-LM"
 			(at 0 0 0)
 			(effects
 				(font
@@ -29139,7 +29139,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Teletype:HC49U-V"
+		(property "Footprint" "teletype-180824:HC49U-V"
 			(at 0 0 0)
 			(effects
 				(font
@@ -29329,7 +29329,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Teletype:HC49U70"
+		(property "Footprint" "teletype-180824:HC49U70"
 			(at 0 0 0)
 			(effects
 				(font
@@ -29519,7 +29519,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Teletype:HC49UP"
+		(property "Footprint" "teletype-180824:HC49UP"
 			(at 0 0 0)
 			(effects
 				(font
@@ -29709,7 +29709,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Teletype:HC49UP"
+		(property "Footprint" "teletype-180824:HC49UP"
 			(at 0 0 0)
 			(effects
 				(font
@@ -29899,7 +29899,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Teletype:MA-505"
+		(property "Footprint" "teletype-180824:MA-505"
 			(at 0 0 0)
 			(effects
 				(font
@@ -30089,7 +30089,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Teletype:MM20SS"
+		(property "Footprint" "teletype-180824:MM20SS"
 			(at 0 0 0)
 			(effects
 				(font
@@ -30279,7 +30279,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Teletype:MM39SL"
+		(property "Footprint" "teletype-180824:MM39SL"
 			(at 0 0 0)
 			(effects
 				(font
@@ -30469,7 +30469,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Teletype:SCP1"
+		(property "Footprint" "teletype-180824:SCP1"
 			(at 0 0 0)
 			(effects
 				(font
@@ -30659,7 +30659,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Teletype:SCP8"
+		(property "Footprint" "teletype-180824:SCP8"
 			(at 0 0 0)
 			(effects
 				(font
@@ -30849,7 +30849,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Teletype:SM49"
+		(property "Footprint" "teletype-180824:SM49"
 			(at 0 0 0)
 			(effects
 				(font
@@ -31039,7 +31039,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Teletype:TC15H"
+		(property "Footprint" "teletype-180824:TC15H"
 			(at 0 0 0)
 			(effects
 				(font
@@ -31229,7 +31229,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Teletype:TC26H"
+		(property "Footprint" "teletype-180824:TC26H"
 			(at 0 0 0)
 			(effects
 				(font
@@ -31419,7 +31419,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Teletype:TC26V"
+		(property "Footprint" "teletype-180824:TC26V"
 			(at 0 0 0)
 			(effects
 				(font
@@ -31609,7 +31609,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Teletype:TC310H"
+		(property "Footprint" "teletype-180824:TC310H"
 			(at 0 0 0)
 			(effects
 				(font
@@ -31799,7 +31799,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Teletype:TC38H"
+		(property "Footprint" "teletype-180824:TC38H"
 			(at 0 0 0)
 			(effects
 				(font
@@ -31989,7 +31989,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Teletype:TC39H"
+		(property "Footprint" "teletype-180824:TC39H"
 			(at 0 0 0)
 			(effects
 				(font
@@ -32179,7 +32179,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Teletype:C0201"
+		(property "Footprint" "teletype-180824:C0201"
 			(at 0 0 0)
 			(effects
 				(font
@@ -32321,7 +32321,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Teletype:C0201MP"
+		(property "Footprint" "teletype-180824:C0201MP"
 			(at 0 0 0)
 			(effects
 				(font
@@ -32463,7 +32463,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Teletype:C0402"
+		(property "Footprint" "teletype-180824:C0402"
 			(at 0 0 0)
 			(effects
 				(font
@@ -32605,7 +32605,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Teletype:C0402MP"
+		(property "Footprint" "teletype-180824:C0402MP"
 			(at 0 0 0)
 			(effects
 				(font
@@ -32747,7 +32747,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Teletype:C0603"
+		(property "Footprint" "teletype-180824:C0603"
 			(at 0 0 0)
 			(effects
 				(font
@@ -32889,7 +32889,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Teletype:C0603MP"
+		(property "Footprint" "teletype-180824:C0603MP"
 			(at 0 0 0)
 			(effects
 				(font
@@ -33031,7 +33031,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Teletype:C0805"
+		(property "Footprint" "teletype-180824:C0805"
 			(at 0 0 0)
 			(effects
 				(font
@@ -33173,7 +33173,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Teletype:C0805MP"
+		(property "Footprint" "teletype-180824:C0805MP"
 			(at 0 0 0)
 			(effects
 				(font
@@ -33315,7 +33315,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Teletype:C1111"
+		(property "Footprint" "teletype-180824:C1111"
 			(at 0 0 0)
 			(effects
 				(font
@@ -33457,7 +33457,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Teletype:C1111MP"
+		(property "Footprint" "teletype-180824:C1111MP"
 			(at 0 0 0)
 			(effects
 				(font
@@ -33599,7 +33599,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Teletype:C1206"
+		(property "Footprint" "teletype-180824:C1206"
 			(at 0 0 0)
 			(effects
 				(font
@@ -33741,7 +33741,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Teletype:C1206MP"
+		(property "Footprint" "teletype-180824:C1206MP"
 			(at 0 0 0)
 			(effects
 				(font
@@ -33883,7 +33883,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Teletype:C1210"
+		(property "Footprint" "teletype-180824:C1210"
 			(at 0 0 0)
 			(effects
 				(font
@@ -34025,7 +34025,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Teletype:C1210MP"
+		(property "Footprint" "teletype-180824:C1210MP"
 			(at 0 0 0)
 			(effects
 				(font
@@ -34167,7 +34167,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Teletype:C1608"
+		(property "Footprint" "teletype-180824:C1608"
 			(at 0 0 0)
 			(effects
 				(font
@@ -34309,7 +34309,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Teletype:C1608MP"
+		(property "Footprint" "teletype-180824:C1608MP"
 			(at 0 0 0)
 			(effects
 				(font
@@ -34451,7 +34451,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Teletype:C1808"
+		(property "Footprint" "teletype-180824:C1808"
 			(at 0 0 0)
 			(effects
 				(font
@@ -34593,7 +34593,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Teletype:C1808MP"
+		(property "Footprint" "teletype-180824:C1808MP"
 			(at 0 0 0)
 			(effects
 				(font
@@ -34735,7 +34735,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Teletype:C1812"
+		(property "Footprint" "teletype-180824:C1812"
 			(at 0 0 0)
 			(effects
 				(font
@@ -34877,7 +34877,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Teletype:C1812MP"
+		(property "Footprint" "teletype-180824:C1812MP"
 			(at 0 0 0)
 			(effects
 				(font
@@ -35019,7 +35019,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Teletype:C1825"
+		(property "Footprint" "teletype-180824:C1825"
 			(at 0 0 0)
 			(effects
 				(font
@@ -35161,7 +35161,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Teletype:C1825MP"
+		(property "Footprint" "teletype-180824:C1825MP"
 			(at 0 0 0)
 			(effects
 				(font
@@ -35303,7 +35303,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Teletype:C1913"
+		(property "Footprint" "teletype-180824:C1913"
 			(at 0 0 0)
 			(effects
 				(font
@@ -35445,7 +35445,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Teletype:C1913MP"
+		(property "Footprint" "teletype-180824:C1913MP"
 			(at 0 0 0)
 			(effects
 				(font
@@ -35587,7 +35587,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Teletype:C2012"
+		(property "Footprint" "teletype-180824:C2012"
 			(at 0 0 0)
 			(effects
 				(font
@@ -35729,7 +35729,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Teletype:C2012MP"
+		(property "Footprint" "teletype-180824:C2012MP"
 			(at 0 0 0)
 			(effects
 				(font
@@ -35871,7 +35871,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Teletype:C2211"
+		(property "Footprint" "teletype-180824:C2211"
 			(at 0 0 0)
 			(effects
 				(font
@@ -36013,7 +36013,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Teletype:C2211MP"
+		(property "Footprint" "teletype-180824:C2211MP"
 			(at 0 0 0)
 			(effects
 				(font
@@ -36155,7 +36155,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Teletype:C2220"
+		(property "Footprint" "teletype-180824:C2220"
 			(at 0 0 0)
 			(effects
 				(font
@@ -36297,7 +36297,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Teletype:C2220MP"
+		(property "Footprint" "teletype-180824:C2220MP"
 			(at 0 0 0)
 			(effects
 				(font
@@ -36439,7 +36439,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Teletype:C2225"
+		(property "Footprint" "teletype-180824:C2225"
 			(at 0 0 0)
 			(effects
 				(font
@@ -36581,7 +36581,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Teletype:C2225MP"
+		(property "Footprint" "teletype-180824:C2225MP"
 			(at 0 0 0)
 			(effects
 				(font
@@ -36723,7 +36723,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Teletype:C2416"
+		(property "Footprint" "teletype-180824:C2416"
 			(at 0 0 0)
 			(effects
 				(font
@@ -36865,7 +36865,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Teletype:C2416MP"
+		(property "Footprint" "teletype-180824:C2416MP"
 			(at 0 0 0)
 			(effects
 				(font
@@ -37007,7 +37007,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Teletype:C2824"
+		(property "Footprint" "teletype-180824:C2824"
 			(at 0 0 0)
 			(effects
 				(font
@@ -37149,7 +37149,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Teletype:C2824MP"
+		(property "Footprint" "teletype-180824:C2824MP"
 			(at 0 0 0)
 			(effects
 				(font
@@ -37291,7 +37291,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Teletype:C3216"
+		(property "Footprint" "teletype-180824:C3216"
 			(at 0 0 0)
 			(effects
 				(font
@@ -37433,7 +37433,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Teletype:C3216MP"
+		(property "Footprint" "teletype-180824:C3216MP"
 			(at 0 0 0)
 			(effects
 				(font
@@ -37575,7 +37575,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Teletype:C3225"
+		(property "Footprint" "teletype-180824:C3225"
 			(at 0 0 0)
 			(effects
 				(font
@@ -37717,7 +37717,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Teletype:C3225MP"
+		(property "Footprint" "teletype-180824:C3225MP"
 			(at 0 0 0)
 			(effects
 				(font
@@ -37859,7 +37859,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Teletype:C4532"
+		(property "Footprint" "teletype-180824:C4532"
 			(at 0 0 0)
 			(effects
 				(font
@@ -38001,7 +38001,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Teletype:C4532MP"
+		(property "Footprint" "teletype-180824:C4532MP"
 			(at 0 0 0)
 			(effects
 				(font
@@ -38143,7 +38143,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Teletype:C4564"
+		(property "Footprint" "teletype-180824:C4564"
 			(at 0 0 0)
 			(effects
 				(font
@@ -38285,7 +38285,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Teletype:C4564MP"
+		(property "Footprint" "teletype-180824:C4564MP"
 			(at 0 0 0)
 			(effects
 				(font
@@ -38427,7 +38427,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Teletype:C5040"
+		(property "Footprint" "teletype-180824:C5040"
 			(at 0 0 0)
 			(effects
 				(font
@@ -38569,7 +38569,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Teletype:C5040MP"
+		(property "Footprint" "teletype-180824:C5040MP"
 			(at 0 0 0)
 			(effects
 				(font
@@ -38711,7 +38711,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Teletype:C6054"
+		(property "Footprint" "teletype-180824:C6054"
 			(at 0 0 0)
 			(effects
 				(font
@@ -38853,7 +38853,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Teletype:C6054MP"
+		(property "Footprint" "teletype-180824:C6054MP"
 			(at 0 0 0)
 			(effects
 				(font
@@ -38995,7 +38995,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Teletype:C7361"
+		(property "Footprint" "teletype-180824:C7361"
 			(at 0 0 0)
 			(effects
 				(font
@@ -39137,7 +39137,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Teletype:C7361MP"
+		(property "Footprint" "teletype-180824:C7361MP"
 			(at 0 0 0)
 			(effects
 				(font
@@ -39418,7 +39418,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "Teletype:ISP-ROW"
+		(property "Footprint" "teletype-180824:ISP-ROW"
 			(at 0 0 0)
 			(effects
 				(font
@@ -39634,7 +39634,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Teletype:SMARTLED-TTW"
+		(property "Footprint" "teletype-180824:SMARTLED-TTW"
 			(at 0 0 0)
 			(effects
 				(font
@@ -39862,7 +39862,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Teletype:LUMILED"
+		(property "Footprint" "teletype-180824:LUMILED"
 			(at 0 0 0)
 			(effects
 				(font
@@ -40090,7 +40090,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Teletype:LUMILED+"
+		(property "Footprint" "teletype-180824:LUMILED+"
 			(at 0 0 0)
 			(effects
 				(font
@@ -40318,7 +40318,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Teletype:LED10MM"
+		(property "Footprint" "teletype-180824:LED10MM"
 			(at 0 0 0)
 			(effects
 				(font
@@ -40546,7 +40546,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Teletype:LED3MM"
+		(property "Footprint" "teletype-180824:LED3MM"
 			(at 0 0 0)
 			(effects
 				(font
@@ -40774,7 +40774,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Teletype:LED5MM"
+		(property "Footprint" "teletype-180824:LED5MM"
 			(at 0 0 0)
 			(effects
 				(font
@@ -41002,7 +41002,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Teletype:Q62902-B152"
+		(property "Footprint" "teletype-180824:Q62902-B152"
 			(at 0 0 0)
 			(effects
 				(font
@@ -41230,7 +41230,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Teletype:Q62902-B153"
+		(property "Footprint" "teletype-180824:Q62902-B153"
 			(at 0 0 0)
 			(effects
 				(font
@@ -41458,7 +41458,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Teletype:Q62902-B155"
+		(property "Footprint" "teletype-180824:Q62902-B155"
 			(at 0 0 0)
 			(effects
 				(font
@@ -41686,7 +41686,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Teletype:Q62902-B156"
+		(property "Footprint" "teletype-180824:Q62902-B156"
 			(at 0 0 0)
 			(effects
 				(font
@@ -41914,7 +41914,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Teletype:CHIP-LED0603"
+		(property "Footprint" "teletype-180824:CHIP-LED0603"
 			(at 0 0 0)
 			(effects
 				(font
@@ -42142,7 +42142,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Teletype:CHIP-LED0805"
+		(property "Footprint" "teletype-180824:CHIP-LED0805"
 			(at 0 0 0)
 			(effects
 				(font
@@ -42370,7 +42370,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Teletype:CHIPLED-0603-TTW"
+		(property "Footprint" "teletype-180824:CHIPLED-0603-TTW"
 			(at 0 0 0)
 			(effects
 				(font
@@ -42598,7 +42598,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Teletype:CHIPLED_0603"
+		(property "Footprint" "teletype-180824:CHIPLED_0603"
 			(at 0 0 0)
 			(effects
 				(font
@@ -42826,7 +42826,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Teletype:CHIPLED_0805"
+		(property "Footprint" "teletype-180824:CHIPLED_0805"
 			(at 0 0 0)
 			(effects
 				(font
@@ -43054,7 +43054,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Teletype:CHIPLED_1206"
+		(property "Footprint" "teletype-180824:CHIPLED_1206"
 			(at 0 0 0)
 			(effects
 				(font
@@ -43282,7 +43282,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Teletype:IRL80A"
+		(property "Footprint" "teletype-180824:IRL80A"
 			(at 0 0 0)
 			(effects
 				(font
@@ -43510,7 +43510,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Teletype:KA-3528ASYC"
+		(property "Footprint" "teletype-180824:KA-3528ASYC"
 			(at 0 0 0)
 			(effects
 				(font
@@ -43738,7 +43738,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Teletype:LD260"
+		(property "Footprint" "teletype-180824:LD260"
 			(at 0 0 0)
 			(effects
 				(font
@@ -43966,7 +43966,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Teletype:LSU260"
+		(property "Footprint" "teletype-180824:LSU260"
 			(at 0 0 0)
 			(effects
 				(font
@@ -44194,7 +44194,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Teletype:LZR181"
+		(property "Footprint" "teletype-180824:LZR181"
 			(at 0 0 0)
 			(effects
 				(font
@@ -44422,7 +44422,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Teletype:MICRO-SIDELED"
+		(property "Footprint" "teletype-180824:MICRO-SIDELED"
 			(at 0 0 0)
 			(effects
 				(font
@@ -44650,7 +44650,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Teletype:OSRAM-MINI-TOP-LED"
+		(property "Footprint" "teletype-180824:OSRAM-MINI-TOP-LED"
 			(at 0 0 0)
 			(effects
 				(font
@@ -44878,7 +44878,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Teletype:P-LCC-2"
+		(property "Footprint" "teletype-180824:P-LCC-2"
 			(at 0 0 0)
 			(effects
 				(font
@@ -45106,7 +45106,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Teletype:P-LCC-2-TOPLED-RG"
+		(property "Footprint" "teletype-180824:P-LCC-2-TOPLED-RG"
 			(at 0 0 0)
 			(effects
 				(font
@@ -45334,7 +45334,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Teletype:P-LCC-4"
+		(property "Footprint" "teletype-180824:P-LCC-4"
 			(at 0 0 0)
 			(effects
 				(font
@@ -45562,7 +45562,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Teletype:SFH480"
+		(property "Footprint" "teletype-180824:SFH480"
 			(at 0 0 0)
 			(effects
 				(font
@@ -45790,7 +45790,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Teletype:SFH482"
+		(property "Footprint" "teletype-180824:SFH482"
 			(at 0 0 0)
 			(effects
 				(font
@@ -46018,7 +46018,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Teletype:OSRAM-SIDELED"
+		(property "Footprint" "teletype-180824:OSRAM-SIDELED"
 			(at 0 0 0)
 			(effects
 				(font
@@ -46246,7 +46246,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Teletype:SMART-LED"
+		(property "Footprint" "teletype-180824:SMART-LED"
 			(at 0 0 0)
 			(effects
 				(font
@@ -46474,7 +46474,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Teletype:SML0603"
+		(property "Footprint" "teletype-180824:SML0603"
 			(at 0 0 0)
 			(effects
 				(font
@@ -46702,7 +46702,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Teletype:SML0805"
+		(property "Footprint" "teletype-180824:SML0805"
 			(at 0 0 0)
 			(effects
 				(font
@@ -46930,7 +46930,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Teletype:SML1206"
+		(property "Footprint" "teletype-180824:SML1206"
 			(at 0 0 0)
 			(effects
 				(font
@@ -47158,7 +47158,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Teletype:1206"
+		(property "Footprint" "teletype-180824:1206"
 			(at 0 0 0)
 			(effects
 				(font
@@ -47386,7 +47386,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Teletype:LED2X5"
+		(property "Footprint" "teletype-180824:LED2X5"
 			(at 0 0 0)
 			(effects
 				(font
@@ -47614,7 +47614,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Teletype:U57X32"
+		(property "Footprint" "teletype-180824:U57X32"
 			(at 0 0 0)
 			(effects
 				(font
@@ -47842,7 +47842,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Teletype:MINI-TOPLED-SANTANA"
+		(property "Footprint" "teletype-180824:MINI-TOPLED-SANTANA"
 			(at 0 0 0)
 			(effects
 				(font
@@ -49666,7 +49666,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "Teletype:OLED-ALEPH"
+		(property "Footprint" "teletype-180824:OLED-ALEPH"
 			(at 0 0 0)
 			(effects
 				(font
@@ -50098,7 +50098,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "Teletype:PANASONIC-EVQ"
+		(property "Footprint" "teletype-180824:PANASONIC-EVQ"
 			(at 0 0 0)
 			(effects
 				(font
@@ -50206,7 +50206,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Teletype:2X03"
+		(property "Footprint" "teletype-180824:2X03"
 			(at 0 0 0)
 			(effects
 				(font
@@ -50422,7 +50422,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Teletype:2X03_90"
+		(property "Footprint" "teletype-180824:2X03_90"
 			(at 0 0 0)
 			(effects
 				(font
@@ -50638,7 +50638,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Teletype:1812L"
+		(property "Footprint" "teletype-180824:1812L"
 			(at 0 0 0)
 			(effects
 				(font
@@ -50878,7 +50878,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Teletype:1812LMP"
+		(property "Footprint" "teletype-180824:1812LMP"
 			(at 0 0 0)
 			(effects
 				(font
@@ -51118,7 +51118,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Teletype:2018"
+		(property "Footprint" "teletype-180824:2018"
 			(at 0 0 0)
 			(effects
 				(font
@@ -51358,7 +51358,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Teletype:2920L"
+		(property "Footprint" "teletype-180824:2920L"
 			(at 0 0 0)
 			(effects
 				(font
@@ -51598,7 +51598,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Teletype:F0402"
+		(property "Footprint" "teletype-180824:F0402"
 			(at 0 0 0)
 			(effects
 				(font
@@ -51838,7 +51838,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Teletype:F0402MP"
+		(property "Footprint" "teletype-180824:F0402MP"
 			(at 0 0 0)
 			(effects
 				(font
@@ -52078,7 +52078,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Teletype:F0603"
+		(property "Footprint" "teletype-180824:F0603"
 			(at 0 0 0)
 			(effects
 				(font
@@ -52318,7 +52318,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Teletype:F0603MP"
+		(property "Footprint" "teletype-180824:F0603MP"
 			(at 0 0 0)
 			(effects
 				(font
@@ -52558,7 +52558,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Teletype:F0805"
+		(property "Footprint" "teletype-180824:F0805"
 			(at 0 0 0)
 			(effects
 				(font
@@ -52798,7 +52798,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Teletype:F0805MP"
+		(property "Footprint" "teletype-180824:F0805MP"
 			(at 0 0 0)
 			(effects
 				(font
@@ -53038,7 +53038,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Teletype:F1206"
+		(property "Footprint" "teletype-180824:F1206"
 			(at 0 0 0)
 			(effects
 				(font
@@ -53278,7 +53278,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Teletype:F1206MP"
+		(property "Footprint" "teletype-180824:F1206MP"
 			(at 0 0 0)
 			(effects
 				(font
@@ -53518,7 +53518,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Teletype:MF-5_1"
+		(property "Footprint" "teletype-180824:MF-5_1"
 			(at 0 0 0)
 			(effects
 				(font
@@ -53758,7 +53758,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Teletype:MF-5_1B"
+		(property "Footprint" "teletype-180824:MF-5_1B"
 			(at 0 0 0)
 			(effects
 				(font
@@ -53998,7 +53998,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Teletype:MF-NSMF"
+		(property "Footprint" "teletype-180824:MF-NSMF"
 			(at 0 0 0)
 			(effects
 				(font
@@ -54238,7 +54238,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Teletype:MF-SM100"
+		(property "Footprint" "teletype-180824:MF-SM100"
 			(at 0 0 0)
 			(effects
 				(font
@@ -54478,7 +54478,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Teletype:MF-SM150_185"
+		(property "Footprint" "teletype-180824:MF-SM150_185"
 			(at 0 0 0)
 			(effects
 				(font
@@ -54718,7 +54718,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Teletype:MF-SMDF"
+		(property "Footprint" "teletype-180824:MF-SMDF"
 			(at 0 0 0)
 			(effects
 				(font
@@ -54958,7 +54958,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Teletype:MICROSMDF"
+		(property "Footprint" "teletype-180824:MICROSMDF"
 			(at 0 0 0)
 			(effects
 				(font
@@ -55198,7 +55198,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Teletype:MIDSMD"
+		(property "Footprint" "teletype-180824:MIDSMD"
 			(at 0 0 0)
 			(effects
 				(font
@@ -55438,7 +55438,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Teletype:MINISMDC"
+		(property "Footprint" "teletype-180824:MINISMDC"
 			(at 0 0 0)
 			(effects
 				(font
@@ -55678,7 +55678,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Teletype:MINISMDE"
+		(property "Footprint" "teletype-180824:MINISMDE"
 			(at 0 0 0)
 			(effects
 				(font
@@ -55918,7 +55918,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Teletype:MINISMDF"
+		(property "Footprint" "teletype-180824:MINISMDF"
 			(at 0 0 0)
 			(effects
 				(font
@@ -56158,7 +56158,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Teletype:MINISMDM"
+		(property "Footprint" "teletype-180824:MINISMDM"
 			(at 0 0 0)
 			(effects
 				(font
@@ -56398,7 +56398,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Teletype:NANOSMDF"
+		(property "Footprint" "teletype-180824:NANOSMDF"
 			(at 0 0 0)
 			(effects
 				(font
@@ -56638,7 +56638,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Teletype:PF-10,2"
+		(property "Footprint" "teletype-180824:PF-10,2"
 			(at 0 0 0)
 			(effects
 				(font
@@ -56878,7 +56878,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Teletype:PF-10,2X24,2"
+		(property "Footprint" "teletype-180824:PF-10,2X24,2"
 			(at 0 0 0)
 			(effects
 				(font
@@ -57118,7 +57118,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Teletype:PF-10,9"
+		(property "Footprint" "teletype-180824:PF-10,9"
 			(at 0 0 0)
 			(effects
 				(font
@@ -57358,7 +57358,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Teletype:PF-5,1"
+		(property "Footprint" "teletype-180824:PF-5,1"
 			(at 0 0 0)
 			(effects
 				(font
@@ -57598,7 +57598,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Teletype:PF-5,1X10,4"
+		(property "Footprint" "teletype-180824:PF-5,1X10,4"
 			(at 0 0 0)
 			(effects
 				(font
@@ -57838,7 +57838,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Teletype:PF-5,1X12,0"
+		(property "Footprint" "teletype-180824:PF-5,1X12,0"
 			(at 0 0 0)
 			(effects
 				(font
@@ -58078,7 +58078,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Teletype:PF-5,8"
+		(property "Footprint" "teletype-180824:PF-5,8"
 			(at 0 0 0)
 			(effects
 				(font
@@ -58318,7 +58318,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Teletype:PF-5,8X10,0"
+		(property "Footprint" "teletype-180824:PF-5,8X10,0"
 			(at 0 0 0)
 			(effects
 				(font
@@ -58558,7 +58558,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Teletype:PF-5,8X12,0"
+		(property "Footprint" "teletype-180824:PF-5,8X12,0"
 			(at 0 0 0)
 			(effects
 				(font
@@ -58798,7 +58798,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Teletype:PF-5,8X14,0"
+		(property "Footprint" "teletype-180824:PF-5,8X14,0"
 			(at 0 0 0)
 			(effects
 				(font
@@ -59038,7 +59038,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Teletype:PF-8,0"
+		(property "Footprint" "teletype-180824:PF-8,0"
 			(at 0 0 0)
 			(effects
 				(font
@@ -59278,7 +59278,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Teletype:SMDF"
+		(property "Footprint" "teletype-180824:SMDF"
 			(at 0 0 0)
 			(effects
 				(font
@@ -59518,7 +59518,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Teletype:TS250"
+		(property "Footprint" "teletype-180824:TS250"
 			(at 0 0 0)
 			(effects
 				(font
@@ -59758,7 +59758,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Teletype:TSL250"
+		(property "Footprint" "teletype-180824:TSL250"
 			(at 0 0 0)
 			(effects
 				(font
@@ -59998,7 +59998,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Teletype:0204V"
+		(property "Footprint" "teletype-180824:0204V"
 			(at 0 0 0)
 			(effects
 				(font
@@ -60202,7 +60202,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Teletype:0204_5"
+		(property "Footprint" "teletype-180824:0204_5"
 			(at 0 0 0)
 			(effects
 				(font
@@ -60406,7 +60406,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Teletype:0204_7"
+		(property "Footprint" "teletype-180824:0204_7"
 			(at 0 0 0)
 			(effects
 				(font
@@ -60610,7 +60610,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Teletype:0207_10"
+		(property "Footprint" "teletype-180824:0207_10"
 			(at 0 0 0)
 			(effects
 				(font
@@ -60814,7 +60814,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Teletype:0207_12"
+		(property "Footprint" "teletype-180824:0207_12"
 			(at 0 0 0)
 			(effects
 				(font
@@ -61018,7 +61018,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Teletype:0207_15"
+		(property "Footprint" "teletype-180824:0207_15"
 			(at 0 0 0)
 			(effects
 				(font
@@ -61222,7 +61222,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Teletype:0207_2V"
+		(property "Footprint" "teletype-180824:0207_2V"
 			(at 0 0 0)
 			(effects
 				(font
@@ -61426,7 +61426,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Teletype:0207_5V"
+		(property "Footprint" "teletype-180824:0207_5V"
 			(at 0 0 0)
 			(effects
 				(font
@@ -61630,7 +61630,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Teletype:0207_7"
+		(property "Footprint" "teletype-180824:0207_7"
 			(at 0 0 0)
 			(effects
 				(font
@@ -61834,7 +61834,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Teletype:0309_10"
+		(property "Footprint" "teletype-180824:0309_10"
 			(at 0 0 0)
 			(effects
 				(font
@@ -62038,7 +62038,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Teletype:0309_12"
+		(property "Footprint" "teletype-180824:0309_12"
 			(at 0 0 0)
 			(effects
 				(font
@@ -62242,7 +62242,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Teletype:0309V"
+		(property "Footprint" "teletype-180824:0309V"
 			(at 0 0 0)
 			(effects
 				(font
@@ -62446,7 +62446,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Teletype:0411_12"
+		(property "Footprint" "teletype-180824:0411_12"
 			(at 0 0 0)
 			(effects
 				(font
@@ -62650,7 +62650,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Teletype:0411_15"
+		(property "Footprint" "teletype-180824:0411_15"
 			(at 0 0 0)
 			(effects
 				(font
@@ -62854,7 +62854,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Teletype:0411V"
+		(property "Footprint" "teletype-180824:0411V"
 			(at 0 0 0)
 			(effects
 				(font
@@ -63058,7 +63058,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Teletype:0414_15"
+		(property "Footprint" "teletype-180824:0414_15"
 			(at 0 0 0)
 			(effects
 				(font
@@ -63262,7 +63262,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Teletype:0414V"
+		(property "Footprint" "teletype-180824:0414V"
 			(at 0 0 0)
 			(effects
 				(font
@@ -63466,7 +63466,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Teletype:P0613_15"
+		(property "Footprint" "teletype-180824:P0613_15"
 			(at 0 0 0)
 			(effects
 				(font
@@ -63670,7 +63670,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Teletype:P0613V"
+		(property "Footprint" "teletype-180824:P0613V"
 			(at 0 0 0)
 			(effects
 				(font
@@ -63874,7 +63874,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Teletype:0617_17"
+		(property "Footprint" "teletype-180824:0617_17"
 			(at 0 0 0)
 			(effects
 				(font
@@ -64078,7 +64078,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Teletype:0617_22"
+		(property "Footprint" "teletype-180824:0617_22"
 			(at 0 0 0)
 			(effects
 				(font
@@ -64282,7 +64282,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Teletype:0617V"
+		(property "Footprint" "teletype-180824:0617V"
 			(at 0 0 0)
 			(effects
 				(font
@@ -64486,7 +64486,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Teletype:P0817_22"
+		(property "Footprint" "teletype-180824:P0817_22"
 			(at 0 0 0)
 			(effects
 				(font
@@ -64690,7 +64690,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Teletype:P0817V"
+		(property "Footprint" "teletype-180824:P0817V"
 			(at 0 0 0)
 			(effects
 				(font
@@ -64894,7 +64894,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Teletype:0922_22"
+		(property "Footprint" "teletype-180824:0922_22"
 			(at 0 0 0)
 			(effects
 				(font
@@ -65098,7 +65098,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Teletype:0922V"
+		(property "Footprint" "teletype-180824:0922V"
 			(at 0 0 0)
 			(effects
 				(font
@@ -65302,7 +65302,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Teletype:1812X7R"
+		(property "Footprint" "teletype-180824:1812X7R"
 			(at 0 0 0)
 			(effects
 				(font
@@ -65506,7 +65506,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Teletype:M0805"
+		(property "Footprint" "teletype-180824:M0805"
 			(at 0 0 0)
 			(effects
 				(font
@@ -65710,7 +65710,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Teletype:M1206"
+		(property "Footprint" "teletype-180824:M1206"
 			(at 0 0 0)
 			(effects
 				(font
@@ -65914,7 +65914,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Teletype:M1406"
+		(property "Footprint" "teletype-180824:M1406"
 			(at 0 0 0)
 			(effects
 				(font
@@ -66118,7 +66118,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Teletype:M2012"
+		(property "Footprint" "teletype-180824:M2012"
 			(at 0 0 0)
 			(effects
 				(font
@@ -66322,7 +66322,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Teletype:M2309"
+		(property "Footprint" "teletype-180824:M2309"
 			(at 0 0 0)
 			(effects
 				(font
@@ -66526,7 +66526,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Teletype:M3216"
+		(property "Footprint" "teletype-180824:M3216"
 			(at 0 0 0)
 			(effects
 				(font
@@ -66730,7 +66730,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Teletype:M3516"
+		(property "Footprint" "teletype-180824:M3516"
 			(at 0 0 0)
 			(effects
 				(font
@@ -66934,7 +66934,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Teletype:M5923"
+		(property "Footprint" "teletype-180824:M5923"
 			(at 0 0 0)
 			(effects
 				(font
@@ -67138,7 +67138,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Teletype:MINI_MELF-0102AX"
+		(property "Footprint" "teletype-180824:MINI_MELF-0102AX"
 			(at 0 0 0)
 			(effects
 				(font
@@ -67342,7 +67342,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Teletype:MINI_MELF-0102R"
+		(property "Footprint" "teletype-180824:MINI_MELF-0102R"
 			(at 0 0 0)
 			(effects
 				(font
@@ -67546,7 +67546,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Teletype:MINI_MELF-0102W"
+		(property "Footprint" "teletype-180824:MINI_MELF-0102W"
 			(at 0 0 0)
 			(effects
 				(font
@@ -67750,7 +67750,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Teletype:MINI_MELF-0204R"
+		(property "Footprint" "teletype-180824:MINI_MELF-0204R"
 			(at 0 0 0)
 			(effects
 				(font
@@ -67954,7 +67954,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Teletype:MINI_MELF-0204W"
+		(property "Footprint" "teletype-180824:MINI_MELF-0204W"
 			(at 0 0 0)
 			(effects
 				(font
@@ -68158,7 +68158,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Teletype:MINI_MELF-0207R"
+		(property "Footprint" "teletype-180824:MINI_MELF-0207R"
 			(at 0 0 0)
 			(effects
 				(font
@@ -68362,7 +68362,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Teletype:MINI_MELF-0207W"
+		(property "Footprint" "teletype-180824:MINI_MELF-0207W"
 			(at 0 0 0)
 			(effects
 				(font
@@ -68566,7 +68566,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Teletype:R0201"
+		(property "Footprint" "teletype-180824:R0201"
 			(at 0 0 0)
 			(effects
 				(font
@@ -68770,7 +68770,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Teletype:R0402"
+		(property "Footprint" "teletype-180824:R0402"
 			(at 0 0 0)
 			(effects
 				(font
@@ -68974,7 +68974,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Teletype:R0603"
+		(property "Footprint" "teletype-180824:R0603"
 			(at 0 0 0)
 			(effects
 				(font
@@ -69178,7 +69178,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Teletype:R0805"
+		(property "Footprint" "teletype-180824:R0805"
 			(at 0 0 0)
 			(effects
 				(font
@@ -69382,7 +69382,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Teletype:R0805W"
+		(property "Footprint" "teletype-180824:R0805W"
 			(at 0 0 0)
 			(effects
 				(font
@@ -69586,7 +69586,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Teletype:R1005"
+		(property "Footprint" "teletype-180824:R1005"
 			(at 0 0 0)
 			(effects
 				(font
@@ -69790,7 +69790,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Teletype:R1206"
+		(property "Footprint" "teletype-180824:R1206"
 			(at 0 0 0)
 			(effects
 				(font
@@ -69994,7 +69994,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Teletype:R1206W"
+		(property "Footprint" "teletype-180824:R1206W"
 			(at 0 0 0)
 			(effects
 				(font
@@ -70198,7 +70198,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Teletype:R1210"
+		(property "Footprint" "teletype-180824:R1210"
 			(at 0 0 0)
 			(effects
 				(font
@@ -70402,7 +70402,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Teletype:R1210W"
+		(property "Footprint" "teletype-180824:R1210W"
 			(at 0 0 0)
 			(effects
 				(font
@@ -70606,7 +70606,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Teletype:R1218"
+		(property "Footprint" "teletype-180824:R1218"
 			(at 0 0 0)
 			(effects
 				(font
@@ -70810,7 +70810,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Teletype:R2010"
+		(property "Footprint" "teletype-180824:R2010"
 			(at 0 0 0)
 			(effects
 				(font
@@ -71014,7 +71014,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Teletype:R2010W"
+		(property "Footprint" "teletype-180824:R2010W"
 			(at 0 0 0)
 			(effects
 				(font
@@ -71218,7 +71218,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Teletype:R2012"
+		(property "Footprint" "teletype-180824:R2012"
 			(at 0 0 0)
 			(effects
 				(font
@@ -71422,7 +71422,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Teletype:R2012W"
+		(property "Footprint" "teletype-180824:R2012W"
 			(at 0 0 0)
 			(effects
 				(font
@@ -71626,7 +71626,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Teletype:R2512"
+		(property "Footprint" "teletype-180824:R2512"
 			(at 0 0 0)
 			(effects
 				(font
@@ -71830,7 +71830,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Teletype:R2512W"
+		(property "Footprint" "teletype-180824:R2512W"
 			(at 0 0 0)
 			(effects
 				(font
@@ -72034,7 +72034,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Teletype:R3216"
+		(property "Footprint" "teletype-180824:R3216"
 			(at 0 0 0)
 			(effects
 				(font
@@ -72238,7 +72238,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Teletype:R3216W"
+		(property "Footprint" "teletype-180824:R3216W"
 			(at 0 0 0)
 			(effects
 				(font
@@ -72442,7 +72442,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Teletype:R3225"
+		(property "Footprint" "teletype-180824:R3225"
 			(at 0 0 0)
 			(effects
 				(font
@@ -72646,7 +72646,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Teletype:R3225W"
+		(property "Footprint" "teletype-180824:R3225W"
 			(at 0 0 0)
 			(effects
 				(font
@@ -72850,7 +72850,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Teletype:R4527"
+		(property "Footprint" "teletype-180824:R4527"
 			(at 0 0 0)
 			(effects
 				(font
@@ -73054,7 +73054,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Teletype:R5025"
+		(property "Footprint" "teletype-180824:R5025"
 			(at 0 0 0)
 			(effects
 				(font
@@ -73258,7 +73258,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Teletype:R5025W"
+		(property "Footprint" "teletype-180824:R5025W"
 			(at 0 0 0)
 			(effects
 				(font
@@ -73462,7 +73462,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Teletype:R6332"
+		(property "Footprint" "teletype-180824:R6332"
 			(at 0 0 0)
 			(effects
 				(font
@@ -73666,7 +73666,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Teletype:R6332W"
+		(property "Footprint" "teletype-180824:R6332W"
 			(at 0 0 0)
 			(effects
 				(font
@@ -73870,7 +73870,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Teletype:RDH_15"
+		(property "Footprint" "teletype-180824:RDH_15"
 			(at 0 0 0)
 			(effects
 				(font
@@ -74074,7 +74074,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Teletype:V234_12"
+		(property "Footprint" "teletype-180824:V234_12"
 			(at 0 0 0)
 			(effects
 				(font
@@ -74278,7 +74278,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Teletype:V235_17"
+		(property "Footprint" "teletype-180824:V235_17"
 			(at 0 0 0)
 			(effects
 				(font
@@ -74482,7 +74482,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Teletype:V526-0"
+		(property "Footprint" "teletype-180824:V526-0"
 			(at 0 0 0)
 			(effects
 				(font
@@ -74686,7 +74686,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Teletype:VMTA55"
+		(property "Footprint" "teletype-180824:VMTA55"
 			(at 0 0 0)
 			(effects
 				(font
@@ -74890,7 +74890,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Teletype:VMTB60"
+		(property "Footprint" "teletype-180824:VMTB60"
 			(at 0 0 0)
 			(effects
 				(font
@@ -75094,7 +75094,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Teletype:VTA52"
+		(property "Footprint" "teletype-180824:VTA52"
 			(at 0 0 0)
 			(effects
 				(font
@@ -75298,7 +75298,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Teletype:VTA53"
+		(property "Footprint" "teletype-180824:VTA53"
 			(at 0 0 0)
 			(effects
 				(font
@@ -75502,7 +75502,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Teletype:VTA54"
+		(property "Footprint" "teletype-180824:VTA54"
 			(at 0 0 0)
 			(effects
 				(font
@@ -75706,7 +75706,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Teletype:VTA55"
+		(property "Footprint" "teletype-180824:VTA55"
 			(at 0 0 0)
 			(effects
 				(font
@@ -75910,7 +75910,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Teletype:VTA56"
+		(property "Footprint" "teletype-180824:VTA56"
 			(at 0 0 0)
 			(effects
 				(font
@@ -76114,7 +76114,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Teletype:WSC0001"
+		(property "Footprint" "teletype-180824:WSC0001"
 			(at 0 0 0)
 			(effects
 				(font
@@ -76318,7 +76318,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Teletype:WSC0002"
+		(property "Footprint" "teletype-180824:WSC0002"
 			(at 0 0 0)
 			(effects
 				(font
@@ -76522,7 +76522,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Teletype:WSC01_2"
+		(property "Footprint" "teletype-180824:WSC01_2"
 			(at 0 0 0)
 			(effects
 				(font
@@ -76726,7 +76726,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Teletype:WSC2515"
+		(property "Footprint" "teletype-180824:WSC2515"
 			(at 0 0 0)
 			(effects
 				(font
@@ -76930,7 +76930,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Teletype:WSC4527"
+		(property "Footprint" "teletype-180824:WSC4527"
 			(at 0 0 0)
 			(effects
 				(font
@@ -77134,7 +77134,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Teletype:WSC6927"
+		(property "Footprint" "teletype-180824:WSC6927"
 			(at 0 0 0)
 			(effects
 				(font
@@ -77339,7 +77339,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Teletype:MNR35"
+		(property "Footprint" "teletype-180824:MNR35"
 			(at 0 0 0)
 			(effects
 				(font
@@ -77663,7 +77663,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Teletype:R0201"
+		(property "Footprint" "teletype-180824:R0201"
 			(at 0 0 0)
 			(effects
 				(font
@@ -77867,7 +77867,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Teletype:R0201MP"
+		(property "Footprint" "teletype-180824:R0201MP"
 			(at 0 0 0)
 			(effects
 				(font
@@ -78071,7 +78071,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Teletype:R0402"
+		(property "Footprint" "teletype-180824:R0402"
 			(at 0 0 0)
 			(effects
 				(font
@@ -78275,7 +78275,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Teletype:R0402M"
+		(property "Footprint" "teletype-180824:R0402M"
 			(at 0 0 0)
 			(effects
 				(font
@@ -78479,7 +78479,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Teletype:R0402MP"
+		(property "Footprint" "teletype-180824:R0402MP"
 			(at 0 0 0)
 			(effects
 				(font
@@ -78683,7 +78683,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Teletype:R0603"
+		(property "Footprint" "teletype-180824:R0603"
 			(at 0 0 0)
 			(effects
 				(font
@@ -78887,7 +78887,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Teletype:R0603MP"
+		(property "Footprint" "teletype-180824:R0603MP"
 			(at 0 0 0)
 			(effects
 				(font
@@ -79091,7 +79091,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Teletype:R0805"
+		(property "Footprint" "teletype-180824:R0805"
 			(at 0 0 0)
 			(effects
 				(font
@@ -79295,7 +79295,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Teletype:R0805MP"
+		(property "Footprint" "teletype-180824:R0805MP"
 			(at 0 0 0)
 			(effects
 				(font
@@ -79499,7 +79499,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Teletype:R1005"
+		(property "Footprint" "teletype-180824:R1005"
 			(at 0 0 0)
 			(effects
 				(font
@@ -79703,7 +79703,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Teletype:R1005MP"
+		(property "Footprint" "teletype-180824:R1005MP"
 			(at 0 0 0)
 			(effects
 				(font
@@ -79907,7 +79907,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Teletype:R1206"
+		(property "Footprint" "teletype-180824:R1206"
 			(at 0 0 0)
 			(effects
 				(font
@@ -80111,7 +80111,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Teletype:R1206MP"
+		(property "Footprint" "teletype-180824:R1206MP"
 			(at 0 0 0)
 			(effects
 				(font
@@ -80315,7 +80315,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Teletype:R1210"
+		(property "Footprint" "teletype-180824:R1210"
 			(at 0 0 0)
 			(effects
 				(font
@@ -80519,7 +80519,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Teletype:R1210MP"
+		(property "Footprint" "teletype-180824:R1210MP"
 			(at 0 0 0)
 			(effects
 				(font
@@ -80723,7 +80723,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Teletype:R1508"
+		(property "Footprint" "teletype-180824:R1508"
 			(at 0 0 0)
 			(effects
 				(font
@@ -80927,7 +80927,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Teletype:R1508MP"
+		(property "Footprint" "teletype-180824:R1508MP"
 			(at 0 0 0)
 			(effects
 				(font
@@ -81131,7 +81131,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Teletype:R2010"
+		(property "Footprint" "teletype-180824:R2010"
 			(at 0 0 0)
 			(effects
 				(font
@@ -81335,7 +81335,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Teletype:R2010MP"
+		(property "Footprint" "teletype-180824:R2010MP"
 			(at 0 0 0)
 			(effects
 				(font
@@ -81539,7 +81539,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Teletype:R2012"
+		(property "Footprint" "teletype-180824:R2012"
 			(at 0 0 0)
 			(effects
 				(font
@@ -81743,7 +81743,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Teletype:R2012MP"
+		(property "Footprint" "teletype-180824:R2012MP"
 			(at 0 0 0)
 			(effects
 				(font
@@ -81947,7 +81947,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Teletype:R2512"
+		(property "Footprint" "teletype-180824:R2512"
 			(at 0 0 0)
 			(effects
 				(font
@@ -82151,7 +82151,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Teletype:R2512MP"
+		(property "Footprint" "teletype-180824:R2512MP"
 			(at 0 0 0)
 			(effects
 				(font
@@ -82355,7 +82355,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Teletype:R3008"
+		(property "Footprint" "teletype-180824:R3008"
 			(at 0 0 0)
 			(effects
 				(font
@@ -82559,7 +82559,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Teletype:R3008MP"
+		(property "Footprint" "teletype-180824:R3008MP"
 			(at 0 0 0)
 			(effects
 				(font
@@ -82763,7 +82763,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Teletype:R3216"
+		(property "Footprint" "teletype-180824:R3216"
 			(at 0 0 0)
 			(effects
 				(font
@@ -82967,7 +82967,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Teletype:R3216MP"
+		(property "Footprint" "teletype-180824:R3216MP"
 			(at 0 0 0)
 			(effects
 				(font
@@ -83171,7 +83171,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Teletype:R3225"
+		(property "Footprint" "teletype-180824:R3225"
 			(at 0 0 0)
 			(effects
 				(font
@@ -83375,7 +83375,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Teletype:R3225MP"
+		(property "Footprint" "teletype-180824:R3225MP"
 			(at 0 0 0)
 			(effects
 				(font
@@ -83579,7 +83579,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Teletype:R4527"
+		(property "Footprint" "teletype-180824:R4527"
 			(at 0 0 0)
 			(effects
 				(font
@@ -83783,7 +83783,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Teletype:R4527MP"
+		(property "Footprint" "teletype-180824:R4527MP"
 			(at 0 0 0)
 			(effects
 				(font
@@ -83987,7 +83987,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Teletype:R5025"
+		(property "Footprint" "teletype-180824:R5025"
 			(at 0 0 0)
 			(effects
 				(font
@@ -84191,7 +84191,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Teletype:R5025MP"
+		(property "Footprint" "teletype-180824:R5025MP"
 			(at 0 0 0)
 			(effects
 				(font
@@ -84395,7 +84395,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Teletype:R6332"
+		(property "Footprint" "teletype-180824:R6332"
 			(at 0 0 0)
 			(effects
 				(font
@@ -84599,7 +84599,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Teletype:R6332MP"
+		(property "Footprint" "teletype-180824:R6332MP"
 			(at 0 0 0)
 			(effects
 				(font
@@ -84803,7 +84803,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Teletype:RW-BA"
+		(property "Footprint" "teletype-180824:RW-BA"
 			(at 0 0 0)
 			(effects
 				(font
@@ -85007,7 +85007,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Teletype:RW-BB"
+		(property "Footprint" "teletype-180824:RW-BB"
 			(at 0 0 0)
 			(effects
 				(font
@@ -85211,7 +85211,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Teletype:RW-CA"
+		(property "Footprint" "teletype-180824:RW-CA"
 			(at 0 0 0)
 			(effects
 				(font
@@ -85415,7 +85415,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Teletype:RW-CB"
+		(property "Footprint" "teletype-180824:RW-CB"
 			(at 0 0 0)
 			(effects
 				(font
@@ -85619,7 +85619,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Teletype:RW-DA"
+		(property "Footprint" "teletype-180824:RW-DA"
 			(at 0 0 0)
 			(effects
 				(font
@@ -85823,7 +85823,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Teletype:RW-DB"
+		(property "Footprint" "teletype-180824:RW-DB"
 			(at 0 0 0)
 			(effects
 				(font
@@ -86027,7 +86027,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Teletype:RW-EA"
+		(property "Footprint" "teletype-180824:RW-EA"
 			(at 0 0 0)
 			(effects
 				(font
@@ -86232,7 +86232,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Teletype:SHAPES_PONY_MOLEX-USB"
+		(property "Footprint" "teletype-180824:SHAPES_PONY_MOLEX-USB"
 			(at 0 0 0)
 			(effects
 				(font
@@ -87063,7 +87063,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Teletype:SHAPES_POT-ALPS_ALPS_POT_VERTICAL_PS"
+		(property "Footprint" "teletype-180824:SHAPES_POT-ALPS_ALPS_POT_VERTICAL_PS"
 			(at 0 0 0)
 			(effects
 				(font
@@ -87381,7 +87381,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Teletype:SWITCH-OMRON_B3F-10XX"
+		(property "Footprint" "teletype-180824:SWITCH-OMRON_B3F-10XX"
 			(at 0 0 0)
 			(effects
 				(font
@@ -87668,7 +87668,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Teletype:SO08"
+		(property "Footprint" "teletype-180824:SO08"
 			(at 0 0 0)
 			(effects
 				(font
@@ -87921,7 +87921,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "Teletype:WQP-PJ301M-12_JACK"
+		(property "Footprint" "teletype-180824:WQP-PJ301M-12_JACK"
 			(at 0 0 0)
 			(effects
 				(font

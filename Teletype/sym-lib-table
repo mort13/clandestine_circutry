@@ -1,4 +1,4 @@
 (sym_lib_table
   (version 0)
-  (lib (name "Teletype-eagle-import")(type "KiCad")(uri "${KIPRJMOD}/Teletype-eagle-import.kicad_sym")(options "")(descr ""))
+  (lib (name "teletype-180824-eagle-import")(type "KiCad")(uri "${KIPRJMOD}/teletype-180824-eagle-import.kicad_sym")(options "")(descr ""))
 )
