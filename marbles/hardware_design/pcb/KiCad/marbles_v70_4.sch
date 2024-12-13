@@ -1,0 +1,1931 @@
+EESchema Schematic File Version 4
+EELAYER 30 0
+EELAYER END
+$Descr User 16774 11294
+encoding utf-8
+Sheet 1 6
+Title ""
+Date ""
+Rev ""
+Comp ""
+Comment1 ""
+Comment2 ""
+Comment3 ""
+Comment4 ""
+$EndDescr
+Wire Wire Line
+	14800 7800 14800 7900
+Wire Wire Line
+	14800 7900 14800 8000
+Wire Wire Line
+	14800 7900 15200 7900
+Wire Wire Line
+	15200 7900 15700 7900
+Wire Wire Line
+	15700 7900 15700 8000
+Wire Wire Line
+	15200 7800 15200 7900
+Wire Wire Line
+	15200 8000 15200 7900
+Connection ~ 14800 7900
+Connection ~ 15200 7900
+Text GLabel 14800 7800 0    10   BiDi ~ 0
+GND
+Wire Wire Line
+	11800 1700 11700 1700
+Wire Wire Line
+	11700 1700 11700 1800
+Text GLabel 11800 1700 0    10   BiDi ~ 0
+GND
+Wire Wire Line
+	7900 7600 7800 7600
+Wire Wire Line
+	7800 7600 7800 7700
+Text GLabel 7900 7600 0    10   BiDi ~ 0
+GND
+Wire Wire Line
+	6000 7000 5900 7000
+Wire Wire Line
+	5900 7000 5900 7100
+Text GLabel 6000 7000 0    10   BiDi ~ 0
+GND
+Wire Wire Line
+	11700 7600 11600 7600
+Wire Wire Line
+	11600 7600 11600 7700
+Text GLabel 11700 7600 0    10   BiDi ~ 0
+GND
+Wire Wire Line
+	9800 7000 9700 7000
+Wire Wire Line
+	9700 7000 9700 7100
+Text GLabel 9800 7000 0    10   BiDi ~ 0
+GND
+Wire Wire Line
+	11900 4700 11800 4700
+Wire Wire Line
+	11800 4700 11800 4800
+Text GLabel 11900 4700 0    10   BiDi ~ 0
+GND
+Wire Wire Line
+	8100 4700 8000 4700
+Wire Wire Line
+	8000 4700 8000 4800
+Text GLabel 8100 4700 0    10   BiDi ~ 0
+GND
+Wire Wire Line
+	8100 1800 8000 1800
+Wire Wire Line
+	8000 1800 8000 1900
+Text GLabel 8100 1800 0    10   BiDi ~ 0
+GND
+Wire Wire Line
+	4000 4900 4000 5000
+Text GLabel 4000 4900 0    10   BiDi ~ 0
+GND
+Wire Wire Line
+	4300 4800 4300 5000
+Text GLabel 4300 4800 0    10   BiDi ~ 0
+GND
+Wire Wire Line
+	7400 8000 7500 8000
+Wire Wire Line
+	7500 8000 7500 8100
+Text GLabel 7400 8000 0    10   BiDi ~ 0
+GND
+Wire Wire Line
+	11300 8000 11300 8100
+Wire Wire Line
+	11200 8000 11300 8000
+Text GLabel 11300 8000 0    10   BiDi ~ 0
+GND
+Wire Wire Line
+	5600 2700 5500 2700
+Wire Wire Line
+	5500 2700 5500 2800
+Text GLabel 5600 2700 0    10   BiDi ~ 0
+GND
+Wire Wire Line
+	9300 2600 9200 2600
+Wire Wire Line
+	9200 2600 9200 2700
+Text GLabel 9300 2600 0    10   BiDi ~ 0
+GND
+Wire Wire Line
+	5600 5600 5500 5600
+Wire Wire Line
+	5500 5600 5500 5700
+Text GLabel 5600 5600 0    10   BiDi ~ 0
+GND
+Wire Wire Line
+	9400 5600 9300 5600
+Wire Wire Line
+	9300 5600 9300 5700
+Text GLabel 9400 5600 0    10   BiDi ~ 0
+GND
+Wire Wire Line
+	13900 8200 13900 8300
+Wire Wire Line
+	13900 8300 13900 8400
+Wire Wire Line
+	13500 8000 13500 8300
+Wire Wire Line
+	13500 8300 13900 8300
+Connection ~ 13900 8300
+Text GLabel 13900 8200 0    10   BiDi ~ 0
+GND
+Wire Wire Line
+	4100 7600 4000 7600
+Wire Wire Line
+	4000 7600 4000 7700
+Text GLabel 4100 7600 0    10   BiDi ~ 0
+GND
+Wire Wire Line
+	2200 7000 2100 7000
+Wire Wire Line
+	2100 7000 2100 7100
+Text GLabel 2200 7000 0    10   BiDi ~ 0
+GND
+Wire Wire Line
+	3600 8000 3700 8000
+Wire Wire Line
+	3700 8000 3700 8100
+Text GLabel 3600 8000 0    10   BiDi ~ 0
+GND
+Wire Wire Line
+	10200 9200 10100 9200
+Wire Wire Line
+	10100 9200 10100 9300
+Text GLabel 10200 9200 0    10   BiDi ~ 0
+GND
+Wire Wire Line
+	15200 7400 15200 7500
+Wire Wire Line
+	14800 7400 14800 7500
+Wire Wire Line
+	14800 7400 15200 7400
+Wire Wire Line
+	14700 7400 14700 7300
+Wire Wire Line
+	14700 7400 14800 7400
+Wire Wire Line
+	14600 7400 14700 7400
+Wire Wire Line
+	14600 7600 14600 7400
+Wire Wire Line
+	14600 7400 14400 7400
+Wire Wire Line
+	14400 7400 14400 7600
+Connection ~ 14800 7400
+Connection ~ 14700 7400
+Connection ~ 14600 7400
+Text GLabel 15200 7400 0    10   BiDi ~ 0
+VCC
+Wire Wire Line
+	13900 7400 13900 7500
+Wire Wire Line
+	13900 7500 13900 7600
+Wire Wire Line
+	13900 7500 13500 7500
+Wire Wire Line
+	13500 7500 13500 7700
+Connection ~ 13900 7500
+Text GLabel 13900 7400 0    10   BiDi ~ 0
+VCC
+Wire Wire Line
+	14600 8200 14600 8400
+Wire Wire Line
+	14600 8400 14700 8400
+Wire Wire Line
+	14700 8400 14700 8500
+Wire Wire Line
+	14400 8400 14600 8400
+Wire Wire Line
+	14700 8400 14800 8400
+Wire Wire Line
+	14800 8400 14800 8300
+Wire Wire Line
+	14400 8200 14400 8400
+Wire Wire Line
+	15200 8300 15200 8400
+Wire Wire Line
+	15200 8400 14800 8400
+Connection ~ 14700 8400
+Connection ~ 14600 8400
+Connection ~ 14800 8400
+Text GLabel 14600 8200 0    10   BiDi ~ 0
+VEE
+Wire Wire Line
+	6600 1700 6500 1700
+Text Label 6500 1700 2    70   ~ 0
+VREF_BIAS
+Wire Wire Line
+	10300 1600 10200 1600
+Text Label 10200 1600 2    70   ~ 0
+VREF_BIAS
+Wire Wire Line
+	6600 4600 6500 4600
+Text Label 6500 4600 2    70   ~ 0
+VREF_BIAS
+Wire Wire Line
+	10400 4600 10300 4600
+Text Label 10300 4600 2    70   ~ 0
+VREF_BIAS
+Wire Wire Line
+	4000 4300 4000 4400
+Wire Wire Line
+	4000 4400 4000 4500
+Wire Wire Line
+	4000 4400 4300 4400
+Wire Wire Line
+	4300 4400 4300 4500
+Wire Wire Line
+	4300 4400 4400 4400
+Connection ~ 4000 4400
+Connection ~ 4300 4400
+Text Label 4400 4400 0    70   ~ 0
+VREF_BIAS
+Wire Wire Line
+	7200 7400 7300 7400
+Wire Wire Line
+	7300 7400 7400 7400
+Wire Wire Line
+	7100 7000 7300 7000
+Wire Wire Line
+	7300 7000 7300 7400
+Connection ~ 7300 7400
+Wire Wire Line
+	7800 7400 7900 7400
+Wire Wire Line
+	6700 7000 6500 7000
+Wire Wire Line
+	6500 7000 6400 7000
+Wire Wire Line
+	6600 7300 6500 7300
+Wire Wire Line
+	6500 7300 6500 7000
+Connection ~ 6500 7000
+Wire Wire Line
+	6100 8000 6000 8000
+Wire Wire Line
+	6000 8000 6000 7500
+Wire Wire Line
+	6000 7500 5900 7500
+Wire Wire Line
+	6000 7500 6100 7500
+Connection ~ 6000 7500
+Text GLabel 5900 7500 0    70   BiDi ~ 0
+GATE_T_2
+Wire Wire Line
+	11000 7400 11100 7400
+Wire Wire Line
+	11100 7400 11200 7400
+Wire Wire Line
+	10900 7000 11100 7000
+Wire Wire Line
+	11100 7000 11100 7400
+Connection ~ 11100 7400
+Wire Wire Line
+	11600 7400 11700 7400
+Wire Wire Line
+	10500 7000 10300 7000
+Wire Wire Line
+	10300 7000 10200 7000
+Wire Wire Line
+	10400 7300 10300 7300
+Wire Wire Line
+	10300 7300 10300 7000
+Connection ~ 10300 7000
+Wire Wire Line
+	9900 8000 9800 8000
+Wire Wire Line
+	9800 8000 9800 7500
+Wire Wire Line
+	9800 7500 9700 7500
+Wire Wire Line
+	9800 7500 9900 7500
+Connection ~ 9800 7500
+Text GLabel 9700 7500 0    70   BiDi ~ 0
+GATE_T_3
+Wire Wire Line
+	7200 1600 7300 1600
+Wire Wire Line
+	7300 1600 7400 1600
+Wire Wire Line
+	7400 1600 7500 1600
+Wire Wire Line
+	7100 1300 7300 1300
+Wire Wire Line
+	7300 1300 7300 1600
+Wire Wire Line
+	6200 2900 6100 2900
+Wire Wire Line
+	6100 2900 6100 3100
+Wire Wire Line
+	6100 3100 7400 3100
+Wire Wire Line
+	7400 3100 7400 2200
+Wire Wire Line
+	7400 2200 7400 1900
+Wire Wire Line
+	7400 1900 7400 1600
+Connection ~ 7300 1600
+Connection ~ 7400 1600
+Wire Wire Line
+	8000 900  8000 1600
+Wire Wire Line
+	8000 1600 7900 1600
+Wire Wire Line
+	7400 900  8000 900 
+Wire Wire Line
+	8000 1600 8100 1600
+Connection ~ 8000 1600
+Wire Wire Line
+	8000 3900 8000 4500
+Wire Wire Line
+	8000 4500 8100 4500
+Wire Wire Line
+	8000 4500 7900 4500
+Wire Wire Line
+	7400 3900 8000 3900
+Connection ~ 8000 4500
+Wire Wire Line
+	11800 3900 11800 4500
+Wire Wire Line
+	11800 4500 11900 4500
+Wire Wire Line
+	11800 4500 11700 4500
+Wire Wire Line
+	11200 3900 11800 3900
+Connection ~ 11800 4500
+Wire Wire Line
+	10400 4400 10300 4400
+Wire Wire Line
+	10300 4400 10300 4200
+Wire Wire Line
+	10300 4200 10300 3900
+Wire Wire Line
+	10300 3900 10800 3900
+Wire Wire Line
+	10200 4400 10300 4400
+Wire Wire Line
+	10600 4200 10300 4200
+Connection ~ 10300 4400
+Connection ~ 10300 4200
+Wire Wire Line
+	6600 4400 6500 4400
+Wire Wire Line
+	6500 4400 6500 4200
+Wire Wire Line
+	6500 4200 6500 3900
+Wire Wire Line
+	6500 3900 7000 3900
+Wire Wire Line
+	6400 4400 6500 4400
+Wire Wire Line
+	6800 4200 6500 4200
+Connection ~ 6500 4400
+Connection ~ 6500 4200
+Wire Wire Line
+	10300 1400 10200 1400
+Wire Wire Line
+	10200 1400 10200 1200
+Wire Wire Line
+	10200 1200 10200 900 
+Wire Wire Line
+	10200 900  10700 900 
+Wire Wire Line
+	10100 1400 10200 1400
+Wire Wire Line
+	10500 1200 10200 1200
+Connection ~ 10200 1400
+Connection ~ 10200 1200
+Wire Wire Line
+	6600 1500 6500 1500
+Wire Wire Line
+	6500 1500 6500 1300
+Wire Wire Line
+	6500 1300 6500 900 
+Wire Wire Line
+	7000 900  6500 900 
+Wire Wire Line
+	6500 1500 6400 1500
+Wire Wire Line
+	6800 1300 6500 1300
+Connection ~ 6500 1500
+Connection ~ 6500 1300
+Wire Wire Line
+	11700 900  11700 1500
+Wire Wire Line
+	11700 1500 11800 1500
+Wire Wire Line
+	11700 1500 11600 1500
+Wire Wire Line
+	11100 900  11700 900 
+Connection ~ 11700 1500
+Wire Wire Line
+	9600 1400 9700 1400
+Text GLabel 9600 1400 0    70   BiDi ~ 0
+DAC_X_1
+Wire Wire Line
+	9800 4400 9700 4400
+Text GLabel 9700 4400 0    70   BiDi ~ 0
+DAC_X_3
+Wire Wire Line
+	6000 1500 5900 1500
+Text GLabel 5900 1500 0    70   BiDi ~ 0
+DAC_Y
+Wire Wire Line
+	6000 4400 5900 4400
+Text GLabel 5900 4400 0    70   BiDi ~ 0
+DAC_X_2
+Wire Wire Line
+	4000 3900 4000 3800
+Wire Wire Line
+	4000 3800 3900 3800
+Text GLabel 3900 3800 0    70   BiDi ~ 0
+VREF
+Wire Wire Line
+	6900 8000 7000 8000
+Wire Wire Line
+	10700 8000 10800 8000
+Wire Wire Line
+	6000 2700 6100 2700
+Wire Wire Line
+	6100 2700 6200 2700
+Wire Wire Line
+	6300 2200 6100 2200
+Wire Wire Line
+	6100 2200 6100 2700
+Connection ~ 6100 2700
+Wire Wire Line
+	7100 2200 7200 2200
+Wire Wire Line
+	7200 2200 7200 2800
+Wire Wire Line
+	7200 2800 6800 2800
+Wire Wire Line
+	9900 2800 9800 2800
+Wire Wire Line
+	9800 2800 9800 3000
+Wire Wire Line
+	9800 3000 11100 3000
+Wire Wire Line
+	11100 3000 11100 1900
+Wire Wire Line
+	10900 1500 11000 1500
+Wire Wire Line
+	11000 1500 11100 1500
+Wire Wire Line
+	11100 1500 11200 1500
+Wire Wire Line
+	10800 1200 11000 1200
+Wire Wire Line
+	11000 1200 11000 1500
+Wire Wire Line
+	11100 1900 11100 1800
+Wire Wire Line
+	11100 1800 11100 1500
+Connection ~ 11000 1500
+Connection ~ 11100 1500
+Wire Wire Line
+	9700 2600 9800 2600
+Wire Wire Line
+	9800 2600 9900 2600
+Wire Wire Line
+	10000 2100 9800 2100
+Wire Wire Line
+	9800 2100 9800 2600
+Connection ~ 9800 2600
+Wire Wire Line
+	10800 2100 10900 2100
+Wire Wire Line
+	10900 2100 10900 2700
+Wire Wire Line
+	10900 2700 10500 2700
+Wire Wire Line
+	6200 5800 6100 5800
+Wire Wire Line
+	6100 5800 6100 6000
+Wire Wire Line
+	6100 6000 7400 6000
+Wire Wire Line
+	7400 6000 7400 5100
+Wire Wire Line
+	7200 4500 7300 4500
+Wire Wire Line
+	7300 4500 7400 4500
+Wire Wire Line
+	7400 4500 7500 4500
+Wire Wire Line
+	7100 4200 7300 4200
+Wire Wire Line
+	7300 4200 7300 4500
+Wire Wire Line
+	7400 5100 7400 4800
+Wire Wire Line
+	7400 4800 7400 4500
+Connection ~ 7300 4500
+Connection ~ 7400 4500
+Wire Wire Line
+	6000 5600 6100 5600
+Wire Wire Line
+	6100 5600 6200 5600
+Wire Wire Line
+	6300 5100 6100 5100
+Wire Wire Line
+	6100 5100 6100 5600
+Connection ~ 6100 5600
+Wire Wire Line
+	7100 5100 7200 5100
+Wire Wire Line
+	7200 5100 7200 5700
+Wire Wire Line
+	7200 5700 6800 5700
+Wire Wire Line
+	10000 5800 9900 5800
+Wire Wire Line
+	9900 5800 9900 6000
+Wire Wire Line
+	9900 6000 11200 6000
+Wire Wire Line
+	11200 6000 11200 5000
+Wire Wire Line
+	11000 4500 11100 4500
+Wire Wire Line
+	11100 4500 11200 4500
+Wire Wire Line
+	11200 4500 11300 4500
+Wire Wire Line
+	10900 4200 11100 4200
+Wire Wire Line
+	11100 4200 11100 4500
+Wire Wire Line
+	11200 5000 11200 4800
+Wire Wire Line
+	11200 4800 11200 4500
+Connection ~ 11100 4500
+Connection ~ 11200 4500
+Wire Wire Line
+	9800 5600 9900 5600
+Wire Wire Line
+	9900 5600 10000 5600
+Wire Wire Line
+	10100 5100 9900 5100
+Wire Wire Line
+	9900 5100 9900 5600
+Connection ~ 9900 5600
+Wire Wire Line
+	10900 5100 11000 5100
+Wire Wire Line
+	11000 5100 11000 5700
+Wire Wire Line
+	11000 5700 10600 5700
+Wire Wire Line
+	6500 7500 6600 7500
+Wire Wire Line
+	10400 7500 10300 7500
+Wire Wire Line
+	3400 7400 3500 7400
+Wire Wire Line
+	3500 7400 3600 7400
+Wire Wire Line
+	3300 7000 3500 7000
+Wire Wire Line
+	3500 7000 3500 7400
+Connection ~ 3500 7400
+Wire Wire Line
+	4000 7400 4100 7400
+Wire Wire Line
+	2900 7000 2700 7000
+Wire Wire Line
+	2700 7000 2600 7000
+Wire Wire Line
+	2800 7300 2700 7300
+Wire Wire Line
+	2700 7300 2700 7000
+Connection ~ 2700 7000
+Wire Wire Line
+	3100 8000 3200 8000
+Wire Wire Line
+	2700 7500 2800 7500
+Wire Wire Line
+	2300 8000 2200 8000
+Wire Wire Line
+	2200 8000 2200 7500
+Wire Wire Line
+	2200 7500 2100 7500
+Wire Wire Line
+	2200 7500 2300 7500
+Connection ~ 2200 7500
+Text GLabel 2100 7500 0    70   BiDi ~ 0
+GATE_T_1
+Wire Wire Line
+	10200 9000 10100 9000
+Wire Wire Line
+	10100 9000 10100 8700
+Wire Wire Line
+	10100 8700 10900 8700
+Wire Wire Line
+	10900 8700 10900 9100
+Wire Wire Line
+	10900 9100 10800 9100
+$Comp
+L marbles_v70-eagle-import:A3L-LOC #FRAME1
+U 1 1 73DA64CA
+P 900 10500
+AR Path="/73DA64CA" Ref="#FRAME1"  Part="1" 
+AR Path="/5FFDD2FD/73DA64CA" Ref="#FRAME1"  Part="1" 
+F 0 "#FRAME1" H 900 10500 50  0001 C CNN
+F 1 "A3L-LOC" H 900 10500 50  0001 C CNN
+F 2 "" H 900 10500 50  0001 C CNN
+F 3 "" H 900 10500 50  0001 C CNN
+	1    900  10500
+	1    0    0    -1  
+$EndComp
+$Comp
+L marbles_v70-eagle-import:C-USC0402 C50
+U 1 1 037FE3C3
+P 13500 7800
+AR Path="/037FE3C3" Ref="C50"  Part="1" 
+AR Path="/5FFDD2FD/037FE3C3" Ref="C50"  Part="1" 
+F 0 "C50" H 13540 7825 59  0000 L BNN
+F 1 "100n" H 13540 7635 59  0000 L BNN
+F 2 "marbles_v70:C0402" H 13500 7800 50  0001 C CNN
+F 3 "" H 13500 7800 50  0001 C CNN
+	1    13500 7800
+	1    0    0    -1  
+$EndComp
+$Comp
+L marbles_v70-eagle-import:GND #GND60
+U 1 1 8C26A852
+P 15700 8100
+AR Path="/8C26A852" Ref="#GND60"  Part="1" 
+AR Path="/5FFDD2FD/8C26A852" Ref="#GND060"  Part="1" 
+F 0 "#GND060" H 15700 8100 50  0001 C CNN
+F 1 "GND" H 15600 8000 59  0000 L BNN
+F 2 "" H 15700 8100 50  0001 C CNN
+F 3 "" H 15700 8100 50  0001 C CNN
+	1    15700 8100
+	1    0    0    -1  
+$EndComp
+$Comp
+L marbles_v70-eagle-import:VCC #P+5
+U 1 1 33ACA7EC
+P 14700 7300
+AR Path="/33ACA7EC" Ref="#P+5"  Part="1" 
+AR Path="/5FFDD2FD/33ACA7EC" Ref="#P+05"  Part="1" 
+F 0 "#P+05" H 14700 7300 50  0001 C CNN
+F 1 "VCC" H 14660 7440 59  0000 L BNN
+F 2 "" H 14700 7300 50  0001 C CNN
+F 3 "" H 14700 7300 50  0001 C CNN
+	1    14700 7300
+	1    0    0    -1  
+$EndComp
+$Comp
+L marbles_v70-eagle-import:VEE #SUPPLY4
+U 1 1 6DF68C43
+P 14700 8600
+AR Path="/6DF68C43" Ref="#SUPPLY4"  Part="1" 
+AR Path="/5FFDD2FD/6DF68C43" Ref="#SUPPLY04"  Part="1" 
+F 0 "#SUPPLY04" H 14700 8600 50  0001 C CNN
+F 1 "VEE" H 14625 8725 59  0000 L BNN
+F 2 "" H 14700 8600 50  0001 C CNN
+F 3 "" H 14700 8600 50  0001 C CNN
+	1    14700 8600
+	-1   0    0    1   
+$EndComp
+$Comp
+L marbles_v70-eagle-import:C-USC0402 C39
+U 1 1 3AA58703
+P 14800 7600
+AR Path="/3AA58703" Ref="C39"  Part="1" 
+AR Path="/5FFDD2FD/3AA58703" Ref="C39"  Part="1" 
+F 0 "C39" H 14840 7625 59  0000 L BNN
+F 1 "100n" H 14840 7435 59  0000 L BNN
+F 2 "marbles_v70:C0402" H 14800 7600 50  0001 C CNN
+F 3 "" H 14800 7600 50  0001 C CNN
+	1    14800 7600
+	1    0    0    -1  
+$EndComp
+$Comp
+L marbles_v70-eagle-import:C-USC0402 C37
+U 1 1 0B96D69B
+P 14800 8100
+AR Path="/0B96D69B" Ref="C37"  Part="1" 
+AR Path="/5FFDD2FD/0B96D69B" Ref="C37"  Part="1" 
+F 0 "C37" H 14840 8125 59  0000 L BNN
+F 1 "100n" H 14840 7935 59  0000 L BNN
+F 2 "marbles_v70:C0402" H 14800 8100 50  0001 C CNN
+F 3 "" H 14800 8100 50  0001 C CNN
+	1    14800 8100
+	1    0    0    -1  
+$EndComp
+$Comp
+L marbles_v70-eagle-import:GND #GND38
+U 1 1 9C9B1271
+P 11700 1900
+AR Path="/9C9B1271" Ref="#GND38"  Part="1" 
+AR Path="/5FFDD2FD/9C9B1271" Ref="#GND038"  Part="1" 
+F 0 "#GND038" H 11700 1900 50  0001 C CNN
+F 1 "GND" H 11600 1800 59  0000 L BNN
+F 2 "" H 11700 1900 50  0001 C CNN
+F 3 "" H 11700 1900 50  0001 C CNN
+	1    11700 1900
+	-1   0    0    -1  
+$EndComp
+$Comp
+L marbles_v70-eagle-import:GND #GND39
+U 1 1 D092AC48
+P 8000 2000
+AR Path="/D092AC48" Ref="#GND39"  Part="1" 
+AR Path="/5FFDD2FD/D092AC48" Ref="#GND039"  Part="1" 
+F 0 "#GND039" H 8000 2000 50  0001 C CNN
+F 1 "GND" H 7900 1900 59  0000 L BNN
+F 2 "" H 8000 2000 50  0001 C CNN
+F 3 "" H 8000 2000 50  0001 C CNN
+	1    8000 2000
+	1    0    0    -1  
+$EndComp
+$Comp
+L marbles_v70-eagle-import:PJ301_THONKICONN6 J14
+U 1 1 B2B62C81
+P 12000 1600
+AR Path="/B2B62C81" Ref="J14"  Part="1" 
+AR Path="/5FFDD2FD/B2B62C81" Ref="J14"  Part="1" 
+F 0 "J14" H 11900 1760 59  0000 L BNN
+F 1 "PJ301_THONKICONN6" H 12000 1600 50  0001 C CNN
+F 2 "marbles_v70:WQP_PJ_301M6" H 12000 1600 50  0001 C CNN
+F 3 "" H 12000 1600 50  0001 C CNN
+	1    12000 1600
+	1    0    0    -1  
+$EndComp
+$Comp
+L marbles_v70-eagle-import:R-US_R0603 R86
+U 1 1 21F2B4F7
+P 7600 7400
+AR Path="/21F2B4F7" Ref="R86"  Part="1" 
+AR Path="/5FFDD2FD/21F2B4F7" Ref="R86"  Part="1" 
+F 0 "R86" H 7450 7459 59  0000 L BNN
+F 1 "1.0k" H 7450 7270 59  0000 L BNN
+F 2 "marbles_v70:R0603" H 7600 7400 50  0001 C CNN
+F 3 "" H 7600 7400 50  0001 C CNN
+	1    7600 7400
+	-1   0    0    1   
+$EndComp
+$Comp
+L marbles_v70-eagle-import:GND #GND46
+U 1 1 D2AB3227
+P 7800 7800
+AR Path="/D2AB3227" Ref="#GND46"  Part="1" 
+AR Path="/5FFDD2FD/D2AB3227" Ref="#GND046"  Part="1" 
+F 0 "#GND046" H 7800 7800 50  0001 C CNN
+F 1 "GND" H 7700 7700 59  0000 L BNN
+F 2 "" H 7800 7800 50  0001 C CNN
+F 3 "" H 7800 7800 50  0001 C CNN
+	1    7800 7800
+	1    0    0    -1  
+$EndComp
+$Comp
+L marbles_v70-eagle-import:PJ301_THONKICONN6 J11
+U 1 1 7CAC28DC
+P 8100 7500
+AR Path="/7CAC28DC" Ref="J11"  Part="1" 
+AR Path="/5FFDD2FD/7CAC28DC" Ref="J11"  Part="1" 
+F 0 "J11" H 8000 7660 59  0000 L BNN
+F 1 "PJ301_THONKICONN6" H 8100 7500 50  0001 C CNN
+F 2 "marbles_v70:WQP_PJ_301M6" H 8100 7500 50  0001 C CNN
+F 3 "" H 8100 7500 50  0001 C CNN
+	1    8100 7500
+	1    0    0    -1  
+$EndComp
+$Comp
+L marbles_v70-eagle-import:R-US_R0402 R52
+U 1 1 F0AE5E69
+P 6900 7000
+AR Path="/F0AE5E69" Ref="R52"  Part="1" 
+AR Path="/5FFDD2FD/F0AE5E69" Ref="R52"  Part="1" 
+F 0 "R52" H 6750 7059 59  0000 L BNN
+F 1 "56k" H 6750 6870 59  0000 L BNN
+F 2 "marbles_v70:R0402" H 6900 7000 50  0001 C CNN
+F 3 "" H 6900 7000 50  0001 C CNN
+	1    6900 7000
+	-1   0    0    1   
+$EndComp
+$Comp
+L marbles_v70-eagle-import:R-US_R0402 R49
+U 1 1 1C7A6388
+P 6200 7000
+AR Path="/1C7A6388" Ref="R49"  Part="1" 
+AR Path="/5FFDD2FD/1C7A6388" Ref="R49"  Part="1" 
+F 0 "R49" H 6050 7059 59  0000 L BNN
+F 1 "39k" H 6050 6870 59  0000 L BNN
+F 2 "marbles_v70:R0402" H 6200 7000 50  0001 C CNN
+F 3 "" H 6200 7000 50  0001 C CNN
+	1    6200 7000
+	-1   0    0    1   
+$EndComp
+$Comp
+L marbles_v70-eagle-import:GND #GND47
+U 1 1 D3B7AFF0
+P 5900 7200
+AR Path="/D3B7AFF0" Ref="#GND47"  Part="1" 
+AR Path="/5FFDD2FD/D3B7AFF0" Ref="#GND047"  Part="1" 
+F 0 "#GND047" H 5900 7200 50  0001 C CNN
+F 1 "GND" H 5800 7100 59  0000 L BNN
+F 2 "" H 5900 7200 50  0001 C CNN
+F 3 "" H 5900 7200 50  0001 C CNN
+	1    5900 7200
+	1    0    0    -1  
+$EndComp
+$Comp
+L marbles_v70-eagle-import:R-US_R0603 R87
+U 1 1 78FAD7AA
+P 11400 7400
+AR Path="/78FAD7AA" Ref="R87"  Part="1" 
+AR Path="/5FFDD2FD/78FAD7AA" Ref="R87"  Part="1" 
+F 0 "R87" H 11250 7459 59  0000 L BNN
+F 1 "1.0k" H 11250 7270 59  0000 L BNN
+F 2 "marbles_v70:R0603" H 11400 7400 50  0001 C CNN
+F 3 "" H 11400 7400 50  0001 C CNN
+	1    11400 7400
+	-1   0    0    1   
+$EndComp
+$Comp
+L marbles_v70-eagle-import:GND #GND48
+U 1 1 6421A367
+P 11600 7800
+AR Path="/6421A367" Ref="#GND48"  Part="1" 
+AR Path="/5FFDD2FD/6421A367" Ref="#GND048"  Part="1" 
+F 0 "#GND048" H 11600 7800 50  0001 C CNN
+F 1 "GND" H 11500 7700 59  0000 L BNN
+F 2 "" H 11600 7800 50  0001 C CNN
+F 3 "" H 11600 7800 50  0001 C CNN
+	1    11600 7800
+	1    0    0    -1  
+$EndComp
+$Comp
+L marbles_v70-eagle-import:PJ301_THONKICONN6 J12
+U 1 1 551BD728
+P 11900 7500
+AR Path="/551BD728" Ref="J12"  Part="1" 
+AR Path="/5FFDD2FD/551BD728" Ref="J12"  Part="1" 
+F 0 "J12" H 11800 7660 59  0000 L BNN
+F 1 "PJ301_THONKICONN6" H 11900 7500 50  0001 C CNN
+F 2 "marbles_v70:WQP_PJ_301M6" H 11900 7500 50  0001 C CNN
+F 3 "" H 11900 7500 50  0001 C CNN
+	1    11900 7500
+	1    0    0    -1  
+$EndComp
+$Comp
+L marbles_v70-eagle-import:R-US_R0402 R69
+U 1 1 1960D537
+P 10700 7000
+AR Path="/1960D537" Ref="R69"  Part="1" 
+AR Path="/5FFDD2FD/1960D537" Ref="R69"  Part="1" 
+F 0 "R69" H 10550 7059 59  0000 L BNN
+F 1 "56k" H 10550 6870 59  0000 L BNN
+F 2 "marbles_v70:R0402" H 10700 7000 50  0001 C CNN
+F 3 "" H 10700 7000 50  0001 C CNN
+	1    10700 7000
+	-1   0    0    1   
+$EndComp
+$Comp
+L marbles_v70-eagle-import:R-US_R0402 R75
+U 1 1 16CF01C6
+P 10000 7000
+AR Path="/16CF01C6" Ref="R75"  Part="1" 
+AR Path="/5FFDD2FD/16CF01C6" Ref="R75"  Part="1" 
+F 0 "R75" H 9850 7059 59  0000 L BNN
+F 1 "39k" H 9850 6870 59  0000 L BNN
+F 2 "marbles_v70:R0402" H 10000 7000 50  0001 C CNN
+F 3 "" H 10000 7000 50  0001 C CNN
+	1    10000 7000
+	-1   0    0    1   
+$EndComp
+$Comp
+L marbles_v70-eagle-import:GND #GND54
+U 1 1 F28BF559
+P 9700 7200
+AR Path="/F28BF559" Ref="#GND54"  Part="1" 
+AR Path="/5FFDD2FD/F28BF559" Ref="#GND054"  Part="1" 
+F 0 "#GND054" H 9700 7200 50  0001 C CNN
+F 1 "GND" H 9600 7100 59  0000 L BNN
+F 2 "" H 9700 7200 50  0001 C CNN
+F 3 "" H 9700 7200 50  0001 C CNN
+	1    9700 7200
+	1    0    0    -1  
+$EndComp
+$Comp
+L marbles_v70-eagle-import:TL074PW IC7
+U 1 1 F84B051B
+P 10600 1500
+AR Path="/F84B051B" Ref="IC7"  Part="1" 
+AR Path="/5FFDD2FD/F84B051B" Ref="IC7"  Part="1" 
+F 0 "IC7" H 10700 1625 59  0001 L BNN
+F 1 "OPA4171" H 10700 1300 59  0001 L BNN
+F 2 "marbles_v70:TSSOP14_065" H 10600 1500 50  0001 C CNN
+F 3 "" H 10600 1500 50  0001 C CNN
+	1    10600 1500
+	1    0    0    1   
+$EndComp
+$Comp
+L marbles_v70-eagle-import:TL074PW IC7
+U 2 1 F84B0517
+P 6900 1600
+AR Path="/F84B0517" Ref="IC7"  Part="2" 
+AR Path="/5FFDD2FD/F84B0517" Ref="IC7"  Part="2" 
+F 0 "IC7" H 7000 1725 59  0001 L BNN
+F 1 "OPA4171" H 7000 1400 59  0001 L BNN
+F 2 "marbles_v70:TSSOP14_065" H 6900 1600 50  0001 C CNN
+F 3 "" H 6900 1600 50  0001 C CNN
+	2    6900 1600
+	1    0    0    1   
+$EndComp
+$Comp
+L marbles_v70-eagle-import:TL074PW IC7
+U 3 1 F84B0513
+P 10700 4500
+AR Path="/F84B0513" Ref="IC7"  Part="3" 
+AR Path="/5FFDD2FD/F84B0513" Ref="IC7"  Part="3" 
+F 0 "IC7" H 10800 4625 59  0001 L BNN
+F 1 "OPA4171" H 10800 4300 59  0001 L BNN
+F 2 "marbles_v70:TSSOP14_065" H 10700 4500 50  0001 C CNN
+F 3 "" H 10700 4500 50  0001 C CNN
+	3    10700 4500
+	1    0    0    1   
+$EndComp
+$Comp
+L marbles_v70-eagle-import:TL074PW IC7
+U 4 1 F84B050F
+P 6900 4500
+AR Path="/F84B050F" Ref="IC7"  Part="4" 
+AR Path="/5FFDD2FD/F84B050F" Ref="IC7"  Part="4" 
+F 0 "IC7" H 7000 4625 59  0001 L BNN
+F 1 "OPA4171" H 7000 4300 59  0001 L BNN
+F 2 "marbles_v70:TSSOP14_065" H 6900 4500 50  0001 C CNN
+F 3 "" H 6900 4500 50  0001 C CNN
+	4    6900 4500
+	1    0    0    1   
+$EndComp
+$Comp
+L marbles_v70-eagle-import:TL074PW IC7
+U 5 1 F84B050B
+P 14600 7900
+AR Path="/F84B050B" Ref="IC7"  Part="5" 
+AR Path="/5FFDD2FD/F84B050B" Ref="IC7"  Part="5" 
+F 0 "IC7" H 14700 8025 59  0001 L BNN
+F 1 "OPA4171" H 14700 7700 59  0001 L BNN
+F 2 "marbles_v70:TSSOP14_065" H 14600 7900 50  0001 C CNN
+F 3 "" H 14600 7900 50  0001 C CNN
+	5    14600 7900
+	1    0    0    -1  
+$EndComp
+$Comp
+L marbles_v70-eagle-import:R-US_R0603 R63
+U 1 1 54BEAA2F
+P 11500 4500
+AR Path="/54BEAA2F" Ref="R63"  Part="1" 
+AR Path="/5FFDD2FD/54BEAA2F" Ref="R63"  Part="1" 
+F 0 "R63" H 11350 4559 59  0000 L BNN
+F 1 "1.0k" H 11350 4370 59  0000 L BNN
+F 2 "marbles_v70:R0603" H 11500 4500 50  0001 C CNN
+F 3 "" H 11500 4500 50  0001 C CNN
+	1    11500 4500
+	-1   0    0    1   
+$EndComp
+$Comp
+L marbles_v70-eagle-import:R-US_R0603 R46
+U 1 1 111A2292
+P 7700 4500
+AR Path="/111A2292" Ref="R46"  Part="1" 
+AR Path="/5FFDD2FD/111A2292" Ref="R46"  Part="1" 
+F 0 "R46" H 7550 4559 59  0000 L BNN
+F 1 "1.0k" H 7550 4370 59  0000 L BNN
+F 2 "marbles_v70:R0603" H 7700 4500 50  0001 C CNN
+F 3 "" H 7700 4500 50  0001 C CNN
+	1    7700 4500
+	-1   0    0    1   
+$EndComp
+$Comp
+L marbles_v70-eagle-import:R-US_R0603 R45
+U 1 1 26D7319A
+P 11400 1500
+AR Path="/26D7319A" Ref="R45"  Part="1" 
+AR Path="/5FFDD2FD/26D7319A" Ref="R45"  Part="1" 
+F 0 "R45" H 11250 1559 59  0000 L BNN
+F 1 "1.0k" H 11250 1370 59  0000 L BNN
+F 2 "marbles_v70:R0603" H 11400 1500 50  0001 C CNN
+F 3 "" H 11400 1500 50  0001 C CNN
+	1    11400 1500
+	-1   0    0    1   
+$EndComp
+$Comp
+L marbles_v70-eagle-import:R-US_R0603 R62
+U 1 1 E89103C2
+P 7700 1600
+AR Path="/E89103C2" Ref="R62"  Part="1" 
+AR Path="/5FFDD2FD/E89103C2" Ref="R62"  Part="1" 
+F 0 "R62" H 7550 1659 59  0000 L BNN
+F 1 "1.0k" H 7550 1470 59  0000 L BNN
+F 2 "marbles_v70:R0603" H 7700 1600 50  0001 C CNN
+F 3 "" H 7700 1600 50  0001 C CNN
+	1    7700 1600
+	-1   0    0    1   
+$EndComp
+$Comp
+L marbles_v70-eagle-import:R-US_R0402 R60
+U 1 1 E418819B
+P 7200 900
+AR Path="/E418819B" Ref="R60"  Part="1" 
+AR Path="/5FFDD2FD/E418819B" Ref="R60"  Part="1" 
+F 0 "R60" H 7050 959 59  0000 L BNN
+F 1 "100k" H 7050 770 59  0000 L BNN
+F 2 "marbles_v70:R0402" H 7200 900 50  0001 C CNN
+F 3 "" H 7200 900 50  0001 C CNN
+	1    7200 900 
+	-1   0    0    1   
+$EndComp
+$Comp
+L marbles_v70-eagle-import:R-US_R0402 R43
+U 1 1 0B45B043
+P 10900 900
+AR Path="/0B45B043" Ref="R43"  Part="1" 
+AR Path="/5FFDD2FD/0B45B043" Ref="R43"  Part="1" 
+F 0 "R43" H 10750 959 59  0000 L BNN
+F 1 "100k" H 10750 770 59  0000 L BNN
+F 2 "marbles_v70:R0402" H 10900 900 50  0001 C CNN
+F 3 "" H 10900 900 50  0001 C CNN
+	1    10900 900 
+	-1   0    0    1   
+$EndComp
+$Comp
+L marbles_v70-eagle-import:R-US_R0402 R44
+U 1 1 CB7A5E23
+P 7200 3900
+AR Path="/CB7A5E23" Ref="R44"  Part="1" 
+AR Path="/5FFDD2FD/CB7A5E23" Ref="R44"  Part="1" 
+F 0 "R44" H 7050 3959 59  0000 L BNN
+F 1 "100k" H 7050 3770 59  0000 L BNN
+F 2 "marbles_v70:R0402" H 7200 3900 50  0001 C CNN
+F 3 "" H 7200 3900 50  0001 C CNN
+	1    7200 3900
+	-1   0    0    1   
+$EndComp
+$Comp
+L marbles_v70-eagle-import:R-US_R0402 R61
+U 1 1 F4070642
+P 11000 3900
+AR Path="/F4070642" Ref="R61"  Part="1" 
+AR Path="/5FFDD2FD/F4070642" Ref="R61"  Part="1" 
+F 0 "R61" H 10850 3959 59  0000 L BNN
+F 1 "100k" H 10850 3770 59  0000 L BNN
+F 2 "marbles_v70:R0402" H 11000 3900 50  0001 C CNN
+F 3 "" H 11000 3900 50  0001 C CNN
+	1    11000 3900
+	-1   0    0    1   
+$EndComp
+$Comp
+L marbles_v70-eagle-import:R-US_R0402 R54
+U 1 1 FF4FB358
+P 6200 1500
+AR Path="/FF4FB358" Ref="R54"  Part="1" 
+AR Path="/5FFDD2FD/FF4FB358" Ref="R54"  Part="1" 
+F 0 "R54" H 6050 1559 59  0000 L BNN
+F 1 "23.7k" H 6050 1370 59  0000 L BNN
+F 2 "marbles_v70:R0402" H 6200 1500 50  0001 C CNN
+F 3 "" H 6200 1500 50  0001 C CNN
+	1    6200 1500
+	-1   0    0    1   
+$EndComp
+$Comp
+L marbles_v70-eagle-import:R-US_R0402 R47
+U 1 1 0E799DD9
+P 9900 1400
+AR Path="/0E799DD9" Ref="R47"  Part="1" 
+AR Path="/5FFDD2FD/0E799DD9" Ref="R47"  Part="1" 
+F 0 "R47" H 9750 1459 59  0000 L BNN
+F 1 "23.7k" H 9750 1270 59  0000 L BNN
+F 2 "marbles_v70:R0402" H 9900 1400 50  0001 C CNN
+F 3 "" H 9900 1400 50  0001 C CNN
+	1    9900 1400
+	-1   0    0    1   
+$EndComp
+$Comp
+L marbles_v70-eagle-import:R-US_R0402 R48
+U 1 1 AA50BB0D
+P 6200 4400
+AR Path="/AA50BB0D" Ref="R48"  Part="1" 
+AR Path="/5FFDD2FD/AA50BB0D" Ref="R48"  Part="1" 
+F 0 "R48" H 6050 4459 59  0000 L BNN
+F 1 "23.7k" H 6050 4270 59  0000 L BNN
+F 2 "marbles_v70:R0402" H 6200 4400 50  0001 C CNN
+F 3 "" H 6200 4400 50  0001 C CNN
+	1    6200 4400
+	-1   0    0    1   
+$EndComp
+$Comp
+L marbles_v70-eagle-import:R-US_R0402 R53
+U 1 1 4752BD5B
+P 10000 4400
+AR Path="/4752BD5B" Ref="R53"  Part="1" 
+AR Path="/5FFDD2FD/4752BD5B" Ref="R53"  Part="1" 
+F 0 "R53" H 9850 4459 59  0000 L BNN
+F 1 "23.7k" H 9850 4270 59  0000 L BNN
+F 2 "marbles_v70:R0402" H 10000 4400 50  0001 C CNN
+F 3 "" H 10000 4400 50  0001 C CNN
+	1    10000 4400
+	-1   0    0    1   
+$EndComp
+$Comp
+L marbles_v70-eagle-import:C-USC0402 C43
+U 1 1 5D6D60CB
+P 6900 1300
+AR Path="/5D6D60CB" Ref="C43"  Part="1" 
+AR Path="/5FFDD2FD/5D6D60CB" Ref="C43"  Part="1" 
+F 0 "C43" H 6940 1325 59  0000 L BNN
+F 1 "47p" H 6940 1135 59  0000 L BNN
+F 2 "marbles_v70:C0402" H 6900 1300 50  0001 C CNN
+F 3 "" H 6900 1300 50  0001 C CNN
+	1    6900 1300
+	0    -1   -1   0   
+$EndComp
+$Comp
+L marbles_v70-eagle-import:C-USC0402 C34
+U 1 1 712269D8
+P 10600 1200
+AR Path="/712269D8" Ref="C34"  Part="1" 
+AR Path="/5FFDD2FD/712269D8" Ref="C34"  Part="1" 
+F 0 "C34" H 10640 1225 59  0000 L BNN
+F 1 "47p" H 10640 1035 59  0000 L BNN
+F 2 "marbles_v70:C0402" H 10600 1200 50  0001 C CNN
+F 3 "" H 10600 1200 50  0001 C CNN
+	1    10600 1200
+	0    -1   -1   0   
+$EndComp
+$Comp
+L marbles_v70-eagle-import:C-USC0402 C35
+U 1 1 EF0DF260
+P 6900 4200
+AR Path="/EF0DF260" Ref="C35"  Part="1" 
+AR Path="/5FFDD2FD/EF0DF260" Ref="C35"  Part="1" 
+F 0 "C35" H 6940 4225 59  0000 L BNN
+F 1 "47p" H 6940 4035 59  0000 L BNN
+F 2 "marbles_v70:C0402" H 6900 4200 50  0001 C CNN
+F 3 "" H 6900 4200 50  0001 C CNN
+	1    6900 4200
+	0    -1   -1   0   
+$EndComp
+$Comp
+L marbles_v70-eagle-import:C-USC0402 C44
+U 1 1 D6EBB571
+P 10700 4200
+AR Path="/D6EBB571" Ref="C44"  Part="1" 
+AR Path="/5FFDD2FD/D6EBB571" Ref="C44"  Part="1" 
+F 0 "C44" H 10740 4225 59  0000 L BNN
+F 1 "47p" H 10740 4035 59  0000 L BNN
+F 2 "marbles_v70:C0402" H 10700 4200 50  0001 C CNN
+F 3 "" H 10700 4200 50  0001 C CNN
+	1    10700 4200
+	0    -1   -1   0   
+$EndComp
+$Comp
+L marbles_v70-eagle-import:PJ301_THONKICONN6 J15
+U 1 1 C7DDA3DA
+P 8300 4600
+AR Path="/C7DDA3DA" Ref="J15"  Part="1" 
+AR Path="/5FFDD2FD/C7DDA3DA" Ref="J15"  Part="1" 
+F 0 "J15" H 8200 4760 59  0000 L BNN
+F 1 "PJ301_THONKICONN6" H 8300 4600 50  0001 C CNN
+F 2 "marbles_v70:WQP_PJ_301M6" H 8300 4600 50  0001 C CNN
+F 3 "" H 8300 4600 50  0001 C CNN
+	1    8300 4600
+	1    0    0    -1  
+$EndComp
+$Comp
+L marbles_v70-eagle-import:PJ301_THONKICONN6 J16
+U 1 1 BFD7166C
+P 12100 4600
+AR Path="/BFD7166C" Ref="J16"  Part="1" 
+AR Path="/5FFDD2FD/BFD7166C" Ref="J16"  Part="1" 
+F 0 "J16" H 12000 4760 59  0000 L BNN
+F 1 "PJ301_THONKICONN6" H 12100 4600 50  0001 C CNN
+F 2 "marbles_v70:WQP_PJ_301M6" H 12100 4600 50  0001 C CNN
+F 3 "" H 12100 4600 50  0001 C CNN
+	1    12100 4600
+	1    0    0    -1  
+$EndComp
+$Comp
+L marbles_v70-eagle-import:GND #GND80
+U 1 1 018DBFD7
+P 11800 4900
+AR Path="/018DBFD7" Ref="#GND80"  Part="1" 
+AR Path="/5FFDD2FD/018DBFD7" Ref="#GND080"  Part="1" 
+F 0 "#GND080" H 11800 4900 50  0001 C CNN
+F 1 "GND" H 11700 4800 59  0000 L BNN
+F 2 "" H 11800 4900 50  0001 C CNN
+F 3 "" H 11800 4900 50  0001 C CNN
+	1    11800 4900
+	1    0    0    -1  
+$EndComp
+$Comp
+L marbles_v70-eagle-import:GND #GND81
+U 1 1 FFBD7D8F
+P 8000 4900
+AR Path="/FFBD7D8F" Ref="#GND81"  Part="1" 
+AR Path="/5FFDD2FD/FFBD7D8F" Ref="#GND081"  Part="1" 
+F 0 "#GND081" H 8000 4900 50  0001 C CNN
+F 1 "GND" H 7900 4800 59  0000 L BNN
+F 2 "" H 8000 4900 50  0001 C CNN
+F 3 "" H 8000 4900 50  0001 C CNN
+	1    8000 4900
+	1    0    0    -1  
+$EndComp
+$Comp
+L marbles_v70-eagle-import:PJ301_THONKICONN6 J13
+U 1 1 C7EC22CC
+P 8300 1700
+AR Path="/C7EC22CC" Ref="J13"  Part="1" 
+AR Path="/5FFDD2FD/C7EC22CC" Ref="J13"  Part="1" 
+F 0 "J13" H 8200 1860 59  0000 L BNN
+F 1 "PJ301_THONKICONN6" H 8300 1700 50  0001 C CNN
+F 2 "marbles_v70:WQP_PJ_301M6" H 8300 1700 50  0001 C CNN
+F 3 "" H 8300 1700 50  0001 C CNN
+	1    8300 1700
+	1    0    0    -1  
+$EndComp
+$Comp
+L marbles_v70-eagle-import:R-US_R0402 R74
+U 1 1 22CD42E3
+P 4000 4100
+AR Path="/22CD42E3" Ref="R74"  Part="1" 
+AR Path="/5FFDD2FD/22CD42E3" Ref="R74"  Part="1" 
+F 0 "R74" H 3850 4159 59  0000 L BNN
+F 1 "150k" H 3850 3970 59  0000 L BNN
+F 2 "marbles_v70:R0402" H 4000 4100 50  0001 C CNN
+F 3 "" H 4000 4100 50  0001 C CNN
+	1    4000 4100
+	0    -1   -1   0   
+$EndComp
+$Comp
+L marbles_v70-eagle-import:R-US_R0402 R73
+U 1 1 19CADB1B
+P 4000 4700
+AR Path="/19CADB1B" Ref="R73"  Part="1" 
+AR Path="/5FFDD2FD/19CADB1B" Ref="R73"  Part="1" 
+F 0 "R73" H 3850 4759 59  0000 L BNN
+F 1 "100k" H 3850 4570 59  0000 L BNN
+F 2 "marbles_v70:R0402" H 4000 4700 50  0001 C CNN
+F 3 "" H 4000 4700 50  0001 C CNN
+	1    4000 4700
+	0    -1   -1   0   
+$EndComp
+$Comp
+L marbles_v70-eagle-import:GND #GND82
+U 1 1 91F00AFF
+P 4000 5100
+AR Path="/91F00AFF" Ref="#GND82"  Part="1" 
+AR Path="/5FFDD2FD/91F00AFF" Ref="#GND082"  Part="1" 
+F 0 "#GND082" H 4000 5100 50  0001 C CNN
+F 1 "GND" H 3900 5000 59  0000 L BNN
+F 2 "" H 4000 5100 50  0001 C CNN
+F 3 "" H 4000 5100 50  0001 C CNN
+	1    4000 5100
+	1    0    0    -1  
+$EndComp
+$Comp
+L marbles_v70-eagle-import:C-USC0402 C51
+U 1 1 76B9D9FB
+P 4300 4600
+AR Path="/76B9D9FB" Ref="C51"  Part="1" 
+AR Path="/5FFDD2FD/76B9D9FB" Ref="C51"  Part="1" 
+F 0 "C51" H 4340 4625 59  0000 L BNN
+F 1 "470n" H 4340 4435 59  0000 L BNN
+F 2 "marbles_v70:C0402" H 4300 4600 50  0001 C CNN
+F 3 "" H 4300 4600 50  0001 C CNN
+	1    4300 4600
+	1    0    0    -1  
+$EndComp
+$Comp
+L marbles_v70-eagle-import:GND #GND42
+U 1 1 C4E41BBE
+P 4300 5100
+AR Path="/C4E41BBE" Ref="#GND42"  Part="1" 
+AR Path="/5FFDD2FD/C4E41BBE" Ref="#GND042"  Part="1" 
+F 0 "#GND042" H 4300 5100 50  0001 C CNN
+F 1 "GND" H 4200 5000 59  0000 L BNN
+F 2 "" H 4300 5100 50  0001 C CNN
+F 3 "" H 4300 5100 50  0001 C CNN
+	1    4300 5100
+	1    0    0    -1  
+$EndComp
+$Comp
+L marbles_v70-eagle-import:LED-BICOLOR-SHARED-THROUGHHOLE LED7
+U 1 1 B6BDABFE
+P 6500 8000
+AR Path="/B6BDABFE" Ref="LED7"  Part="1" 
+AR Path="/5FFDD2FD/B6BDABFE" Ref="LED7"  Part="1" 
+F 0 "LED7" H 6250 8230 59  0000 L BNN
+F 1 "WP937EGW" H 6250 7700 59  0000 L BNN
+F 2 "marbles_v70:LED3MM" H 6500 8000 50  0001 C CNN
+F 3 "" H 6500 8000 50  0001 C CNN
+	1    6500 8000
+	1    0    0    -1  
+$EndComp
+$Comp
+L marbles_v70-eagle-import:LED-BICOLOR-SHARED-THROUGHHOLE LED8
+U 1 1 AC635E47
+P 10300 8000
+AR Path="/AC635E47" Ref="LED8"  Part="1" 
+AR Path="/5FFDD2FD/AC635E47" Ref="LED8"  Part="1" 
+F 0 "LED8" H 10050 8230 59  0000 L BNN
+F 1 "WP937EGW" H 10050 7700 59  0000 L BNN
+F 2 "marbles_v70:LED3MM" H 10300 8000 50  0001 C CNN
+F 3 "" H 10300 8000 50  0001 C CNN
+	1    10300 8000
+	1    0    0    -1  
+$EndComp
+$Comp
+L marbles_v70-eagle-import:R-US_R0402 R83
+U 1 1 A0F9F3AA
+P 7200 8000
+AR Path="/A0F9F3AA" Ref="R83"  Part="1" 
+AR Path="/5FFDD2FD/A0F9F3AA" Ref="R83"  Part="1" 
+F 0 "R83" H 7050 8059 59  0000 L BNN
+F 1 "180" H 7050 7870 59  0000 L BNN
+F 2 "marbles_v70:R0402" H 7200 8000 50  0001 C CNN
+F 3 "" H 7200 8000 50  0001 C CNN
+	1    7200 8000
+	-1   0    0    1   
+$EndComp
+$Comp
+L marbles_v70-eagle-import:GND #GND34
+U 1 1 0FD0C583
+P 7500 8200
+AR Path="/0FD0C583" Ref="#GND34"  Part="1" 
+AR Path="/5FFDD2FD/0FD0C583" Ref="#GND034"  Part="1" 
+F 0 "#GND034" H 7500 8200 50  0001 C CNN
+F 1 "GND" H 7400 8100 59  0000 L BNN
+F 2 "" H 7500 8200 50  0001 C CNN
+F 3 "" H 7500 8200 50  0001 C CNN
+	1    7500 8200
+	1    0    0    -1  
+$EndComp
+$Comp
+L marbles_v70-eagle-import:GND #GND35
+U 1 1 CF03C53C
+P 11300 8200
+AR Path="/CF03C53C" Ref="#GND35"  Part="1" 
+AR Path="/5FFDD2FD/CF03C53C" Ref="#GND035"  Part="1" 
+F 0 "#GND035" H 11300 8200 50  0001 C CNN
+F 1 "GND" H 11200 8100 59  0000 L BNN
+F 2 "" H 11300 8200 50  0001 C CNN
+F 3 "" H 11300 8200 50  0001 C CNN
+	1    11300 8200
+	1    0    0    -1  
+$EndComp
+$Comp
+L marbles_v70-eagle-import:R-US_R0402 R84
+U 1 1 BE24ED8B
+P 11000 8000
+AR Path="/BE24ED8B" Ref="R84"  Part="1" 
+AR Path="/5FFDD2FD/BE24ED8B" Ref="R84"  Part="1" 
+F 0 "R84" H 10850 8059 59  0000 L BNN
+F 1 "180" H 10850 7870 59  0000 L BNN
+F 2 "marbles_v70:R0402" H 11000 8000 50  0001 C CNN
+F 3 "" H 11000 8000 50  0001 C CNN
+	1    11000 8000
+	-1   0    0    1   
+$EndComp
+$Comp
+L marbles_v70-eagle-import:TL074PW IC10
+U 1 1 D3C52631
+P 10200 2700
+AR Path="/D3C52631" Ref="IC10"  Part="1" 
+AR Path="/5FFDD2FD/D3C52631" Ref="IC10"  Part="1" 
+F 0 "IC10" H 10300 2825 59  0001 L BNN
+F 1 "TL074PW" H 10300 2500 59  0001 L BNN
+F 2 "marbles_v70:TSSOP14_065" H 10200 2700 50  0001 C CNN
+F 3 "" H 10200 2700 50  0001 C CNN
+	1    10200 2700
+	1    0    0    1   
+$EndComp
+$Comp
+L marbles_v70-eagle-import:TL074PW IC10
+U 2 1 D3C5263D
+P 6500 2800
+AR Path="/D3C5263D" Ref="IC10"  Part="2" 
+AR Path="/5FFDD2FD/D3C5263D" Ref="IC10"  Part="2" 
+F 0 "IC10" H 6600 2925 59  0001 L BNN
+F 1 "TL074PW" H 6600 2600 59  0001 L BNN
+F 2 "marbles_v70:TSSOP14_065" H 6500 2800 50  0001 C CNN
+F 3 "" H 6500 2800 50  0001 C CNN
+	2    6500 2800
+	1    0    0    1   
+$EndComp
+$Comp
+L marbles_v70-eagle-import:TL074PW IC10
+U 3 1 D3C52639
+P 10300 5700
+AR Path="/D3C52639" Ref="IC10"  Part="3" 
+AR Path="/5FFDD2FD/D3C52639" Ref="IC10"  Part="3" 
+F 0 "IC10" H 10400 5825 59  0001 L BNN
+F 1 "TL074PW" H 10400 5500 59  0001 L BNN
+F 2 "marbles_v70:TSSOP14_065" H 10300 5700 50  0001 C CNN
+F 3 "" H 10300 5700 50  0001 C CNN
+	3    10300 5700
+	1    0    0    1   
+$EndComp
+$Comp
+L marbles_v70-eagle-import:TL074PW IC10
+U 4 1 D3C52625
+P 6500 5700
+AR Path="/D3C52625" Ref="IC10"  Part="4" 
+AR Path="/5FFDD2FD/D3C52625" Ref="IC10"  Part="4" 
+F 0 "IC10" H 6600 5825 59  0001 L BNN
+F 1 "TL074PW" H 6600 5500 59  0001 L BNN
+F 2 "marbles_v70:TSSOP14_065" H 6500 5700 50  0001 C CNN
+F 3 "" H 6500 5700 50  0001 C CNN
+	4    6500 5700
+	1    0    0    1   
+$EndComp
+$Comp
+L marbles_v70-eagle-import:TL074PW IC10
+U 5 1 D3C52621
+P 14400 7900
+AR Path="/D3C52621" Ref="IC10"  Part="5" 
+AR Path="/5FFDD2FD/D3C52621" Ref="IC10"  Part="5" 
+F 0 "IC10" H 14500 8025 59  0001 L BNN
+F 1 "TL074PW" H 14500 7700 59  0001 L BNN
+F 2 "marbles_v70:TSSOP14_065" H 14400 7900 50  0001 C CNN
+F 3 "" H 14400 7900 50  0001 C CNN
+	5    14400 7900
+	1    0    0    -1  
+$EndComp
+$Comp
+L marbles_v70-eagle-import:R-US_R0402 R78
+U 1 1 CB783AD9
+P 5800 2700
+AR Path="/CB783AD9" Ref="R78"  Part="1" 
+AR Path="/5FFDD2FD/CB783AD9" Ref="R78"  Part="1" 
+F 0 "R78" H 5650 2759 59  0000 L BNN
+F 1 "680" H 5650 2570 59  0000 L BNN
+F 2 "marbles_v70:R0402" H 5800 2700 50  0001 C CNN
+F 3 "" H 5800 2700 50  0001 C CNN
+	1    5800 2700
+	-1   0    0    1   
+$EndComp
+$Comp
+L marbles_v70-eagle-import:GND #GND45
+U 1 1 9E0B3A99
+P 5500 2900
+AR Path="/9E0B3A99" Ref="#GND45"  Part="1" 
+AR Path="/5FFDD2FD/9E0B3A99" Ref="#GND045"  Part="1" 
+F 0 "#GND045" H 5500 2900 50  0001 C CNN
+F 1 "GND" H 5400 2800 59  0000 L BNN
+F 2 "" H 5500 2900 50  0001 C CNN
+F 3 "" H 5500 2900 50  0001 C CNN
+	1    5500 2900
+	1    0    0    -1  
+$EndComp
+$Comp
+L marbles_v70-eagle-import:LED-BICOLOR-SHARED-THROUGHHOLE LED9
+U 1 1 0F7D5D91
+P 6700 2200
+AR Path="/0F7D5D91" Ref="LED9"  Part="1" 
+AR Path="/5FFDD2FD/0F7D5D91" Ref="LED9"  Part="1" 
+F 0 "LED9" H 6450 2430 59  0000 L BNN
+F 1 "WP937EGW" H 6450 1900 59  0000 L BNN
+F 2 "marbles_v70:LED3MM" H 6700 2200 50  0001 C CNN
+F 3 "" H 6700 2200 50  0001 C CNN
+	1    6700 2200
+	-1   0    0    1   
+$EndComp
+$Comp
+L marbles_v70-eagle-import:LED-BICOLOR-SHARED-THROUGHHOLE LED10
+U 1 1 EF2F646B
+P 10400 2100
+AR Path="/EF2F646B" Ref="LED10"  Part="1" 
+AR Path="/5FFDD2FD/EF2F646B" Ref="LED10"  Part="1" 
+F 0 "LED10" H 10150 2330 59  0000 L BNN
+F 1 "WP937EGW" H 10150 1800 59  0000 L BNN
+F 2 "marbles_v70:LED3MM" H 10400 2100 50  0001 C CNN
+F 3 "" H 10400 2100 50  0001 C CNN
+	1    10400 2100
+	-1   0    0    1   
+$EndComp
+$Comp
+L marbles_v70-eagle-import:LED-BICOLOR-SHARED-THROUGHHOLE LED11
+U 1 1 D75AECCF
+P 6700 5100
+AR Path="/D75AECCF" Ref="LED11"  Part="1" 
+AR Path="/5FFDD2FD/D75AECCF" Ref="LED11"  Part="1" 
+F 0 "LED11" H 6450 5330 59  0000 L BNN
+F 1 "WP937EGW" H 6450 4800 59  0000 L BNN
+F 2 "marbles_v70:LED3MM" H 6700 5100 50  0001 C CNN
+F 3 "" H 6700 5100 50  0001 C CNN
+	1    6700 5100
+	-1   0    0    1   
+$EndComp
+$Comp
+L marbles_v70-eagle-import:LED-BICOLOR-SHARED-THROUGHHOLE LED12
+U 1 1 DB49D0E0
+P 10500 5100
+AR Path="/DB49D0E0" Ref="LED12"  Part="1" 
+AR Path="/5FFDD2FD/DB49D0E0" Ref="LED12"  Part="1" 
+F 0 "LED12" H 10250 5330 59  0000 L BNN
+F 1 "WP937EGW" H 10250 4800 59  0000 L BNN
+F 2 "marbles_v70:LED3MM" H 10500 5100 50  0001 C CNN
+F 3 "" H 10500 5100 50  0001 C CNN
+	1    10500 5100
+	-1   0    0    1   
+$EndComp
+$Comp
+L marbles_v70-eagle-import:R-US_R0402 R79
+U 1 1 BBC60549
+P 9500 2600
+AR Path="/BBC60549" Ref="R79"  Part="1" 
+AR Path="/5FFDD2FD/BBC60549" Ref="R79"  Part="1" 
+F 0 "R79" H 9350 2659 59  0000 L BNN
+F 1 "680" H 9350 2470 59  0000 L BNN
+F 2 "marbles_v70:R0402" H 9500 2600 50  0001 C CNN
+F 3 "" H 9500 2600 50  0001 C CNN
+	1    9500 2600
+	-1   0    0    1   
+$EndComp
+$Comp
+L marbles_v70-eagle-import:GND #GND58
+U 1 1 0D44CE24
+P 9200 2800
+AR Path="/0D44CE24" Ref="#GND58"  Part="1" 
+AR Path="/5FFDD2FD/0D44CE24" Ref="#GND058"  Part="1" 
+F 0 "#GND058" H 9200 2800 50  0001 C CNN
+F 1 "GND" H 9100 2700 59  0000 L BNN
+F 2 "" H 9200 2800 50  0001 C CNN
+F 3 "" H 9200 2800 50  0001 C CNN
+	1    9200 2800
+	1    0    0    -1  
+$EndComp
+$Comp
+L marbles_v70-eagle-import:R-US_R0402 R80
+U 1 1 B7184617
+P 5800 5600
+AR Path="/B7184617" Ref="R80"  Part="1" 
+AR Path="/5FFDD2FD/B7184617" Ref="R80"  Part="1" 
+F 0 "R80" H 5650 5659 59  0000 L BNN
+F 1 "680" H 5650 5470 59  0000 L BNN
+F 2 "marbles_v70:R0402" H 5800 5600 50  0001 C CNN
+F 3 "" H 5800 5600 50  0001 C CNN
+	1    5800 5600
+	-1   0    0    1   
+$EndComp
+$Comp
+L marbles_v70-eagle-import:GND #GND59
+U 1 1 44E035C1
+P 5500 5800
+AR Path="/44E035C1" Ref="#GND59"  Part="1" 
+AR Path="/5FFDD2FD/44E035C1" Ref="#GND059"  Part="1" 
+F 0 "#GND059" H 5500 5800 50  0001 C CNN
+F 1 "GND" H 5400 5700 59  0000 L BNN
+F 2 "" H 5500 5800 50  0001 C CNN
+F 3 "" H 5500 5800 50  0001 C CNN
+	1    5500 5800
+	1    0    0    -1  
+$EndComp
+$Comp
+L marbles_v70-eagle-import:R-US_R0402 R81
+U 1 1 14BC1A15
+P 9600 5600
+AR Path="/14BC1A15" Ref="R81"  Part="1" 
+AR Path="/5FFDD2FD/14BC1A15" Ref="R81"  Part="1" 
+F 0 "R81" H 9450 5659 59  0000 L BNN
+F 1 "680" H 9450 5470 59  0000 L BNN
+F 2 "marbles_v70:R0402" H 9600 5600 50  0001 C CNN
+F 3 "" H 9600 5600 50  0001 C CNN
+	1    9600 5600
+	-1   0    0    1   
+$EndComp
+$Comp
+L marbles_v70-eagle-import:GND #GND71
+U 1 1 245479FB
+P 9300 5800
+AR Path="/245479FB" Ref="#GND71"  Part="1" 
+AR Path="/5FFDD2FD/245479FB" Ref="#GND071"  Part="1" 
+F 0 "#GND071" H 9300 5800 50  0001 C CNN
+F 1 "GND" H 9200 5700 59  0000 L BNN
+F 2 "" H 9300 5800 50  0001 C CNN
+F 3 "" H 9300 5800 50  0001 C CNN
+	1    9300 5800
+	1    0    0    -1  
+$EndComp
+$Comp
+L marbles_v70-eagle-import:C-USC0402 C48
+U 1 1 6D8FE889
+P 15200 7600
+AR Path="/6D8FE889" Ref="C48"  Part="1" 
+AR Path="/5FFDD2FD/6D8FE889" Ref="C48"  Part="1" 
+F 0 "C48" H 15240 7625 59  0000 L BNN
+F 1 "100n" H 15240 7435 59  0000 L BNN
+F 2 "marbles_v70:C0402" H 15200 7600 50  0001 C CNN
+F 3 "" H 15200 7600 50  0001 C CNN
+	1    15200 7600
+	1    0    0    -1  
+$EndComp
+$Comp
+L marbles_v70-eagle-import:C-USC0402 C49
+U 1 1 816363F5
+P 15200 8100
+AR Path="/816363F5" Ref="C49"  Part="1" 
+AR Path="/5FFDD2FD/816363F5" Ref="C49"  Part="1" 
+F 0 "C49" H 15240 8125 59  0000 L BNN
+F 1 "100n" H 15240 7935 59  0000 L BNN
+F 2 "marbles_v70:C0402" H 15200 8100 50  0001 C CNN
+F 3 "" H 15200 8100 50  0001 C CNN
+	1    15200 8100
+	1    0    0    -1  
+$EndComp
+$Comp
+L marbles_v70-eagle-import:R-US_R0402 R55
+U 1 1 7B2F8B97
+P 6300 7500
+AR Path="/7B2F8B97" Ref="R55"  Part="1" 
+AR Path="/5FFDD2FD/7B2F8B97" Ref="R55"  Part="1" 
+F 0 "R55" H 6150 7559 59  0000 L BNN
+F 1 "10k" H 6150 7370 59  0000 L BNN
+F 2 "marbles_v70:R0402" H 6300 7500 50  0001 C CNN
+F 3 "" H 6300 7500 50  0001 C CNN
+	1    6300 7500
+	-1   0    0    1   
+$EndComp
+$Comp
+L marbles_v70-eagle-import:R-US_R0402 R67
+U 1 1 FF508D97
+P 10100 7500
+AR Path="/FF508D97" Ref="R67"  Part="1" 
+AR Path="/5FFDD2FD/FF508D97" Ref="R67"  Part="1" 
+F 0 "R67" H 9950 7559 59  0000 L BNN
+F 1 "10k" H 9950 7370 59  0000 L BNN
+F 2 "marbles_v70:R0402" H 10100 7500 50  0001 C CNN
+F 3 "" H 10100 7500 50  0001 C CNN
+	1    10100 7500
+	-1   0    0    1   
+$EndComp
+$Comp
+L marbles_v70-eagle-import:GND #GND92
+U 1 1 1D4C250A
+P 13900 8500
+AR Path="/1D4C250A" Ref="#GND92"  Part="1" 
+AR Path="/5FFDD2FD/1D4C250A" Ref="#GND092"  Part="1" 
+F 0 "#GND092" H 13900 8500 50  0001 C CNN
+F 1 "GND" H 13800 8400 59  0000 L BNN
+F 2 "" H 13900 8500 50  0001 C CNN
+F 3 "" H 13900 8500 50  0001 C CNN
+	1    13900 8500
+	1    0    0    -1  
+$EndComp
+$Comp
+L marbles_v70-eagle-import:VCC #P+1
+U 1 1 BCDF72C5
+P 13900 7400
+AR Path="/BCDF72C5" Ref="#P+1"  Part="1" 
+AR Path="/5FFDD2FD/BCDF72C5" Ref="#P+01"  Part="1" 
+F 0 "#P+01" H 13900 7400 50  0001 C CNN
+F 1 "VCC" H 13860 7540 59  0000 L BNN
+F 2 "" H 13900 7400 50  0001 C CNN
+F 3 "" H 13900 7400 50  0001 C CNN
+	1    13900 7400
+	1    0    0    -1  
+$EndComp
+$Comp
+L marbles_v70-eagle-import:R-US_R0603 R85
+U 1 1 370D510B
+P 3800 7400
+AR Path="/370D510B" Ref="R85"  Part="1" 
+AR Path="/5FFDD2FD/370D510B" Ref="R85"  Part="1" 
+F 0 "R85" H 3650 7459 59  0000 L BNN
+F 1 "1.0k" H 3650 7270 59  0000 L BNN
+F 2 "marbles_v70:R0603" H 3800 7400 50  0001 C CNN
+F 3 "" H 3800 7400 50  0001 C CNN
+	1    3800 7400
+	-1   0    0    1   
+$EndComp
+$Comp
+L marbles_v70-eagle-import:GND #GND84
+U 1 1 442134DF
+P 4000 7800
+AR Path="/442134DF" Ref="#GND84"  Part="1" 
+AR Path="/5FFDD2FD/442134DF" Ref="#GND084"  Part="1" 
+F 0 "#GND084" H 4000 7800 50  0001 C CNN
+F 1 "GND" H 3900 7700 59  0000 L BNN
+F 2 "" H 4000 7800 50  0001 C CNN
+F 3 "" H 4000 7800 50  0001 C CNN
+	1    4000 7800
+	1    0    0    -1  
+$EndComp
+$Comp
+L marbles_v70-eagle-import:R-US_R0402 R51
+U 1 1 DD5EFB1F
+P 3100 7000
+AR Path="/DD5EFB1F" Ref="R51"  Part="1" 
+AR Path="/5FFDD2FD/DD5EFB1F" Ref="R51"  Part="1" 
+F 0 "R51" H 2950 7059 59  0000 L BNN
+F 1 "56k" H 2950 6870 59  0000 L BNN
+F 2 "marbles_v70:R0402" H 3100 7000 50  0001 C CNN
+F 3 "" H 3100 7000 50  0001 C CNN
+	1    3100 7000
+	-1   0    0    1   
+$EndComp
+$Comp
+L marbles_v70-eagle-import:R-US_R0402 R50
+U 1 1 C8E8E5E5
+P 2400 7000
+AR Path="/C8E8E5E5" Ref="R50"  Part="1" 
+AR Path="/5FFDD2FD/C8E8E5E5" Ref="R50"  Part="1" 
+F 0 "R50" H 2250 7059 59  0000 L BNN
+F 1 "39k" H 2250 6870 59  0000 L BNN
+F 2 "marbles_v70:R0402" H 2400 7000 50  0001 C CNN
+F 3 "" H 2400 7000 50  0001 C CNN
+	1    2400 7000
+	-1   0    0    1   
+$EndComp
+$Comp
+L marbles_v70-eagle-import:GND #GND103
+U 1 1 205C6AA4
+P 2100 7200
+AR Path="/205C6AA4" Ref="#GND103"  Part="1" 
+AR Path="/5FFDD2FD/205C6AA4" Ref="#GND0103"  Part="1" 
+F 0 "#GND0103" H 2100 7200 50  0001 C CNN
+F 1 "GND" H 2000 7100 59  0000 L BNN
+F 2 "" H 2100 7200 50  0001 C CNN
+F 3 "" H 2100 7200 50  0001 C CNN
+	1    2100 7200
+	1    0    0    -1  
+$EndComp
+$Comp
+L marbles_v70-eagle-import:LED-BICOLOR-SHARED-THROUGHHOLE LED6
+U 1 1 A7D0D531
+P 2700 8000
+AR Path="/A7D0D531" Ref="LED6"  Part="1" 
+AR Path="/5FFDD2FD/A7D0D531" Ref="LED6"  Part="1" 
+F 0 "LED6" H 2450 8230 59  0000 L BNN
+F 1 "WP937EGW" H 2450 7700 59  0000 L BNN
+F 2 "marbles_v70:LED3MM" H 2700 8000 50  0001 C CNN
+F 3 "" H 2700 8000 50  0001 C CNN
+	1    2700 8000
+	1    0    0    -1  
+$EndComp
+$Comp
+L marbles_v70-eagle-import:R-US_R0402 R82
+U 1 1 711381CC
+P 3400 8000
+AR Path="/711381CC" Ref="R82"  Part="1" 
+AR Path="/5FFDD2FD/711381CC" Ref="R82"  Part="1" 
+F 0 "R82" H 3250 8059 59  0000 L BNN
+F 1 "180" H 3250 7870 59  0000 L BNN
+F 2 "marbles_v70:R0402" H 3400 8000 50  0001 C CNN
+F 3 "" H 3400 8000 50  0001 C CNN
+	1    3400 8000
+	-1   0    0    1   
+$EndComp
+$Comp
+L marbles_v70-eagle-import:GND #GND104
+U 1 1 E3E0DCEA
+P 3700 8200
+AR Path="/E3E0DCEA" Ref="#GND104"  Part="1" 
+AR Path="/5FFDD2FD/E3E0DCEA" Ref="#GND0104"  Part="1" 
+F 0 "#GND0104" H 3700 8200 50  0001 C CNN
+F 1 "GND" H 3600 8100 59  0000 L BNN
+F 2 "" H 3700 8200 50  0001 C CNN
+F 3 "" H 3700 8200 50  0001 C CNN
+	1    3700 8200
+	1    0    0    -1  
+$EndComp
+$Comp
+L marbles_v70-eagle-import:R-US_R0402 R56
+U 1 1 324E6A95
+P 2500 7500
+AR Path="/324E6A95" Ref="R56"  Part="1" 
+AR Path="/5FFDD2FD/324E6A95" Ref="R56"  Part="1" 
+F 0 "R56" H 2350 7559 59  0000 L BNN
+F 1 "10k" H 2350 7370 59  0000 L BNN
+F 2 "marbles_v70:R0402" H 2500 7500 50  0001 C CNN
+F 3 "" H 2500 7500 50  0001 C CNN
+	1    2500 7500
+	-1   0    0    1   
+$EndComp
+$Comp
+L marbles_v70-eagle-import:TL074PW IC9
+U 1 1 292A73B0
+P 3100 7400
+AR Path="/292A73B0" Ref="IC9"  Part="1" 
+AR Path="/5FFDD2FD/292A73B0" Ref="IC9"  Part="1" 
+F 0 "IC9" H 3200 7525 59  0001 L BNN
+F 1 "LM324PW" H 3200 7200 59  0001 L BNN
+F 2 "marbles_v70:TSSOP14_065" H 3100 7400 50  0001 C CNN
+F 3 "" H 3100 7400 50  0001 C CNN
+	1    3100 7400
+	1    0    0    1   
+$EndComp
+$Comp
+L marbles_v70-eagle-import:TL074PW IC9
+U 2 1 292A73BC
+P 10500 9100
+AR Path="/292A73BC" Ref="IC9"  Part="2" 
+AR Path="/5FFDD2FD/292A73BC" Ref="IC9"  Part="2" 
+F 0 "IC9" H 10600 9225 59  0001 L BNN
+F 1 "LM324PW" H 10600 8900 59  0001 L BNN
+F 2 "marbles_v70:TSSOP14_065" H 10500 9100 50  0001 C CNN
+F 3 "" H 10500 9100 50  0001 C CNN
+	2    10500 9100
+	1    0    0    1   
+$EndComp
+$Comp
+L marbles_v70-eagle-import:TL074PW IC9
+U 3 1 292A73B8
+P 10700 7400
+AR Path="/292A73B8" Ref="IC9"  Part="3" 
+AR Path="/5FFDD2FD/292A73B8" Ref="IC9"  Part="3" 
+F 0 "IC9" H 10800 7525 59  0001 L BNN
+F 1 "LM324PW" H 10800 7200 59  0001 L BNN
+F 2 "marbles_v70:TSSOP14_065" H 10700 7400 50  0001 C CNN
+F 3 "" H 10700 7400 50  0001 C CNN
+	3    10700 7400
+	1    0    0    1   
+$EndComp
+$Comp
+L marbles_v70-eagle-import:TL074PW IC9
+U 4 1 292A73A4
+P 6900 7400
+AR Path="/292A73A4" Ref="IC9"  Part="4" 
+AR Path="/5FFDD2FD/292A73A4" Ref="IC9"  Part="4" 
+F 0 "IC9" H 7000 7525 59  0001 L BNN
+F 1 "LM324PW" H 7000 7200 59  0001 L BNN
+F 2 "marbles_v70:TSSOP14_065" H 6900 7400 50  0001 C CNN
+F 3 "" H 6900 7400 50  0001 C CNN
+	4    6900 7400
+	1    0    0    1   
+$EndComp
+$Comp
+L marbles_v70-eagle-import:TL074PW IC9
+U 5 1 292A73A0
+P 13900 7900
+AR Path="/292A73A0" Ref="IC9"  Part="5" 
+AR Path="/5FFDD2FD/292A73A0" Ref="IC9"  Part="5" 
+F 0 "IC9" H 14000 8025 59  0001 L BNN
+F 1 "LM324PW" H 14000 7700 59  0001 L BNN
+F 2 "marbles_v70:TSSOP14_065" H 13900 7900 50  0001 C CNN
+F 3 "" H 13900 7900 50  0001 C CNN
+	5    13900 7900
+	1    0    0    -1  
+$EndComp
+$Comp
+L marbles_v70-eagle-import:GND #GND106
+U 1 1 1C9B85AA
+P 10100 9400
+AR Path="/1C9B85AA" Ref="#GND106"  Part="1" 
+AR Path="/5FFDD2FD/1C9B85AA" Ref="#GND0106"  Part="1" 
+F 0 "#GND0106" H 10100 9400 50  0001 C CNN
+F 1 "GND" H 10000 9300 59  0000 L BNN
+F 2 "" H 10100 9400 50  0001 C CNN
+F 3 "" H 10100 9400 50  0001 C CNN
+	1    10100 9400
+	1    0    0    -1  
+$EndComp
+$Comp
+L marbles_v70-eagle-import:PJ301_THONKICONN6 J10
+U 1 1 A8F50699
+P 4300 7500
+AR Path="/A8F50699" Ref="J10"  Part="1" 
+AR Path="/5FFDD2FD/A8F50699" Ref="J10"  Part="1" 
+F 0 "J10" H 4200 7660 59  0000 L BNN
+F 1 "PJ301_THONKICONN6" H 4300 7500 50  0001 C CNN
+F 2 "marbles_v70:WQP_PJ_301M6" H 4300 7500 50  0001 C CNN
+F 3 "" H 4300 7500 50  0001 C CNN
+	1    4300 7500
+	1    0    0    -1  
+$EndComp
+Text Notes 8100 1400 0    59   ~ 0
+-5.3V to 5.3V
+Text Notes 7800 7200 0    59   ~ 0
+0V to 8V
+Text Notes 11600 7200 0    59   ~ 0
+0V to 8V
+Text Notes 12300 9700 0    85   ~ 0
+cc-by-sa
+Text Notes 14400 9700 0    85   ~ 0
+Outputs
+Text Notes 4400 4300 0    59   ~ 0
+1.00V
+Text Notes 4000 7200 0    59   ~ 0
+0V to 8V
+Text Notes 11800 1300 0    59   ~ 0
+-5.3V to 5.3V
+Text Notes 11900 4300 0    59   ~ 0
+-5.3V to 5.3V
+Text Notes 8100 4300 0    59   ~ 0
+-5.3V to 5.3V
+Text Notes 12300 9900 0    85   ~ 0
+Émilie Gillet
+Text Notes 12300 10100 0    85   ~ 0
+emilie.o.gillet@gmail.com
+$EndSCHEMATC
