@@ -1,4 +1,4 @@
-7427983801384791
+7456243445905097
 Button_Switch_SMD
 Nidec_Copal_CAS-120A
 Slide Switch, SMD, Nidec CAS series, https://www.nidec-components.com/e/catalog/switch/cas.pdf
@@ -1819,6 +1819,27 @@ SW PUSH SMALL Tactile C&K
 0
 4
 2
+Button_Switch_THT
+SW_XKB_DM1-16UC-1
+1A 30V SPDT Micro Switch rated for one million cycles, W12.7xD5.7xH6.6, https://www.helloxkb.com/public/images/pdf/DMX-XXXC-X.pdf
+SPDT endstop limit switch clockwise hook lever XKB DM1-16UC-1
+0
+3
+3
+Button_Switch_THT
+SW_XKB_DM1-16UD-1
+1A 30V SPDT Micro Switch rated for one million cycles, W12.7xD5.7xH6.6, https://www.helloxkb.com/public/images/pdf/DMX-XXXD-X.pdf
+SPDT endstop limit switch anti-clockwise hook lever XKB DM1-16UD-1
+0
+3
+3
+Button_Switch_THT
+SW_XKB_DM1-16UP-1
+1A 30V SPDT Micro Switch rated for one million cycles, W12.7xD5.7xH6.6, https://www.helloxkb.com/public/images/pdf/DMX-XXXP-X.pdf
+SPDT endstop limit switch vertical hook lever XKB DM1-16UP-1
+0
+3
+3
 Capacitor_SMD
 CP_Elec_3x5.3
 SMT capacitor, aluminium electrolytic, 3x5.3, Cornell Dubilier Electronics 
@@ -13594,8 +13615,15 @@ USB Micro-B horizontal SMD
 11
 6
 Connector_USB
+USB_Micro-B_Amphenol_10118194-0001LF_Horizontal
+USB Micro-B receptacle, horizontal, SMD, 10118194, 10118194-0001LF, 10118194-0002LF, 10118194-0101LF, 10118194-1001LF, https://cdn.amphenol-icc.com/media/wysiwyg/files/drawing/10118194.pdf
+USB Micro B horizontal SMD
+0
+17
+6
+Connector_USB
 USB_Micro-B_Amphenol_10118194_Horizontal
-USB Micro-B receptacle, horizontal, SMD, 10118194, https://cdn.amphenol-icc.com/media/wysiwyg/files/drawing/10118194.pdf
+USB Micro-B receptacle, horizontal, SMD, 10118194, 10118194-0011LF, 10118194-0012LF, https://cdn.amphenol-icc.com/media/wysiwyg/files/drawing/10118194.pdf
 USB Micro B horizontal SMD
 0
 17
@@ -24395,6 +24423,13 @@ SSO Stretched SO SOIC Pitch 1.27
 8
 8
 Package_SO
+SSOP-4_4.4x2.6mm_P1.27mm
+SSOP, 4 Pin (https://www.vishay.com/docs/83465/vos618a.pdf), generated with kicad-footprint-generator ipc_gullwing_generator.py
+SSOP SO
+0
+4
+4
+Package_SO
 SSOP-8_2.95x2.8mm_P0.65mm
 SSOP-8 2.9 x2.8mm Pitch 0.65mm
 SSOP-8 2.95x2.8mm Pitch 0.65mm
@@ -28549,6 +28584,13 @@ Symbol
 RoHS-Logo_40mm_SilkScreen
 Restriction of Hazardous Substances Directive Logo
 Logo RoHS
+0
+0
+0
+Symbol
+Smolhaj_Scale_0.1
+BLÅHAJ , smol 50cm nominal, 1:10 scale (56mm Snoot-Flosse), MPN 205.406.63 (https://www.ikea.com/gb/en/p/blahaj-soft-toy-baby-shark-20540663/)
+Ikea Smol Haj
 0
 0
 0

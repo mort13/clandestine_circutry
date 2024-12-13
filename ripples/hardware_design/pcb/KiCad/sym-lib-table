@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name "ripples_v40-eagle-import")(type "KiCad")(uri "${KIPRJMOD}/ripples_v40-eagle-import.kicad_sym")(options "")(descr ""))
+)

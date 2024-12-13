@@ -36,6 +36,7 @@
 		(effects
 			(font
 				(size 1.27 1.27)
+				(thickness 0.15)
 			)
 		)
 	)
@@ -48,6 +49,7 @@
 		(effects
 			(font
 				(size 1.27 1.27)
+				(thickness 0.15)
 			)
 		)
 	)
@@ -60,6 +62,7 @@
 		(effects
 			(font
 				(size 1.27 1.27)
+				(thickness 0.15)
 			)
 		)
 	)
@@ -241,12 +244,12 @@
 		(remove_unused_layers no)
 		(uuid "40b26d37-c23b-476e-a092-12ce5b7c794c")
 	)
-	(model "${KICAD_4MS_LIBS}/3dmodels/Jack.3dshapes/PJ301M-12.WRL"
+	(model "${CLANDESTINE_CIRCUTRY}/Jacks/stp/PJ398SM.stp"
 		(offset
-			(xyz -0.8762999866 0.4063999939 0)
+			(xyz 0 0 0)
 		)
 		(scale
-			(xyz 393 393 393)
+			(xyz 1 1 1)
 		)
 		(rotate
 			(xyz 0 0 -90)

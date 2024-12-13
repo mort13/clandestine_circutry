@@ -2873,12 +2873,6 @@
 		(uuid "33124b5a-767e-4663-897c-657d2ab7f2cf")
 	)
 	(junction
-		(at 139.7 120.65)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "360c4f90-349a-489d-ba28-3d87ffd06fb7")
-	)
-	(junction
 		(at 31.75 111.76)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -3217,16 +3211,6 @@
 			(type default)
 		)
 		(uuid "23517bc9-5342-4509-bf76-98ab9052560b")
-	)
-	(wire
-		(pts
-			(xy 31.75 92.71) (xy 40.64 92.71)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "2546fca5-68bc-4dce-9ab0-d10dc767f8ab")
 	)
 	(wire
 		(pts
@@ -3740,16 +3724,6 @@
 	)
 	(wire
 		(pts
-			(xy 139.7 120.65) (xy 139.7 106.68)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "b40c5bea-dd60-421d-9a09-8d5a3e0fbbdf")
-	)
-	(wire
-		(pts
 			(xy 85.09 163.83) (xy 85.09 161.29)
 		)
 		(stroke
@@ -3860,7 +3834,7 @@
 	)
 	(wire
 		(pts
-			(xy 139.7 120.65) (xy 143.51 120.65)
+			(xy 135.89 120.65) (xy 143.51 120.65)
 		)
 		(stroke
 			(width 0)
@@ -3947,16 +3921,6 @@
 			(type default)
 		)
 		(uuid "e884df28-1efe-46f6-bf16-1f3914f6dfbf")
-	)
-	(wire
-		(pts
-			(xy 135.89 120.65) (xy 139.7 120.65)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "e9ac64fb-3912-484c-ac8d-149b977e080b")
 	)
 	(wire
 		(pts
@@ -4143,7 +4107,7 @@
 				)
 			)
 		)
-		(property "Value" "10M"
+		(property "Value" "0"
 			(at 52.07 38.1 90)
 			(effects
 				(font
@@ -4402,7 +4366,7 @@
 		(lib_id "PCM_4ms_Capacitor:47uF_5x5.3_16V")
 		(at 119.38 171.45 0)
 		(unit 1)
-		(exclude_from_sim no)
+		(exclude_from_sim yes)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
@@ -5369,7 +5333,7 @@
 				)
 			)
 		)
-		(property "Value" "6M8"
+		(property "Value" "1M"
 			(at 54.61 21.59 90)
 			(effects
 				(font
@@ -6104,7 +6068,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "10u"
+		(property "Value" "1u"
 			(at 86.36 115.5699 0)
 			(effects
 				(font
@@ -7158,7 +7122,7 @@
 				)
 			)
 		)
-		(property "Value" "560k"
+		(property "Value" "120k"
 			(at 59.69 55.88 90)
 			(effects
 				(font
@@ -8521,7 +8485,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "12"
+		(property "Value" "11.8"
 			(at 60.96 167.7697 0)
 			(effects
 				(font
@@ -8861,7 +8825,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "12"
+		(property "Value" "10.8"
 			(at 43.18 167.5101 0)
 			(effects
 				(font
@@ -9024,7 +8988,7 @@
 				)
 			)
 		)
-		(property "Value" "1M"
+		(property "Value" "100k"
 			(at 92.71 83.82 90)
 			(effects
 				(font
@@ -9158,7 +9122,7 @@
 				)
 			)
 		)
-		(property "Value" "1M"
+		(property "Value" "100k"
 			(at 73.66 83.82 90)
 			(effects
 				(font
@@ -9212,7 +9176,7 @@
 		(lib_id "PCM_4ms_Capacitor:47uF_5x5.3_16V")
 		(at 119.38 166.37 0)
 		(unit 1)
-		(exclude_from_sim no)
+		(exclude_from_sim yes)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
@@ -9599,7 +9563,7 @@
 				(hide yes)
 			)
 		)
-		(property "Sim.Params" "r=100k"
+		(property "Sim.Params" "r=0"
 			(at 82.55 71.12 0)
 			(effects
 				(font

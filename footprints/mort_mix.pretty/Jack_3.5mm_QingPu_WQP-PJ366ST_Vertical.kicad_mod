@@ -36,6 +36,7 @@
 		(effects
 			(font
 				(size 1.27 1.27)
+				(thickness 0.15)
 			)
 		)
 	)
@@ -48,6 +49,7 @@
 		(effects
 			(font
 				(size 1.27 1.27)
+				(thickness 0.15)
 			)
 		)
 	)
@@ -60,6 +62,7 @@
 		(effects
 			(font
 				(size 1.27 1.27)
+				(thickness 0.15)
 			)
 		)
 	)
@@ -367,29 +370,7 @@
 		(roundrect_rratio 0.25)
 		(uuid "c1e2be99-2994-4816-bf67-5b4002ec469a")
 	)
-	(model "${KISYS3DMOD}/AudioJacks.3dshapes/PJ366ST.step"
-		(offset
-			(xyz 0 0 0)
-		)
-		(scale
-			(xyz 1 1 1)
-		)
-		(rotate
-			(xyz 0 0 0)
-		)
-	)
-	(model "${KISYS3DMOD}/AudioJacks.3dshapes/PJ366ST_Hex_nut.step"
-		(offset
-			(xyz 0 0 0)
-		)
-		(scale
-			(xyz 1 1 1)
-		)
-		(rotate
-			(xyz 0 0 0)
-		)
-	)
-	(model "${KISYS3DMOD}/AudioJacks.3dshapes/PJ366ST_Knurl_nut.step"
+	(model "${CLANDESTINE_CIRCUTRY}/Jacks/stp/WQP-WQP419GR.stp"
 		(offset
 			(xyz 0 0 0)
 		)

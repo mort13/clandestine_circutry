@@ -312,15 +312,15 @@
 		(remove_unused_layers no)
 		(uuid "927b3020-d809-4bd9-95fd-49dd74c263e6")
 	)
-	(model "${KICAD8_3DMODEL_DIR}/Potentiometer_THT.3dshapes/Potentiometer_Alpha_RD901F-40-00D_Single_Vertical.wrl"
+	(model "${CLANDESTINE_CIRCUTRY}/RD901-40-00D/RD901F-40-15R1.step"
 		(offset
-			(xyz -7.5 2.5 0)
+			(xyz 0 0 0)
 		)
 		(scale
 			(xyz 1 1 1)
 		)
 		(rotate
-			(xyz 0 0 0)
+			(xyz 0 0 90)
 		)
 	)
 )
