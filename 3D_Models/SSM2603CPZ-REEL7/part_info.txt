@@ -1,0 +1,9 @@
+Manufacturer=Analog Devices
+PartNumber=SSM2603CPZ-REEL7
+PartCategory=Integrated Circuit
+PackageCategory=Quad Flat No-Lead
+PinCount=29
+Version=3.1
+Released=2017-01-11 11:21:59
+Downloaded=2025-01-02 00:17:57
+3D=Y

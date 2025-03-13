@@ -1,0 +1,18 @@
+.SSM2603CPZ-REEL7 :1 ;Low Power Audio Codec
+QFN50P500X500X80-29N-D
+*STM IC
+*NGS
+*PLB 1="MCLK/XTI" 2="XTO" 3="DCVDD" 4="DGND" 5="DBVDD" 6="CLKOUT" 7="BCLK" 8="PBDAT" 9="PBLRC" 10="RECDAT" 11="RECLRC" 12="HPVDD" 13="LHPOUT" 14="RHPOUT" 15="PGND" 16="LOUT" 17="ROUT" 18="AVDD" 19="AGND" 20="VMID" 21="MICBIAS" 22="MICIN" 23="RLINEIN" 24="LLINEIN" 25="MUTE" 26="CSB" 27="SDIN" 28="SCLK" 29="EP"
+*MXP 29
+*DFN SSM2603CPZ-REEL7
+~!Manufacturer_Name (Analog Devices)
+~!Manufacturer_Part_Number (SSM2603CPZ-REEL7)
+~!Mouser Part Number (584-SSM2603CPZ-R7)
+~!Link Mouser Price/Stock (https://www.mouser.co.uk/ProductDetail/Analog-Devices/SSM2603CPZ-REEL7?qs=WIvQP4zGangXbW6vE18nlQ%3D%3D)
+~!Arrow Part Number (SSM2603CPZ-REEL7)
+~!Link Arrow Price/Stock (https://www.arrow.com/en/products/ssm2603cpz-reel7/analog-devices)
+~!Link Datasheet (https://componentsearchengine.com/Datasheets/2/SSM2603CPZ-REEL7.pdf)
+~!Height (0.8mm)
+~!3D_Model (SSM2603CPZ-REEL7)
+SSM2603CPZ-REEL7
+1.1!U 2.1!U 3.1!U 4.1!U 5.1!U 6.1!U 7.1!U 8.1!U 9.1!U 10.1!U 11.1!U 12.1!U 13.1!U 14.1!U 21.1!U 20.1!U 19.1!U 18.1!U 17.1!U 16.1!U 15.1!U 29.1!U 28.1!U 27.1!U 26.1!U 25.1!U 24.1!U 23.1!U 22.1!U 

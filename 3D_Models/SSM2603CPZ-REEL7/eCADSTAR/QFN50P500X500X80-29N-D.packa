@@ -1,0 +1,13 @@
+(unit MM)
+
+(package "SSM2603CPZ-REEL7"
+    (type UNDEF)
+    (uver 2)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (utime 2023-01-20-11:07:55)
+    (mountForm default
+        (footprintRef "QFN50P500X500X80-29N-D")
+        (spec "System")
+    )
+)
